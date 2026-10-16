@@ -1,0 +1,38 @@
+Chat Autónomos España
+Copyright (c) 2026 David
+
+This product includes software developed as an open-source project under the MIT License.
+
+================================================================================
+THIRD-PARTY MODEL NOTICES AND ATTRIBUTION
+================================================================================
+
+1. Jina-Reranker-v3.5
+   - Developer: Jina AI GmbH (https://jina.ai)
+   - Repository: https://huggingface.co/jinaai/jina-reranker-v3.5
+   - License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+     https://creativecommons.org/licenses/by-nc/4.0/
+   - Usage: Used solely for non-commercial research, demonstration, and open-source portfolio purposes.
+
+2. Qwen2.5 Models (Qwen2.5-1.5B-Instruct, Qwen2.5-3B-Instruct, Qwen2.5-7B-Instruct)
+   - Developer: Alibaba Cloud / Qwen Team (https://github.com/QwenLM/Qwen2.5)
+   - Repositories:
+     - Qwen2.5-1.5B-Instruct: https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct (Apache 2.0)
+     - Qwen2.5-7B-Instruct: https://huggingface.co/Qwen/Qwen2.5-7B-Instruct (Apache 2.0)
+     - Qwen2.5-3B-Instruct: https://huggingface.co/Qwen/Qwen2.5-3B-Instruct (Qwen Research License)
+
+3. BAAI/bge-m3 (BAAI General Embedding M3)
+   - Developer: Beijing Academy of Artificial Intelligence (BAAI)
+   - Repository: https://huggingface.co/BAAI/bge-m3
+   - License: MIT License (https://huggingface.co/BAAI/bge-m3/blob/main/LICENSE)
+
+================================================================================
+PUBLIC SECTOR INFORMATION REUSE (DATOS ABIERTOS BOE)
+================================================================================
+
+Los textos normativos y legislativos incorporados en este corpus proceden de la 
+Agencia Estatal Boletín Oficial del Estado (BOE) y se reutilizan de conformidad con 
+la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+- Fuente oficial: https://www.boe.es/datosabiertos/
+- La información se mantiene con fines informativos y de orientación general.
+

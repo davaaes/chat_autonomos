@@ -1,0 +1,41 @@
+# Git
+.git
+.gitignore
+
+# Entornos virtuales y paquetes
+.venv
+venv
+env
+*.egg-info
+dist
+build
+
+# Caches y bytecode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.coverage
+htmlcov
+
+# Logs y bases de datos locales temporales
+*.log
+default.trulens_recorder.sqlite
+trulens.sqlite
+
+# Documentación y notas privadas
+docs/
+.gemini/
+
+# Entorno local
+.env
+
+# Pesos y artefactos de modelos IA
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.gguf
+*.onnx
+

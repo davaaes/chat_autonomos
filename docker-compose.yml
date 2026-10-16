@@ -1,0 +1,81 @@
+services:
+  # Servicio de inferencia local Ollama
+  ollama:
+    image: ollama/ollama:latest
+    container_name: chat_autonomos_ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    environment:
+      - OLLAMA_KEEP_ALIVE=24h
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list > /dev/null 2>&1 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 5s
+    restart: unless-stopped
+
+  # Tarea de inicialización: descarga automática de modelos en el primer arranque
+  ollama-init:
+    image: ollama/ollama:latest
+    container_name: chat_autonomos_ollama_init
+    environment:
+      - OLLAMA_HOST=ollama:11434
+    depends_on:
+      ollama:
+        condition: service_healthy
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        echo "=== Comprobando modelos en Ollama ==="
+        ollama pull qwen2.5:3b
+        ollama pull qwen2.5:1.5b
+        ollama pull bge-m3
+        echo "=== Modelos inicializados con exito ==="
+    restart: "no"
+
+  # Aplicación web RAG (Starlette + LlamaIndex + Guardrails)
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chat_autonomos_web
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - OMP_NUM_THREADS=2
+      - MKL_NUM_THREADS=2
+      - OPENBLAS_NUM_THREADS=2
+    depends_on:
+      ollama-init:
+        condition: service_completed_successfully
+    volumes:
+      - hf_cache:/root/.cache/huggingface
+      - ./data/indices:/app/data/indices
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+
+volumes:
+  ollama_models:
+    name: chat_autonomos_ollama_models
+  hf_cache:
+    name: chat_autonomos_hf_cache
+

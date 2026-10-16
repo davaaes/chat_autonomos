@@ -1,0 +1,532 @@
+# DOC-02 - RDLeg 8/2015
+
+- BOE ID: BOE-A-2015-11724
+- Alcance: Artículos 305 a 333
+
+## Artículo 305. Extensión
+
+Artículo 305. Extensión
+
+1. Estarán obligatoriamente incluidas en el campo de aplicación del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos las personas físicas mayores de dieciocho años que realicen de forma habitual, personal, directa, por cuenta propia y fuera del ámbito de dirección y organización de otra persona, una actividad económica o profesional a título lucrativo, den o no ocupación a trabajadores por cuenta ajena, en los términos y condiciones que se determinen en esta ley y en sus normas de aplicación y desarrollo.
+
+2. A los efectos de esta ley se declaran expresamente comprendidos en este régimen especial:
+
+a) Los trabajadores incluidos en el Sistema Especial para Trabajadores por Cuenta Propia Agrarios.
+
+b) Quienes ejerzan las funciones de dirección y gerencia que conlleva el desempeño del cargo de consejero o administrador, o presten otros servicios para una sociedad de capital, a título lucrativo y de forma habitual, personal y directa, siempre que posean el control efectivo, directo o indirecto, de aquella. Se entenderá, en todo caso, que se produce tal circunstancia, cuando las acciones o participaciones del trabajador supongan, al menos, la mitad del capital social.
+
+Se presumirá, salvo prueba en contrario, que el trabajador posee el control efectivo de la sociedad cuando concurra alguna de las siguientes circunstancias:
+
+1.º Que, al menos, la mitad del capital de la sociedad para la que preste sus servicios esté distribuido entre socios con los que conviva y a quienes se encuentre unido por vínculo conyugal o de parentesco por consanguinidad, afinidad o adopción, hasta el segundo grado.
+
+2.º Que su participación en el capital social sea igual o superior a la tercera parte del mismo.
+
+3.º Que su participación en el capital social sea igual o superior a la cuarta parte del mismo, si tiene atribuidas funciones de dirección y gerencia de la sociedad.
+
+En los supuestos en que no concurran las circunstancias anteriores, la Administración podrá demostrar, por cualquier medio de prueba, que el trabajador dispone del control efectivo de la sociedad.
+
+c) Los socios industriales de sociedades regulares colectivas y de sociedades comanditarias a los que se refiere el artículo 1.2.a) de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
+
+d) Los comuneros de las comunidades de bienes y los socios de sociedades civiles irregulares, salvo que su actividad se limite a la mera administración de los bienes puestos en común, a los que se refiere el artículo 1.2.b) de la Ley 20/2007, de 11 de julio.
+
+e) Los socios trabajadores de las sociedades laborales cuando su participación en el capital social junto con la de su cónyuge y parientes por consanguinidad, afinidad o adopción hasta el segundo grado con los que convivan alcance, al menos, el 50 por ciento, salvo que acrediten que el ejercicio del control efectivo de la sociedad requiere el concurso de personas ajenas a las relaciones familiares.
+
+f) Los trabajadores autónomos económicamente dependientes a los que se refiere la Ley 20/2007, de 11 de julio.
+
+g) Quienes ejerzan una actividad por cuenta propia, en las condiciones establecidas en el apartado 1, que requiera la incorporación a un colegio profesional, sin perjuicio de lo previsto en la disposición adicional decimoctava.
+
+h) Los miembros del Cuerpo Único de Notarios.
+
+i) Los miembros del Cuerpo de Registradores de la Propiedad, Mercantiles y de Bienes Muebles, así como los del Cuerpo de Aspirantes.
+
+j) Las personas incluidas en el ámbito de aplicación de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, que presten servicios, a tiempo completo, en los servicios de salud de las diferentes comunidades autónomas o en los centros dependientes del Instituto Nacional de Gestión Sanitaria, por las actividades complementarias privadas que realicen y que determinen su inclusión en el sistema de la Seguridad Social, sin perjuicio de lo previsto en la disposición adicional decimoctava.
+
+k) El cónyuge y los parientes del trabajador por cuenta propia o autónomo que, conforme a lo señalado en el artículo 12.1 y en el apartado 1 de este artículo, realicen trabajos de forma habitual y no tengan la consideración de trabajadores por cuenta ajena.
+
+l) Los socios trabajadores de las cooperativas de trabajo asociado dedicados a la venta ambulante que perciban ingresos directamente de los compradores.
+
+m) Quienes ejerzan por cuenta propia cualquiera de las actividades artísticas a que se refiere el artículo 249 quater.1.
+
+n) Cualesquiera otras personas que, por razón de su actividad, sean objeto de inclusión mediante norma reglamentaria, conforme a lo dispuesto en el artículo 7.1.b).
+
+## Artículo 306. Exclusiones
+
+Artículo 306. Exclusiones
+
+1. Estarán excluidos de este régimen especial los trabajadores por cuenta propia o autónomos a que se refiere el artículo anterior cuando por razón de su actividad marítimo-pesquera deban quedar comprendidos en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar.
+
+2. No estarán comprendidos en el sistema de Seguridad Social los socios, sean o no administradores, de sociedades de capital cuyo objeto social no esté constituido por el ejercicio de actividades empresariales o profesionales, sino por la mera administración del patrimonio de los socios.
+
+## Artículo 307. Afiliación, altas, bajas y variaciones de datos
+
+Artículo 307. Afiliación, altas, bajas y variaciones de datos
+
+Las personas trabajadoras autónomas están obligadas a solicitar su afiliación al sistema de la Seguridad Social y a comunicar sus altas, bajas y variaciones de datos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos en los términos, plazos y condiciones establecidos en esta ley y en sus disposiciones de aplicación y desarrollo.
+
+## Artículo 308. Cotización y recaudación
+
+Artículo 308. Cotización y recaudación
+
+1. Las personas trabajadoras por cuenta propia o autónomas incluidas en este régimen especial de acuerdo con lo establecido en el artículo 305, cotizarán en función de los rendimientos anuales obtenidos en el ejercicio de sus actividades económicas, empresariales o profesionales, en los términos señalados en los párrafos a), b) y c) de este apartado.
+
+A efectos de determinar la base de cotización en este régimen especial se tendrán en cuenta la totalidad de los rendimientos netos obtenidos por los referidos trabajadores, durante cada año natural, por sus distintas actividades profesionales o económicas, aunque el desempeño de algunas de ellas no determine su inclusión en el sistema de la Seguridad Social y con independencia de que las realicen a título individual o como socios o integrantes de cualquier tipo de entidad, con o sin personalidad jurídica, siempre y cuando no deban figurar por ellas en alta como trabajadores por cuenta ajena o asimilados a estos.
+
+En este sentido, la Ley de Presupuestos Generales del Estado establecerá anualmente una tabla general y una tabla reducida de bases de cotización para este régimen especial. Ambas tablas se dividirán en tramos consecutivos de importes de rendimientos netos mensuales. A cada uno de dichos tramos de rendimientos netos se asignará una base de cotización mínima mensual y una base de cotización máxima mensual.
+
+En el caso de la tabla general de rendimientos, el tramo 1 tendrá como límite inferior de rendimientos el importe de la base mínima de cotización establecida para el Régimen General de la Seguridad Social.
+
+La cotización a que se refiere este apartado se determinará en los términos siguientes:
+
+a) La base de cotización para todas las contingencias y situaciones amparadas por la acción protectora de este régimen especial se determinará durante cada año natural conforme a las siguientes reglas, así como a las demás condiciones que se determinen reglamentariamente:
+
+1.ª Las personas trabajadoras por cuenta propia o autónomas deberán elegir la base de cotización mensual que corresponda en función de su previsión del promedio mensual de sus rendimientos netos anuales dentro de la tabla general de bases fijada en la respectiva Ley de Presupuestos Generales del Estado.
+
+2.ª Cuando prevean que el promedio mensual de sus rendimientos netos anuales pueda quedar por debajo del importe de aquellos que determinen la base mínima del tramo 1 de la tabla general establecida para cada ejercicio en este régimen especial, las personas trabajadoras por cuenta propia o autónomas deberán elegir una base de cotización mensual inferior a aquella, dentro de la tabla reducida de bases que se determinará al efecto, anualmente en la Ley de Presupuestos Generales del Estado.
+
+3.ª Las personas trabajadoras por cuenta propia o autónomas deberán cambiar su base de cotización, en los términos que se determinen reglamentariamente, a fin de ajustar su cotización anual a las previsiones que vayan teniendo de sus rendimientos netos anuales, pudiendo optar a tal efecto por cualquiera de las bases de cotización comprendidas en las tablas a que se refieren las reglas 1.ª y 2.ª, excepto en los supuestos a que se refieren las reglas 4.ª y 5.ª
+
+4.ª Los familiares de las personas trabajadoras por cuenta propia o autónomas incluidas en este régimen especial al amparo de lo establecido en el artículo 305.2.k), así como las personas trabajadoras por cuenta propia o autónomas incluidas en este régimen especial al amparo de lo establecido en las letras b) y e) del artículo 305.2 de esta ley no podrán elegir una base de cotización mensual inferior a aquella que determine la correspondiente Ley de Presupuestos Generales del Estado como base de cotización mínima para contingencias comunes para los trabajadores incluidos en el Régimen General de la Seguridad Social del grupo de cotización 7. A tal efecto, en el procedimiento de regularización a que se refiere el apartado c) del presente artículo, la base de cotización definitiva no podrá ser inferior a dicha base mínima.
+
+Para la aplicación de esta base de cotización mínima bastará con haber figurado noventa días en alta en este régimen especial, en cualquiera de los supuestos contemplados en las referidas letras, durante el período a regularizar al que se refiere la letra c).
+
+5.ª En los supuestos de alta de oficio en este régimen especial, durante el período comprendido entre la fecha del alta y el último día del mes natural inmediatamente anterior a la fecha de efectos del alta, así como durante el período comprendido entre el inicio de la actividad por cuenta propia y el mes en el que se solicite el alta, de formularse esta solicitud a partir del mes siguiente al del inicio de la actividad, la base de cotización mensual aplicable será la base mínima del tramo 1 de la tabla general a que se refiere la regla 1.ª, establecida en cada ejercicio, salvo que, en las altas de oficio efectuadas a propuesta de la Inspección de Trabajo y Seguridad Social, esta hubiese fijado expresamente otra base de cotización mensual superior. En los períodos indicados no resultará de aplicación el procedimiento de regularización a que se refiere el párrafo c) de este apartado 1.
+
+6.ª Las bases de cotización mensuales elegidas dentro de cada año conforme a lo indicado en las reglas 1.ª a 5.ª tendrán carácter provisional, hasta que se proceda a su regularización en los términos del párrafo c).
+
+b) La cotización mensual en este régimen especial se obtendrá mediante la aplicación, a la base de cotización determinada conforme al párrafo a), de los tipos de cotización que la Ley de Presupuestos Generales del Estado establezca cada año para financiar las contingencias comunes y profesionales de la Seguridad Social, la protección por cese de actividad y la formación profesional de las personas trabajadoras por cuenta propia o autónomas incluidas en el mismo.
+
+La falta de ingreso de la cotización dentro de plazo reglamentario determinará su reclamación junto con los recargos e intereses que correspondan, en los términos previstos en los artículos 28 y siguientes de esta ley y en sus disposiciones de aplicación y desarrollo.
+
+c) La regularización de la cotización en este régimen especial, a efectos de determinar las bases de cotización y las cuotas mensuales definitivas del correspondiente año, se efectuará en función de los rendimientos anuales una vez obtenidos y comunicados telemáticamente por la correspondiente Administración tributaria a partir del año siguiente, respecto a cada persona trabajadora por cuenta propia o autónoma, conforme a las siguientes reglas:
+
+1.ª Los importes económicos que determinarán las bases de cotización y las cuotas mensuales definitivas estarán constituidos por los rendimientos computables procedentes de todas las actividades económicas, empresariales o profesionales, ejercidas por la persona trabajadora por cuenta propia o autónoma en cada ejercicio, a título individual o como socio o integrante de cualquier tipo de entidad en los términos establecidos en el presente artículo.
+
+El rendimiento computable de cada una de las actividades ejercidas por la persona trabajadora por cuenta propia o autónoma se calculará de acuerdo con lo previsto en las normas del Impuesto sobre la Renta de las Personas Físicas para el cálculo del rendimiento neto, en los términos previstos en el presente artículo.
+
+Para las actividades económicas que determinen el rendimiento neto por el método de estimación directa, el rendimiento computable será el rendimiento neto, incrementado en el importe de las cuotas de la Seguridad Social y aportaciones a mutualidades alternativas del titular de la actividad.
+
+Para las actividades económicas que determinen el rendimiento neto por el método de estimación objetiva, el rendimiento computable será el rendimiento neto previo minorado en el caso de actividades agrícolas, forestales y ganaderas y el rendimiento neto previo en el resto de supuestos.
+
+Para los rendimientos de actividades económicas imputados al contribuyente por entidades en atribución de rentas, el rendimiento computable imputado a la persona trabajadora por cuenta propia o autónoma será, para el método de estimación directa, el rendimiento neto y, para el método de estimación objetiva, en el caso de actividades agrícolas, forestales y ganaderas, el rendimiento neto minorado, y el rendimiento neto previo en el resto de los supuestos.
+
+En el caso de los trabajadores por cuenta propia o autónomos a los que se refiere el artículo 305.2.b), se computarán en los términos que se determinen reglamentariamente, la totalidad de los rendimientos íntegros, dinerarios o en especie, derivados de la participación en los fondos propios de aquellas entidades en las que reúna, en la fecha de devengo del Impuesto sobre Sociedades, una participación igual o superior al 33 % del capital social o teniendo la condición de administrador, una participación igual o superior al 25%, así como la totalidad de los rendimientos de trabajo derivados de su actividad en dichas entidades.
+
+Del mismo modo se computarán, de manera adicional a los rendimientos que pudieran obtener de su propia actividad económica, los rendimientos íntegros de trabajo o capital mobiliario, dinerarios o en especie, derivados de su condición de socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su inclusión en el Régimen Especial de Trabajadores Autónomos en virtud de lo establecido en el artículo 14.
+
+En el caso de las personas trabajadoras por cuenta propia o autónomas a los que se refiere el artículo 305.2, c), d) y e) se computarán además la totalidad de los rendimientos íntegros de trabajo o capital mobiliario, dinerarios o en especie, derivados de su condición de socios o comuneros en las entidades a las que se refiere dicho artículo.
+
+2.ª A los rendimientos indicados en la regla anterior se les aplicará una deducción por gastos genéricos del 7 por ciento, salvo en el caso de las personas trabajadoras por cuenta propia o autónomas incluidos en este régimen especial al amparo de lo establecido en las letras b) y e) del artículo 305.2 de esta ley, en que la deducción será del 3 por ciento.
+
+Para la aplicación del último porcentaje indicado del 3 por ciento bastará con haber figurado noventa días en alta en este régimen especial, en cualquiera de los supuestos contemplados en las referidas letras, durante el período a regularizar.
+
+3.ª Una vez fijado el importe de los rendimientos, se distribuirá proporcionalmente en el período a regularizar y se determinarán las bases de cotización mensuales definitivas y se procederá a regularizar la cotización provisional mensual efectuada por cada persona trabajadora por cuenta propia o autónoma en el año anterior, en los términos que se establezcan reglamentariamente, siempre y cuando su base de cotización definitiva no esté comprendida entre la base de cotización mínima y la máxima correspondiente al tramo en el que estén comprendidos sus rendimientos.
+
+4.ª Si la cotización provisional efectuada fuese inferior a la cuota correspondiente a la base mínima de cotización del tramo en el que estén comprendidos sus rendimientos, el trabajador por cuenta propia deberá ingresar la diferencia entre ambas cotizaciones hasta el último día del mes siguiente a aquel en que se le notifique el resultado de la regularización, sin aplicación de interés de demora ni recargo alguno de abonarse en ese plazo.
+
+Si la cotización provisional efectuada fuese superior a la cuota correspondiente a la base máxima del tramo en el que estén comprendidos sus rendimientos, la Tesorería General de la Seguridad Social procederá a devolver de oficio la diferencia entre ambas cotizaciones, sin aplicación de interés alguno, antes del 30 de abril del ejercicio siguiente a aquel en que la correspondiente Administración tributaria haya comunicado los rendimientos computables a la Tesorería General de la Seguridad Social.
+
+Sin perjuicio de lo indicado en los párrafos anteriores, determinada la base de cotización definitiva, las deudas generadas por las cuotas no ingresadas en período voluntario calculadas de acuerdo con las bases de cotización provisionales no serán objeto de devolución o modificación alguna. Con independencia de lo anterior, conforme a lo establecido en el primer párrafo si la base de cotización definitiva fuese superior al importe de la base de cotización provisional por la que se generó deuda, la diferencia deberá ser ingresada conforme a lo indicado en dicho primer párrafo.
+
+En ningún caso serán objeto de devolución los recargos e intereses.
+
+5.ª La base de cotización definitiva para aquellas personas trabajadoras por cuenta propia o autónomas que no hubiesen presentado la declaración del Impuesto de la Renta de las Personas Físicas ante la correspondiente Administración tributaria o que, habiéndola presentado, no hayan declarado ingresos a efectos de la determinación de los rendimientos netos cuando resulte de aplicación el régimen de estimación directa, será la base mínima de cotización para contingencias comunes para los trabajadores incluidos en el Régimen General de la Seguridad Social del grupo de cotización 7.
+
+6.ª En caso de que la correspondiente Administración tributaria efectúe modificaciones posteriores en los importes de los rendimientos anuales de la persona trabajadora por cuenta propia o autónoma que se han computado para la regularización, ya sea como consecuencia de actuaciones de oficio o a solicitud del trabajador, este podrá, en su caso, solicitar la devolución de lo ingresado indebidamente.
+
+En el caso de que la modificación posterior de los importes de los rendimientos anuales determine que los mismos sean superiores a los aplicados en la regularización, se pondrá en conocimiento del Organismo Estatal Inspección de Trabajo y Seguridad Social a efecto de que el mismo establezca, en su caso, la correspondiente regularización y determine los importes a ingresar, en los términos establecidos en el marco de la colaboración administrativa regulada en el artículo 141 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+A tal efecto la correspondiente Administración tributaria comunicará dichas modificaciones tanto a la Tesorería General de la Seguridad Social como al Organismo Estatal Inspección de Trabajo y Seguridad Social, a través de medios telemáticos.
+
+En los supuestos de este apartado, no se modificará, en caso alguno, el importe de las prestaciones de Seguridad Social causadas cuya cuantía será, por tanto, definitiva, resultando de aplicación lo establecido en el artículo 309.
+
+2. Sin perjuicio de lo dispuesto en los apartados anteriores de este artículo y de las especialidades reguladas en los artículos siguientes, en materia de cotización, liquidación y recaudación se aplicarán a este régimen especial las normas establecidas en el capítulo III del título I, y en sus disposiciones de aplicación y desarrollo.
+
+## Artículo 309. Cotización en los supuestos de reconocimiento de una prestación económica de la Seguridad Social con anterioridad a la regularización anual
+
+Artículo 309. Cotización en los supuestos de reconocimiento de una prestación económica de la Seguridad Social con anterioridad a la regularización anual
+
+1. Quedarán excluidas de la regularización prevista en la letra c) del artículo 308.1. las cotizaciones correspondientes a los meses cuyas bases de cotización hubiesen sido tenidas en cuenta para el cálculo de la base reguladora de cualquier prestación económica del sistema de la Seguridad Social reconocida con anterioridad a la fecha en que se hubiese realizado dicha regularización.
+
+Igualmente, quedarán excluidas de la regularización las bases de cotización posteriores a las referidas en el párrafo anterior hasta el mes en que se produzca el hecho causante.
+
+En consecuencia, las bases de cotización a las que se ha hecho referencia en los párrafos anteriores adquirirán carácter definitivo respecto de esos meses, sin que proceda la revisión del importe de las prestaciones causadas.
+
+Del mismo modo, durante los períodos en que las personas trabajadoras por cuenta propia o autónomas perciban prestaciones por incapacidad temporal, riesgo durante el embarazo, riesgo durante la lactancia natural, nacimiento y cuidado de menor y ejercicio corresponsable del cuidado del lactante, así como por cese de actividad o para la sostenibilidad de la actividad de las personas trabajadoras por cuenta propia o autónomas en su modalidad cíclica o sectorial, en aquellos supuestos en los que deban permanecer en alta en este régimen especial, la base de cotización mensual aplicada adquirirá carácter definitivo y, en consecuencia, no será objeto de la regularización prevista en la letra c) del artículo 308.1.
+
+2. En la situación de incapacidad temporal con derecho a prestación económica, transcurridos sesenta días en dicha situación desde la baja médica, corresponderá hacer efectivo el pago de las cuotas, por todas las contingencias, a la mutua colaboradora con la Seguridad Social o, en su caso, al Servicio Público de Empleo Estatal.
+
+## Artículo 310. Cotización en supuestos de compatibilidad de jubilación y trabajo por cuenta propia
+
+Artículo 310. Cotización en supuestos de compatibilidad de jubilación y trabajo por cuenta propia
+
+1. Durante la realización de un trabajo por cuenta propia compatible con la pensión de jubilación, en los términos establecidos en el artículo 214, las personas trabajadoras por cuenta propia o autónomas cotizarán a este régimen especial únicamente por incapacidad temporal y por contingencias profesionales, conforme a lo previsto en este capítulo, si bien quedarán sujetos a una cotización especial de solidaridad del 9 por ciento sobre su base de cotización por contingencias comunes, no computable a efectos de prestaciones.
+
+2. También estarán sujetos a una cotización de solidaridad del 9 por ciento sobre la base mínima de cotización del tramo 1 de la tabla general a la que se refiere la regla 1.ª del artículo 308.1 los pensionistas de jubilación que compatibilicen la pensión con una actividad económica o profesional por cuenta propia estando incluidos en una mutualidad alternativa al citado régimen especial al amparo de lo establecido en la disposición adicional decimoctava, la cual no será computable a efectos de prestaciones.
+
+La cuota correspondiente se deducirá mensualmente del importe de la pensión.
+
+## Artículo 311. Cotización al régimen especial a partir de la edad de jubilación
+
+Artículo 311. Cotización al régimen especial a partir de la edad de jubilación
+
+Los trabajadores incluidos en este régimen especial quedarán exentos de cotizar a la Seguridad Social, salvo, por incapacidad temporal y por contingencias profesionales, una vez hayan alcanzado la edad de acceso a la pensión de jubilación que en cada caso resulte de aplicación según lo establecido en el artículo 205.1.a).
+
+## Artículo 312. Base mínima de cotización para determinados trabajadores autónomos
+
+Artículo 312. Base mínima de cotización para determinados trabajadores autónomos
+
+(Derogado)
+
+## Artículo 313. Cotización en supuestos de pluriactividad
+
+Artículo 313. Cotización en supuestos de pluriactividad
+
+Las personas trabajadoras por cuenta propia o autónomas que, en razón de un trabajo por cuenta ajena desarrollado simultáneamente, coticen en régimen de pluriactividad, teniendo en cuenta tanto las cotizaciones efectuadas en este régimen especial como las aportaciones empresariales y las correspondientes al trabajador en el régimen de Seguridad Social que corresponda por su actividad por cuenta ajena, tendrán derecho al reintegro del 50 por ciento del exceso en que sus cotizaciones por contingencias comunes superen la cuantía que se establezca a tal efecto por la Ley de Presupuestos Generales del Estado para cada ejercicio, con el tope del 50 por ciento de las cuotas ingresadas en este régimen especial en razón de su cotización por las contingencias comunes.
+
+En tales supuestos, la Tesorería General de la Seguridad Social procederá a abonar el reintegro que en cada caso corresponda en un plazo máximo de cuatro meses desde la regularización prevista en el artículo 308.1.c) salvo cuando concurran especialidades en la cotización que impidan efectuarlo en ese plazo o resulte necesaria la aportación de datos por parte del interesado, en cuyo caso el reintegro se realizará con posterioridad al mismo.
+
+## Artículo 314. Alcance de la acción protectora
+
+Artículo 314. Alcance de la acción protectora
+
+La acción protectora de este régimen especial será la establecida en el artículo 42, con excepción de la protección por desempleo y las prestaciones no contributivas.
+
+Las prestaciones y beneficios se reconocerán en los términos y condiciones que se determinan en el presente título y en sus disposiciones de aplicación y desarrollo.
+
+En todo caso, para el reconocimiento y abono de las prestaciones, los trabajadores incluidos en este régimen especial han de cumplir el requisito de estar al corriente en el pago de las cotizaciones previsto en el artículo 47.
+
+## Artículo 315. Cobertura de la incapacidad temporal
+
+Artículo 315. Cobertura de la incapacidad temporal
+
+La cobertura de la contingencia por incapacidad temporal en este régimen especial tendrá carácter obligatorio, salvo que se tenga cubierta dicha contingencia en razón de la actividad realizada en otro régimen de la Seguridad Social. En este supuesto, podrá acogerse voluntariamente a la cobertura de dicha contingencia, así como, en su caso, renunciar a ella en los términos establecidos reglamentariamente.
+
+Lo previsto en el párrafo anterior se entiende sin perjuicio de las excepciones establecidas en la disposición adicional vigésima octava respecto a los socios de cooperativas que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, y a los miembros de institutos de vida consagrada de la Iglesia Católica.
+
+## Artículo 316. Cobertura de las contingencias profesionales
+
+Artículo 316. Cobertura de las contingencias profesionales
+
+1. La cobertura de las contingencias profesionales será obligatoria y se llevará a cabo con la misma entidad, gestora o colaboradora, con la que se haya formalizado la cobertura de la incapacidad temporal y determinará la obligación de efectuar las correspondientes cotizaciones, en los términos previstos en el artículo 308.
+
+Por las contingencias indicadas, se reconocerán las prestaciones que, por las mismas, se conceden a los trabajadores incluidos en el Régimen General de la Seguridad Social, en las condiciones que reglamentariamente se establezcan.
+
+2. Se entenderá como accidente de trabajo del trabajador autónomo el ocurrido como consecuencia directa e inmediata del trabajo que realiza por su propia cuenta y que determina su inclusión en el campo de aplicación de este régimen especial. Se entenderá, a idénticos efectos, por enfermedad profesional la contraída a consecuencia del trabajo ejecutado por cuenta propia, que esté provocada por la acción de los elementos y sustancias y en las actividades que se especifican en la lista de enfermedades profesionales con las relaciones de las principales actividades capaces de producirlas, anexa al Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro.
+
+También se entenderá como accidente de trabajo el sufrido al ir o al volver del lugar de la prestación de la actividad económica o profesional. A estos efectos se entenderá como lugar de la prestación el establecimiento en donde el trabajador autónomo ejerza habitualmente su actividad siempre que no coincida con su domicilio y se corresponda con el local, nave u oficina declarado como afecto a la actividad económica a efectos fiscales.
+
+3. Lo previsto en este artículo se entiende sin perjuicio de lo establecido en el artículo 317, respecto de las personas trabajadoras por cuenta propia o autónomas económicamente dependientes, en el artículo 326 respecto de los trabajadores del sistema especial para trabajadores por cuenta propia agrarios, en la disposición adicional vigésima octava, respecto de los socios de cooperativas que dispongan de un sistema intercooperativo de prestaciones sociales, complementario al sistema público, y de los miembros de institutos de vida consagrada de la Iglesia Católica.»
+
+## Artículo 317. Acción protectora de los trabajadores autónomos económicamente dependientes
+
+Artículo 317. Acción protectora de los trabajadores autónomos económicamente dependientes
+
+Los trabajadores autónomos económicamente dependientes tienen incluida obligatoriamente, dentro del ámbito de la acción protectora de la Seguridad Social, la cobertura de la incapacidad temporal y de los accidentes de trabajo y enfermedades profesionales.
+
+A los efectos de esta cobertura, se entenderá por accidente de trabajo toda lesión corporal del trabajador autónomo económicamente dependiente que sufra con ocasión o por consecuencia de la actividad profesional, considerándose también accidente de trabajo el que sufra el trabajador al ir o volver del lugar de la prestación de la actividad, o por causa o consecuencia de la misma. Salvo prueba en contrario, se presumirá que el accidente no tiene relación con el trabajo cuando haya ocurrido fuera del desarrollo de la actividad profesional de que se trate.
+
+## Artículo 318. Normas aplicables
+
+Artículo 318. Normas aplicables
+
+Será de aplicación a este régimen especial:
+
+a) En materia de protección por nacimiento y cuidado de menor, lo dispuesto en el capítulo VI del título II, excepto el artículo 179.1 y 2.
+
+La prestación económica por nacimiento y cuidado de menor consistirá en un subsidio equivalente al 100 por ciento de una base reguladora cuya cuantía diaria será el resultado de dividir la suma de las bases de cotización acreditadas a este régimen especial durante los seis meses inmediatamente anteriores al mes previo al del hecho causante entre ciento ochenta.
+
+De no haber permanecido en alta en el régimen especial durante la totalidad del referido período de seis meses, la base reguladora será el resultado de dividir las bases de cotización al régimen especial acreditadas en los seis meses inmediatamente anteriores al mes previo al del hecho causante entre los días en que el trabajador haya estado en alta en dicho régimen dentro de ese período.
+
+Los períodos durante los que el trabajador por cuenta propia tendrá derecho a percibir el subsidio por nacimiento y cuidado de menor serán coincidentes, en lo relativo tanto a su duración como a su distribución, con los períodos de descanso laboral establecidos para los trabajadores por cuenta ajena. Los trabajadores de este régimen especial podrán igualmente percibir el subsidio por nacimiento y cuidado de menor en régimen de jornada parcial, en los términos y condiciones que se establezcan reglamentariamente.
+
+b) En materia de corresponsabilidad en el cuidado del lactante, riesgo durante el embarazo, riesgo durante la lactancia natural y cuidado de menores afectados por cáncer u otra enfermedad grave, lo dispuesto, respectivamente, en los capítulos VII, VIII, IX y X del título II, en los términos y condiciones que se establezcan reglamentariamente.
+
+c) En materia de incapacidad permanente, lo dispuesto en los artículos 194, apartados 2 y 3; 195 excepto el apartado 2; 197, apartados 1, 2 y 3; y 200.
+
+Asimismo, será de aplicación lo previsto en el último párrafo del apartado 2 y el apartado 4 del artículo 196. A efectos de determinar el importe mínimo de la pensión y del cálculo del complemento a que se refieren, respectivamente, dichos apartados se tomará en consideración como base mínima de cotización la vigente en cada momento en el Régimen General, cualquiera que sea el régimen con arreglo a cuyas normas se reconozcan las pensiones de incapacidad permanente total y de gran incapacidad.
+
+d) En materia de jubilación, lo dispuesto en los artículos 205; 206 y 206 bis; 208; 209, excepto la letra b) del apartado 1; 210; 213, 214, 249 quater y la disposición transitoria trigésima cuarta.
+
+Lo dispuesto en el artículo 215 será de aplicación en los términos y condiciones que se establezcan reglamentariamente.
+
+e) En materia de muerte y supervivencia, lo dispuesto en los artículos 219, 220, 221, 222, 223, 224, 225; 226, apartados 4 y 5; 227, apartado 1, párrafo segundo; 229; 231; 232; 233; y 234.
+
+f) Las normas sobre protección a la familia contenidas en el capítulo XV del título II.
+
+g) Lo dispuesto en el artículo 163.
+
+## Artículo 319. Efectos de las cuotas anteriores al alta
+
+Artículo 319. Efectos de las cuotas anteriores al alta
+
+1. Cuando, reuniéndose los requisitos para estar incluidos en este régimen especial, no se hubiera solicitado la preceptiva alta en los términos reglamentariamente previstos, las cotizaciones exigibles correspondientes a períodos anteriores a la formalización del alta producirán efectos respecto a las prestaciones, una vez hayan sido ingresadas con los recargos que legalmente procedan.
+
+2. Sin perjuicio de las sanciones administrativas que procedan por su ingreso fuera de plazo, las referidas cotizaciones darán también lugar al devengo de intereses, que serán exigibles desde la correspondiente fecha en que debieron ser ingresadas, de conformidad con el tipo de interés legal del dinero vigente en el momento del pago.
+
+## Artículo 320. Base reguladora en los supuestos de cotización reducida y de cotización con 65 o más años de edad
+
+Artículo 320. Base reguladora en los supuestos de cotización reducida y de cotización con 65 o más años de edad
+
+1. Conforme a lo previsto en el artículo 38 ter de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, la aplicación de la cuota reducida en él regulada no afectará a la determinación de la cuantía de las prestaciones del sistema de la Seguridad Social que puedan causar las personas trabajadoras por cuenta propia o autónomas que se hubieran beneficiado de dicha cuota, para cuyo cálculo se aplicará el importe de la base mínima vigente del tramo 1 de la tabla general de bases a que se refiere la regla 1.ª del artículo 308.1.a) de esta ley.
+
+2. Por los períodos de actividad en los que los trabajadores incluidos en este régimen especial no hayan efectuado cotizaciones, en los términos previstos en el artículo 311, a efectos de determinar la base reguladora de las prestaciones excluidas de cotización, las bases de cotización correspondientes a las mensualidades de cada ejercicio económico exentas de cotización serán equivalentes al resultado de incrementar, el promedio de las bases de cotización del año natural inmediatamente anterior en el porcentaje de variación media conocida del Índice de Precios de Consumo en el último año indicado, sin que las bases así calculadas puedan ser inferiores a la cuantía de la base mínima de cotización del tramo 1 de la tabla general de bases a que se refiere la regla 1.ª del artículo 308.1.a), fijada anualmente en la Ley de Presupuestos Generales del Estado.
+
+## Artículo 321. Nacimiento y cuantía de la prestación de incapacidad temporal
+
+Artículo 321. Nacimiento y cuantía de la prestación de incapacidad temporal
+
+1. Para los trabajadores incluidos en este régimen especial, el nacimiento de la prestación económica por incapacidad temporal a que pudieran tener derecho se producirá, en los términos y condiciones que reglamentariamente se establezcan, a partir del cuarto día de la baja en la correspondiente actividad, salvo que el subsidio se hubiese originado a causa de un accidente de trabajo o enfermedad profesional, en cuyo caso la prestación nacerá a partir del día siguiente al de la baja.
+
+2. Los porcentajes aplicables a la base reguladora para la determinación de la cuantía de la prestación económica por incapacidad temporal derivada de contingencias comunes serán los vigentes en el Régimen General respecto a los procesos derivados de las indicadas contingencias.
+
+## Artículo 322. Cuantía de la pensión de jubilación
+
+Artículo 322. Cuantía de la pensión de jubilación
+
+La cuantía de la pensión de jubilación en este régimen especial se determinará aplicando a la base reguladora el porcentaje procedente de acuerdo con la escala establecida para el Régimen General, en función exclusivamente de los años de cotización efectiva del beneficiario.
+
+En los supuestos en que en el período que haya de tomarse para el cálculo de la base reguladora aparecieran, con posterioridad a la extinción de la prestación económica por cese de actividad, períodos durante los cuales no hubiese existido obligación de cotizar, se integrarán las lagunas de cotización de los siguientes seis meses de cada uno de dichos períodos con la base mínima de la tabla general de este régimen especial.
+
+## Artículo 323. Ámbito de aplicación
+
+Artículo 323. Ámbito de aplicación
+
+1. Quedarán comprendidos en este sistema especial los trabajadores por cuenta propia agrarios, mayores de 18 años, que reúnan los requisitos establecidos en el artículo siguiente.
+
+2. El régimen jurídico de este sistema especial se ajustará a lo dispuesto en este título y en sus normas de aplicación y desarrollo, con las particularidades que en ellos se establezcan.
+
+## Artículo 324. Reglas de inclusión
+
+Artículo 324. Reglas de inclusión
+
+1. Quedarán incluidos en este sistema especial los trabajadores a que se refiere el artículo anterior que reúnan los siguientes requisitos:
+
+a) Ser titulares de una explotación agraria y obtener, al menos, el 50 por ciento de su renta total de la realización de actividades agrarias u otras complementarias, siempre que la parte de renta procedente directamente de la actividad agraria realizada en su explotación no sea inferior al 25 por ciento de su renta total y el tiempo de trabajo dedicado a actividades agrarias o complementarias de las mismas, sea superior a la mitad de su tiempo de trabajo total.
+
+b) Que los rendimientos anuales netos obtenidos de la explotación agraria por cada titular de la misma no superen la cuantía equivalente al 75 por ciento del importe, en cómputo anual, de la base máxima de cotización al Régimen General de la Seguridad Social vigente en el ejercicio en que se proceda a su comprobación.
+
+c) La realización de labores agrarias de forma personal y directa en tales explotaciones agrarias, aun cuando ocupen trabajadores por cuenta ajena, siempre que no se trate de más de dos trabajadores que coticen con la modalidad de bases mensuales o, de tratarse de trabajadores que coticen con la modalidad de bases diarias, a las que se refiere el artículo 255, que el número total de jornadas reales efectivamente realizadas no supere las quinientas cuarenta y seis en un año, computado desde el 1 de enero al 31 de diciembre de cada año. El número de jornadas reales se reducirá proporcionalmente en función del número de días de alta del trabajador por cuenta propia agrario en este Sistema Especial durante el año natural de que se trate.
+
+Las limitaciones en la contratación de trabajadores por cuenta ajena a que se refiere el párrafo anterior se entienden aplicables por cada explotación agraria. En el caso de que en la explotación agraria existan dos o más titulares, en alta todos ellos en el Sistema Especial para trabajadores por cuenta propia agrarios del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, se añadirá al número de trabajadores o jornales previstos en el párrafo anterior un trabajador más con cotización por bases mensuales, o doscientos setenta y tres jornales al año, en caso de trabajadores con cotización por jornadas reales, por cada titular de la explotación agraria, excluido el primero.
+
+Para determinar el cumplimiento de los requisitos establecidos en las letras a) y b) se podrá tomar en consideración la media simple de las rentas totales y de los rendimientos anuales netos de los tres ejercicios económicos inmediatamente anteriores a aquel en que se efectúe su comprobación, con la excepción del ejercicio o ejercicios afectados por circunstancias excepcionales tenidas en cuenta en aplicación de la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas, en estos casos se tendrá en cuenta el ejercicio o ejercicios inmediatamente anteriores no afectados por tales circunstancias.
+
+2. A los efectos previstos en este sistema especial, se entiende por explotación agraria el conjunto de bienes y derechos organizados por su titular en el ejercicio de la actividad agraria, y que constituye en sí misma unidad técnico-económica, pudiendo la persona titular o titulares de la explotación serlo por su condición de propietaria, arrendataria, aparcera, cesionaria u otro concepto análogo, de las fincas o elementos materiales de la respectiva explotación agraria.
+
+A este respecto se entiende por actividad agraria el conjunto de trabajos que se requiere para la obtención de productos agrícolas, ganaderos y forestales.
+
+A los efectos previstos en este sistema especial, se considerará actividad agraria la venta directa por parte de la agricultora o agricultor de la producción propia sin transformación o la primera transformación de los mismos cuyo producto final esté incluido en el anexo I del artículo 38 del Tratado de Funcionamiento de la Unión Europea, dentro de los elementos que integren la explotación, en mercados municipales o en lugares que no sean establecimientos comerciales permanentes, considerándose también actividad agraria toda aquella que implique la gestión o la dirección y gerencia de la explotación.
+
+Asimismo, se considerarán actividades complementarias la participación y presencia de la persona titular, como consecuencia de elección pública, en instituciones de carácter representativo, así como en órganos de representación de carácter sindical, cooperativo o profesional, siempre que estos se hallen vinculados al sector agrario.
+
+Igualmente tendrán la consideración de actividades complementarias las actividades de transformación de los productos de su explotación y venta directa de los productos transformados, siempre y cuando no sea la primera especificada en el apartado anterior, así como las relacionadas con la conservación del espacio natural y protección del medio ambiente, el turismo rural o agroturismo, al igual que las cinemáticas y artesanales realizadas en su explotación.
+
+3. La incorporación a este sistema especial afectará, además de al titular de la explotación agraria, a su cónyuge y parientes por consanguinidad o afinidad hasta el tercer grado inclusive que no tengan la consideración de trabajadores por cuenta ajena, siempre que sean mayores de dieciocho años y realicen la actividad agraria de forma personal y directa en la correspondiente explotación familiar.
+
+4. Los hijos del titular de la explotación agraria, menores de treinta años, aunque convivan con él, podrán ser contratados por aquel como trabajadores por cuenta ajena, en los términos previstos en el artículo 12.
+
+5. Los interesados, en el momento de solicitar su incorporación al Sistema Especial para Trabajadores por Cuenta Propia Agrarios, deberán presentar declaración justificativa de la acreditación de los requisitos establecidos en los apartados anteriores para la inclusión en el mismo. La validez de dicha inclusión estará condicionada a la posterior comprobación por parte de la Tesorería General de la Seguridad Social de la concurrencia efectiva de los mencionados requisitos. La acreditación y posterior comprobación se efectuará en la forma y plazos que reglamentariamente se determinen.
+
+## Artículo 325. Especialidades en materia de cotización
+
+Artículo 325. Especialidades en materia de cotización
+
+La incorporación al Sistema Especial para Trabajadores por Cuenta Propia Agrarios previsto en el artículo anterior determinará la aplicación de las normas de cotización al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos contenidas en los artículos 308 y siguientes, con las especialidades que se indican a continuación:
+
+a) Respecto de las contingencias de cobertura obligatoria, si el trabajador optase por una base de cotización hasta el 120 por ciento de la base mínima del tramo 1 de la tabla general a que se refiere la regla 1.ª del artículo 308.1.a), el tipo de cotización aplicable será del 18,75 por ciento.
+
+Si, en cambio, el trabajador optase por una base de cotización igual o superior a la señalada en el párrafo anterior, sobre la cuantía que exceda de aquella se aplicará el tipo de cotización vigente en cada momento en este régimen especial para las contingencias comunes.
+
+Los tipos de cotización indicados anteriormente resultarán de aplicación, asimismo, a las bases de cotización definitivas que resulten del procedimiento de regularización a la que se refiere la letra c) del artículo 308.1.
+
+b) Respecto de las contingencias de cobertura voluntaria, la cuota se determinará aplicando, tanto sobre la cuantía completa de la base de cotización provisional, como sobre la definitiva, los siguientes tipos de cotización:
+
+Para la cobertura de la incapacidad temporal y de la protección por cese de actividad, se aplicarán los tipos establecidos en las correspondientes Leyes de Presupuestos Generales del Estado.
+
+Para la cobertura de las contingencias de accidentes de trabajo y enfermedades profesionales, se aplicarán los tipos de cotización establecidos para cada actividad económica, ocupación o situación en la tarifa de primas establecidas legalmente, sin perjuicio de lo que las Leyes de Presupuestos Generales del Estado puedan establecer, en particular, respecto de la protección por incapacidad permanente y muerte y supervivencia derivadas de dichas contingencias profesionales, conforme a lo dispuesto en los artículos 19.3 y 326.
+
+c) Las personas trabajadoras por cuenta propia o autónomas acogidos a la protección por contingencias profesionales o por cese de actividad tendrán una reducción de 0,5 puntos porcentuales en la cotización por la cobertura de incapacidad temporal derivada de contingencias comunes.
+
+Cuando no se haya optado por dar cobertura a la totalidad de las contingencias de accidente de trabajo y enfermedades profesionales, deberá efectuarse una cotización adicional para la financiación de las prestaciones previstas en los capítulos VIII y IX del Título II en los términos que, en su caso, puedan prever las Leyes de Presupuestos Generales del Estado.
+
+## Artículo 326. Cobertura de la incapacidad temporal y de las contingencias profesionales
+
+Artículo 326. Cobertura de la incapacidad temporal y de las contingencias profesionales
+
+De conformidad con lo previsto en la disposición adicional tercera de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, la cobertura de la incapacidad temporal y de las contingencias de accidente de trabajo y enfermedad profesional tendrá carácter voluntario en este sistema especial, sin perjuicio de lo que las Leyes de Presupuestos Generales del Estado puedan establecer, en particular, respecto de la protección por incapacidad permanente y muerte y supervivencia derivadas de dichas contingencias profesionales.
+
+## Artículo 327. Objeto y ámbito de aplicación
+
+Artículo 327. Objeto y ámbito de aplicación
+
+1. El sistema específico de protección por el cese de actividad forma parte de la acción protectora del sistema de la Seguridad Social, es de carácter obligatorio y tiene por objeto dispensar a las personas trabajadoras por cuenta propia o autónomas, afiliadas a la Seguridad Social y en alta en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar, las prestaciones y medidas establecidas en esta ley ante la situación de cese la actividad que originó el alta en el régimen especial, no obstante poder y querer ejercer una actividad económica o profesional a título lucrativo.
+
+El cese de actividad podrá ser definitivo o temporal.
+
+El cese temporal podrá ser total, que comporta la interrupción de todas las actividades que puedan originar el alta en el régimen especial en el que la persona trabajadora por cuenta propia o autónoma figure encuadrada, en los supuestos regulados en el artículo 331, o parcial, cuando se produzca una reducción de la actividad en los términos previstos en esta ley.
+
+2. La protección por cese de actividad alcanzará también a los socios trabajadores de las cooperativas de trabajo asociado que hayan optado por su encuadramiento como trabajadores por cuenta propia en el régimen especial que corresponda, así como a los trabajadores autónomos que ejerzan su actividad profesional conjuntamente con otros en régimen societario o bajo cualquier otra forma jurídica admitida en derecho, siempre que, en ambos casos, cumplan con los requisitos regulados en este título con las peculiaridades contempladas, respectivamente, en los artículos 335 y 336.
+
+## Artículo 328. Régimen jurídico
+
+Artículo 328. Régimen jurídico
+
+1. La protección por cese de actividad se rige por lo dispuesto en esta ley y en sus normas de desarrollo, así como, supletoriamente, por las normas que regulan el régimen especial de la Seguridad Social de encuadramiento.
+
+2. Las condiciones y supuestos específicos por los que se rija el sistema de protección de los trabajadores por cuenta propia incluidos en el Sistema Especial de Trabajadores por Cuenta Propia Agrarios se desarrollarán reglamentariamente.
+
+## Artículo 329. Acción protectora
+
+Artículo 329. Acción protectora
+
+1. El sistema de protección por cese de actividad comprende las prestaciones siguientes:
+
+a) La prestación económica por cese, temporal o definitivo, de la actividad.
+
+La prestación señalada se regirá exclusivamente por esta ley y las disposiciones que la desarrollen y complementen.
+
+b) El abono de la cotización a la Seguridad Social del trabajador autónomo al régimen correspondiente. A tales efectos, el órgano gestor se hará cargo de la cuota que corresponda durante la percepción de las prestaciones económicas por cese de actividad. La base de cotización durante ese período corresponde a la base reguladora de la prestación por cese de actividad en los términos establecidos en el artículo 339, sin que, en ningún caso, la base de cotización pueda ser inferior al importe de la base mínima o base única de cotización prevista en el correspondiente régimen.
+
+En los supuestos previstos en los epígrafes 4.º y 5.º del apartado 1.a) del artículo 331, el órgano gestor se hará cargo del 50 por ciento de la cuota que corresponda durante la percepción de la prestación económica, siendo el otro 50 por ciento a cargo del trabajador. El órgano gestor abonará a la persona trabajadora autónoma, junto con la prestación por cese de la actividad, el importe de la cuota que le corresponda, siendo la persona trabajadora autónoma la responsable del ingreso de la totalidad de las cotizaciones a la Seguridad Social.
+
+En los supuestos previstos en el artículo 331.1.d), no existirá la obligación de cotizar a la Seguridad Social, estando a lo previsto en el artículo 21.5 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y en el artículo 38.5 de la Ley Orgánica de garantía integral de la libertad sexual.
+
+## Artículo 330. Requisitos para el nacimiento del derecho a la protección
+
+Artículo 330. Requisitos para el nacimiento del derecho a la protección
+
+1. El derecho a la protección por cese de actividad se reconocerá a las personas trabajadoras por cuenta propia o autónomas en las que concurran los requisitos siguientes:
+
+a) Estar afiliadas y en alta en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos o en el Régimen Especial de los Trabajadores del Mar, en su caso.
+
+b) Tener cubierto el período mínimo de cotización por cese de actividad a que se refiere el artículo 338.
+
+c) Encontrarse en situación legal de cese de actividad, suscribir el acuerdo de actividad al que se refiere el artículo 3 de la Ley 3/2023, de 28 de febrero, de Empleo, y acreditar activa disponibilidad para la reincorporación al mercado de trabajo a través de las actividades formativas, de orientación profesional y de promoción de la actividad emprendedora a las que pueda convocarle el servicio público de empleo de la correspondiente Comunidad Autónoma, o en su caso el Instituto Social de la Marina.
+
+d) En el supuesto de cese definitivo, no haber cumplido la edad ordinaria para causar derecho a la pensión contributiva de jubilación, salvo que el trabajador autónomo no tuviera acreditado el período de cotización requerido para ello.
+
+e) Hallarse al corriente en el pago de las cuotas a la Seguridad Social. No obstante, si en la fecha de cese de actividad no se cumpliera este requisito, el órgano gestor invitará al pago al trabajador autónomo para que en el plazo improrrogable de treinta días naturales ingrese las cuotas debidas. La regularización del descubierto producirá plenos efectos para la adquisición del derecho a la protección.
+
+f) Para causar derecho al cese previsto en el artículo 331.1.a).4.º y 5.º, la persona trabajadora autónoma no podrá ejercer otra actividad salvo lo previsto en el apartado 3 del artículo 342.
+
+2. Cuando la persona trabajadora por cuenta propia o autónoma tenga a uno o más trabajadores a su cargo y concurra alguna de las causas del artículo 331.1, será requisito previo al cese de actividad el cumplimiento de las garantías, obligaciones y procedimientos regulados en la legislación laboral.
+
+La misma regla será aplicable en el caso de la persona trabajadora autónoma profesional que ejerza su actividad profesional conjuntamente con otros, con independencia de que hayan cesado o no el resto de los profesionales, así como en el supuesto de las cooperativas a que hace referencia el artículo 335 cuando se produzca el cese definitivo de la actividad.
+
+## Artículo 331. Situación legal de cese de actividad
+
+Artículo 331. Situación legal de cese de actividad
+
+1. Sin perjuicio de las peculiaridades previstas en el capítulo siguiente, se encontrarán en situación legal de cese de actividad todos aquellos trabajadores autónomos que cesen en el ejercicio de su actividad por alguna de las causas siguientes:
+
+a) Por la concurrencia de motivos económicos, técnicos, productivos u organizativos determinantes de la inviabilidad de proseguir la actividad económica o profesional.
+
+En caso de establecimiento abierto al público se exigirá el cierre del mismo durante la percepción del subsidio o bien su transmisión a terceros. No obstante, el autónomo titular del inmueble donde se ubica el establecimiento podrá realizar sobre el mismo los actos de disposición o disfrute que correspondan a su derecho, siempre que no supongan la continuidad del autónomo en la actividad económica o profesional finalizada.
+
+Se entenderá que existen motivos económicos, técnicos, productivos u organizativos cuando concurra alguna de las circunstancias siguientes:
+
+1.º Pérdidas derivadas del desarrollo de la actividad en un año completo, superiores al 10 por ciento de los ingresos obtenidos en el mismo periodo, excluido el primer año de inicio de la actividad.
+
+2.º Ejecuciones judiciales o administrativas tendentes al cobro de las deudas reconocidas por los órganos ejecutivos, que comporten al menos el 30 por ciento de los ingresos del ejercicio económico inmediatamente anterior.
+
+3.º La declaración judicial de concurso que impida continuar con la actividad, en los términos de la Ley 22/2003, de 9 de julio, Concursal.
+
+4.º La reducción del 60 por ciento de la jornada de la totalidad de las personas en situación de alta con obligación de cotizar de la empresa o suspensión temporal de los contratos de trabajo de al menos del 60 por ciento del número de personas en situación de alta con obligación de cotizar de la empresa siempre que los dos trimestres fiscales previos a la solicitud presentados ante la Administración tributaria, el nivel de ingresos ordinarios o ventas haya experimentado una reducción del 75 por ciento de los registrados en los mismos periodos del ejercicio o ejercicios anteriores y los rendimientos netos mensuales del trabajador autónomo durante esos trimestres, por todas las actividades económicas, empresariales o profesionales, que desarrolle, no alcancen la cuantía del salario mínimo interprofesional o la de la base por la que viniera cotizando, si esta fuera inferior.
+
+En estos casos no será necesario el cierre del establecimiento abierto al público o su transmisión a terceros.
+
+5.º En el supuesto de trabajadores autónomos que no tengan trabajadores asalariados, el mantenimiento de deudas exigibles con acreedores cuyo importe supere el 150 por ciento de los ingresos ordinarios o ventas durante los dos trimestres fiscales previos a la solicitud, y que estos ingresos o ventas supongan a su vez una reducción del 75 por ciento respecto del registrado en los mismos períodos del ejercicio o ejercicios anteriores. A tal efecto no se computarán las deudas que por incumplimiento de sus obligaciones con la Seguridad Social o con la Administración tributaria mantenga.
+
+Se exigirá igualmente que los rendimientos netos mensuales del trabajador autónomo durante esos trimestres, por todas las actividades económicas o profesionales que desarrolle, no alcancen la cuantía del salario mínimo interprofesional o la de la base por la que viniera cotizando, si esta fuera inferior. A tal efecto no se computarán las deudas que por incumplimiento de sus obligaciones con la Seguridad Social o con la Administración tributaria mantenga.
+
+En estos casos no será necesario el cierre del establecimiento abierto al público o su transmisión a terceros.
+
+b) Por fuerza mayor, determinante del cese temporal o definitivo de la actividad económica o profesional.
+
+Se entenderá que existen motivos de fuerza mayor en el cese temporal parcial cuando la interrupción de la actividad de la empresa afecte a un sector o centro de trabajo, exista una declaración de emergencia adoptada por la autoridad pública competente y se produzca una caída de ingresos del 75 por ciento de la actividad de la empresa con relación al mismo periodo del año anterior y los ingresos mensuales del trabajador autónomo no alcance el salario mínimo interprofesional o el importe de la base por la que viniera cotizando si esta fuera inferior.
+
+c) Por pérdida de la licencia administrativa, siempre que la misma constituya un requisito para el ejercicio de la actividad económica o profesional y no venga motivada por la comisión de infracciones penales.
+
+d) La violencia de género o la violencia sexual determinante del cese temporal o definitivo de la actividad de la trabajadora autónoma.
+
+e) Por divorcio o separación matrimonial, mediante resolución judicial, en los supuestos en que el autónomo ejerciera funciones de ayuda familiar en el negocio de su excónyuge o de la persona de la que se ha separado, en función de las cuales estaba incluido en el correspondiente Régimen de la Seguridad Social.
+
+2. En ningún caso se considerará en situación legal de cese de actividad:
+
+a) A aquellos que cesen o interrumpan voluntariamente su actividad, salvo en el supuesto previsto en el artículo 333.1.b).
+
+b) A los trabajadores autónomos previstos en el artículo 333 que tras cesar su relación con el cliente y percibir la prestación por cese de actividad, vuelvan a contratar con el mismo cliente en el plazo de un año, a contar desde el momento en que se extinguió la prestación, en cuyo caso deberán reintegrar la prestación recibida.
+
+## Artículo 332. Acreditación de la situación legal de cese de actividad
+
+Artículo 332. Acreditación de la situación legal de cese de actividad
+
+1. Las situaciones legales de cese de actividad de los trabajadores autónomos se acreditarán mediante declaración jurada del solicitante, en la que se consignará el motivo o motivos concurrentes y la fecha de efectos del cese, a la que acompañará los documentos que seguidamente se establecen, sin perjuicio de aportarse, si aquel lo estima conveniente, cualquier medio de prueba admitido legalmente:
+
+1.1 Los motivos económicos, técnicos, productivos u organizativos se acreditarán mediante los documentos contables, profesionales, fiscales, administrativos o judiciales que justifiquen la falta de viabilidad de la actividad.
+
+a) Salvo en los supuestos previstos en los epígrafes b) y c), se deberán aportar los documentos que acrediten el cierre del establecimiento en los términos establecidos en el artículo 331.1.a), la baja en el Censo tributario de empresarios, profesionales y retenedores y la baja en el régimen especial de la Seguridad Social en el que estuviera encuadrado el solicitante. En el caso de que la actividad requiriera el otorgamiento de autorizaciones o licencias administrativas, se acompañará la comunicación de solicitud de baja correspondiente y, en su caso, la concesión de la misma, o bien el acuerdo de su retirada.
+
+Sin perjuicio de los documentos señalados en el párrafo anterior, la concurrencia de motivos económicos se considerará acreditada mediante la aportación, en los términos que reglamentariamente se establezcan, de la documentación contable que confeccione el trabajador autónomo, en la que se registre el nivel de pérdidas exigido en los términos del artículo 331.1.a).1.º, así como mediante las declaraciones del Impuesto sobre el Valor Añadido, del Impuesto sobre la Renta de las Personas Físicas y demás documentos preceptivos que, a su vez, justifiquen las partidas correspondientes consignadas en las cuentas aportadas. En todo caso, las partidas que se consignen corresponderán a conceptos admitidos en las normas que regulan la contabilidad.
+
+El trabajador autónomo podrá formular su solicitud aportando datos estimados de cierre, al objeto de agilizar la instrucción del procedimiento, e incorporará los definitivos con carácter previo al dictado de la resolución.
+
+b) En los supuestos previstos en el artículo 331.1.a).4.º, deberá aportarse comunicación a la autoridad laboral de la decisión de adoptar la medida, así como de los documentos contables en el que se registren el nivel de perdidas exigidos, y las declaraciones del Impuesto sobre el Valor Añadido, del Impuesto sobre la Renta de las Personas Físicas y demás documentos preceptivos que, a su vez, justifiquen los ingresos del trabajador autónomo y las partidas correspondientes consignadas en las cuentas aportadas.
+
+En estos casos no procederá la baja en el régimen especial de la Seguridad Social.
+
+c) En los supuestos previstos en el artículo 331.1.a).5.º, deberán aportarse los documentos contables en el que se registren el nivel de perdidas exigidos, y las declaraciones del Impuesto sobre el Valor Añadido, del Impuesto sobre la Renta de las Personas Físicas y demás documentos preceptivos que, a su vez, justifiquen los ingresos del trabajador autónomo y las partidas correspondientes consignadas en las cuentas aportadas.
+
+En estos casos no procederá la baja en el régimen especial de la Seguridad Social.
+
+También deberán aportarse los acuerdos singulares de refinanciación de la deuda reflejados en escritura pública con los acreedores, individual o conjuntamente, cuya duración sea igual o superior al tiempo del derecho del percibo de la prestación por cese de actividad, y donde se justifiquen tales acuerdos, así como los actos y negocios realizados entre el trabajador autónomo y los acreedores que suscriban los mismos.
+
+1.2 La fuerza mayor determinante del cese definitivo o temporal total de la actividad económica o profesional se acreditará mediante documentación que acredite la existencia de la misma y la imposibilidad del ejercicio de la actividad ya sea de forma definitiva o temporal.
+
+Si el cese es definitivo deberá aportar la solicitud de baja en el Censo tributario de empresarios, profesionales y retenedores y la baja en el régimen especial de la Seguridad Social en el que estuviera encuadrado el solicitante. En el caso de que la actividad requiriera el otorgamiento de autorizaciones o licencias administrativas, se acompañará la comunicación de solicitud de baja correspondiente y, en su caso, la concesión de la misma, o bien el acuerdo de su retirada.
+
+Si el cese es temporal parcial, deberá aportarse además de los documentes que acrediten la existencia de la fuerza mayor, el acuerdo de la administración pública competente al que hace referencia el artículo 331.1.b).
+
+En el cese temporal total y parcial no procederá la baja en el régimen especial de la Seguridad Social.
+
+1.3 La pérdida de la licencia administrativa que habilitó el ejercicio de la actividad mediante resolución correspondiente.
+
+1.4 La violencia de género o la violencia sexual, por la declaración escrita de la solicitante de haber cesado o interrumpido su actividad económica o profesional, a la que se adjuntará cualquiera de los documentos a los que se refieren el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género o el artículo 37 de la Ley Orgánica de garantía integral de la libertad sexual.
+
+De tratarse de una trabajadora autónoma económicamente dependiente, aquella declaración podrá ser sustituida por la comunicación escrita del cliente del que dependa económicamente en la que se hará constar el cese o la interrupción de la actividad. Tanto la declaración como la comunicación han de contener la fecha a partir de la cual se ha producido el cese o la interrupción.
+
+1.5 El divorcio o acuerdo de separación matrimonial de los familiares incursos en la situación prevista en el artículo 331.1.e) se acreditará mediante la correspondiente resolución judicial, a la que acompañarán la documentación correspondiente en la que se constate la pérdida de ejercicio de las funciones de ayuda familiar directa en el negocio, que venían realizándose con anterioridad a la ruptura o separación matrimoniales.
+
+2. Reglamentariamente se desarrollará la documentación a presentar por los trabajadores autónomos con objeto de acreditar la situación legal de cese de actividad prevista en este artículo.
+
+## Artículo 333. Trabajadores autónomos económicamente dependientes
+
+Artículo 333. Trabajadores autónomos económicamente dependientes
+
+1. Se encontrarán en situación legal de cese de actividad los trabajadores autónomos económicamente dependientes que, sin perjuicio de lo previsto en el primer apartado del artículo 331, cesen su actividad por extinción del contrato suscrito con el cliente del que dependan económicamente, en los siguientes supuestos:
+
+a) Por la terminación de la duración convenida en el contrato o conclusión de la obra o servicio.
+
+b) Por incumplimiento contractual grave del cliente, debidamente acreditado.
+
+c) Por rescisión de la relación contractual adoptada por causa justificada por el cliente, de acuerdo con lo establecido en la Ley 20/2007, de 11 de julio.
+
+d) Por rescisión de la relación contractual adoptada por causa injustificada por el cliente, de acuerdo con lo establecido en la Ley 20/2007, de 11 de julio.
+
+e) Por muerte, incapacidad o jubilación del cliente, siempre que impida la continuación de la actividad.
+
+2. La situación legal de cese de actividad establecida en el apartado 1 será también de aplicación a los trabajadores autónomos que carezcan del reconocimiento de económicamente dependientes, siempre que su actividad cumpla las condiciones establecidas en el artículo 11 de la Ley 20/2007, de 11 de julio, y en el artículo 2 del Real Decreto 197/2009, de 23 de febrero, por el que se desarrolla el Estatuto del trabajo autónomo en materia de contrato del trabajador autónomo económicamente dependiente y su registro y se crea el Registro Estatal de asociaciones profesionales de trabajadores autónomos.
+
+3. Sin perjuicio de lo previsto en el artículo 332.1, las situaciones legales de cese de actividad de los trabajadores autónomos económicamente dependientes, así como de los mencionados en el apartado 2, se acreditarán a través de los siguientes medios:
+
+a) La terminación de la duración convenida en contrato o conclusión de la obra o servicio, mediante su comunicación ante el registro correspondiente del servicio público de empleo con la documentación que así lo justifique.
+
+b) El incumplimiento contractual grave del cliente, mediante comunicación por escrito del mismo en la que conste la fecha a partir de la cual tuvo lugar el cese de la actividad, mediante el acta resultante de la conciliación previa, o mediante resolución judicial.
+
+c) La causa justificada del cliente, a través de comunicación escrita expedida por este en un plazo de diez días desde su concurrencia, en la que deberá hacerse constar el motivo alegado y la fecha a partir de la cual se produce el cese de la actividad del trabajador autónomo. En el caso de no producirse la comunicación por escrito, el trabajador autónomo podrá solicitar al cliente que cumpla con dicho requisito, y si transcurridos diez días desde la solicitud el cliente no responde, el trabajador autónomo económicamente dependiente podrá acudir al órgano gestor informando de dicha situación, aportando copia de la solicitud realizada al cliente y solicitando le sea reconocido el derecho a la protección por cese de actividad.
+
+d) La causa injustificada, mediante comunicación expedida por el cliente en un plazo de diez días desde su concurrencia, en la que deberá hacerse constar la indemnización abonada y la fecha a partir de la cual tuvo lugar el cese de la actividad, mediante el acta resultante de la conciliación previa o mediante resolución judicial, con independencia de que la misma fuese recurrida por el cliente. En el caso de no producirse la comunicación por escrito, el trabajador autónomo podrá solicitar al cliente que cumpla con dicho requisito, y si transcurridos diez días desde la solicitud el cliente no responde, el trabajador autónomo económicamente dependiente podrá acudir al órgano gestor informando de dicha situación, aportando copia de la solicitud realizada al cliente y solicitando le sea reconocido el derecho a la protección por cese de actividad.
+
+e) La muerte, la incapacidad o la jubilación del cliente, mediante certificación de defunción del Registro Civil, o bien resolución de la entidad gestora correspondiente acreditativa del reconocimiento de la pensión de jubilación o incapacidad permanente.
+
+4. Reglamentariamente se desarrollará la documentación a presentar por los trabajadores autónomos con objeto de acreditar la situación legal de cese de actividad prevista en este artículo.

@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "legal-rag-boe"
+version = "0.1.0"
+description = "Pipeline local para construir dataset normativo BOE para RAG legal"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "requests>=2.32",
+  "lxml>=5.0",
+  "beautifulsoup4>=4.12",
+  "cryptography>=3.1",
+  "pypdf>=5.0",
+  "pydantic>=2.8",
+  "python-dotenv>=1.0",
+  "llama-index-core>=0.12",
+  "llama-index-embeddings-ollama>=0.4",
+  "llama-index-llms-ollama>=0.4",
+  "llama-index-retrievers-bm25>=0.4",
+  "llama-index-vector-stores-qdrant>=0.4",
+  "qdrant-client>=1.11",
+  "rank-bm25>=0.2",
+  "trulens-dashboard>=2.15.0",
+  "starlette>=0.38",
+  "uvicorn>=0.30",
+  "torch>=2.2",
+  "transformers>=4.40",
+  "pandas>=2.0",
+  "numpy>=1.26",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-asyncio>=0.24",
+  "httpx>=0.27",
+]
+
+[project.scripts]
+legal-rag-boe = "legal_rag_boe.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

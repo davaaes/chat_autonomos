@@ -1,0 +1,34 @@
+# Configuración para usar Ollama directamente desde el host (evita duplicar descarga de modelos)
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chat_autonomos_web
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OMP_NUM_THREADS=2
+      - MKL_NUM_THREADS=2
+      - OPENBLAS_NUM_THREADS=2
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - hf_cache:/root/.cache/huggingface
+      - ./data/indices:/app/data/indices
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+
+volumes:
+  hf_cache:
+    name: chat_autonomos_hf_cache
+

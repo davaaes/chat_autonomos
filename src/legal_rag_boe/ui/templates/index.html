@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="es" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="data:,">
+  <title>Asistente Legal para Autónomos</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0fdf4',
+              100: '#dcfce7',
+              500: '#22c55e',
+              600: '#16a34a',
+              700: '#15803d',
+              800: '#166534',
+              900: '#14532d',
+            },
+            surface: {
+              light: '#ffffff',
+              dark: '#131517',
+              darkCard: '#1a1d21',
+              darkBorder: '#272b30',
+              darkInput: '#1e2227',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* Estilos fluidos de scrollbar y tipografía */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: rgba(156, 163, 175, 0.4); border-radius: 9999px; }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(156, 163, 175, 0.7); }
+    .prose p { margin-bottom: 0.75rem; line-height: 1.625; }
+    .prose p:last-child { margin-bottom: 0; }
+    .prose ul { list-style-type: disc; padding-left: 1.25rem; margin-bottom: 0.75rem; }
+    .prose ol { list-style-type: decimal; padding-left: 1.25rem; margin-bottom: 0.75rem; }
+    .prose strong { color: inherit; font-weight: 600; }
+    .popover-shadow {
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.25), 0 8px 10px -6px rgba(0, 0, 0, 0.15);
+    }
+  </style>
+</head>
+<body class="h-full bg-[#fcfcfd] dark:bg-[#111215] text-gray-900 dark:text-gray-100 font-sans flex flex-col transition-colors duration-200">
+
+  <!-- Header Superior Minimalista -->
+  <header class="flex-none border-b border-gray-200/80 dark:border-surface-darkBorder bg-white/90 dark:bg-surface-dark/90 backdrop-blur-md sticky top-0 z-30">
+    <div class="max-w-4xl mx-auto px-4 h-13 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-7 h-7 rounded-md bg-gray-100 dark:bg-surface-darkBorder text-gray-800 dark:text-gray-200 flex items-center justify-center">
+          <i data-lucide="scale" class="w-4 h-4"></i>
+        </div>
+        <h1 class="text-sm font-semibold tracking-tight text-gray-900 dark:text-gray-100">Asistente Legal para Autónomos</h1>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <button id="btn-new-chat" class="text-xs px-2.5 py-1.5 rounded-md hover:bg-gray-100 dark:hover:bg-surface-darkBorder text-gray-600 dark:text-gray-300 flex items-center gap-1.5 transition">
+          <i data-lucide="plus" class="w-3.5 h-3.5"></i>
+          <span>Nuevo chat</span>
+        </button>
+
+        <button id="btn-theme-toggle" class="w-8 h-8 rounded-md flex items-center justify-center hover:bg-gray-100 dark:hover:bg-surface-darkBorder text-gray-500 dark:text-gray-400 transition" title="Alternar tema claro/oscuro">
+          <i data-lucide="moon" class="w-4 h-4 dark:hidden"></i>
+          <i data-lucide="sun" class="w-4 h-4 hidden dark:block"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Contenedor Principal de Mensajes -->
+  <main id="chat-messages" class="flex-1 overflow-y-auto px-4 py-6 scroll-smooth">
+    <div id="messages-container" class="max-w-3xl mx-auto space-y-6">
+
+      <!-- Estado inicial sobrio y profesional -->
+      <div id="empty-state" class="text-center py-16 px-4">
+        <h2 class="text-2xl font-semibold tracking-tight mb-2 text-gray-900 dark:text-gray-100">¿En qué puedo ayudarte hoy?</h2>
+        <p class="text-sm text-gray-500 dark:text-gray-400 max-w-lg mx-auto mb-8 leading-relaxed">
+          Respuestas prácticas y fundamentadas en normativa oficial sobre el RETA, fiscalidad trimestral, gastos deducibles y trámites censales.
+        </p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 max-w-xl mx-auto text-left text-xs">
+          <button class="sample-prompt p-3.5 rounded-xl border border-gray-200 dark:border-surface-darkBorder hover:border-gray-400 dark:hover:border-gray-500 bg-white dark:bg-surface-darkCard transition group">
+            <span class="font-medium block mb-1 text-gray-900 dark:text-gray-100">Tarifa plana de 80€</span>
+            <span class="text-gray-500 dark:text-gray-400 leading-relaxed">¿Cuánto dura la cuota reducida de 80 euros y qué requisitos piden para el segundo año?</span>
+          </button>
+          <button class="sample-prompt p-3.5 rounded-xl border border-gray-200 dark:border-surface-darkBorder hover:border-gray-400 dark:hover:border-gray-500 bg-white dark:bg-surface-darkCard transition group">
+            <span class="font-medium block mb-1 text-gray-900 dark:text-gray-100">Gastos deducibles en IRPF</span>
+            <span class="text-gray-500 dark:text-gray-400 leading-relaxed">Si trabajo desde casa, ¿cómo deduzco suministros de agua, luz e internet?</span>
+          </button>
+          <button class="sample-prompt p-3.5 rounded-xl border border-gray-200 dark:border-surface-darkBorder hover:border-gray-400 dark:hover:border-gray-500 bg-white dark:bg-surface-darkCard transition group">
+            <span class="font-medium block mb-1 text-gray-900 dark:text-gray-100">Alta y censo con Modelo 037</span>
+            <span class="text-gray-500 dark:text-gray-400 leading-relaxed">¿Qué epígrafe de IAE necesito y qué obligaciones trimestrales genera?</span>
+          </button>
+          <button class="sample-prompt p-3.5 rounded-xl border border-gray-200 dark:border-surface-darkBorder hover:border-gray-400 dark:hover:border-gray-500 bg-white dark:bg-surface-darkCard transition group">
+            <span class="font-medium block mb-1 text-gray-900 dark:text-gray-100">Primera contratación laboral</span>
+            <span class="text-gray-500 dark:text-gray-400 leading-relaxed">¿Qué trámites previos en la Seguridad Social debo hacer antes de contratar a un empleado?</span>
+          </button>
+        </div>
+
+        <div class="mt-4 p-3 rounded-xl bg-gray-50/80 dark:bg-[#15171b] border border-gray-200/80 dark:border-surface-darkBorder max-w-xl mx-auto flex items-start gap-2.5 text-left text-xs text-gray-500 dark:text-gray-400">
+          <i data-lucide="shield-alert" class="w-4 h-4 text-gray-400 flex-none mt-0.5"></i>
+          <p class="leading-relaxed text-[11px]">
+            <strong class="font-medium text-gray-700 dark:text-gray-300">Aviso legal:</strong> Información de carácter orientativo y divulgativo basada en normativa oficial del BOE. No constituye asesoramiento legal o tributario vinculante ni dictamen profesional.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Área Fija Inferior del Chat -->
+  <footer class="flex-none bg-gradient-to-t from-[#fcfcfd] via-[#fcfcfd]/95 to-transparent dark:from-[#111215] dark:via-[#111215]/95 dark:to-transparent pt-3 pb-5 px-4 sticky bottom-0 z-20">
+    <div class="max-w-3xl mx-auto relative">
+
+      <!-- Popover de Métodos de Consulta (Flotante hacia arriba) -->
+      <div id="popover-strategy" class="hidden absolute left-0 bottom-full mb-2 w-80 sm:w-96 p-2 rounded-2xl bg-white dark:bg-[#1a1d21] border border-gray-200 dark:border-surface-darkBorder popover-shadow z-50 text-xs">
+        <div class="px-2 py-1.5 font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider text-[10px]">
+          Modo de consulta
+        </div>
+        <div id="strategy-options-list" class="space-y-1 mt-1">
+          <!-- Opciones inyectadas dinámicamente -->
+        </div>
+      </div>
+
+      <!-- Popover de Reranker (Flotante hacia arriba) -->
+      <div id="popover-reranker" class="hidden absolute left-24 sm:left-48 bottom-full mb-2 w-80 p-2 rounded-2xl bg-white dark:bg-[#1a1d21] border border-gray-200 dark:border-surface-darkBorder popover-shadow z-50 text-xs">
+        <div class="px-2 py-1.5 font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider text-[10px]">
+          Revisión y exactitud
+        </div>
+        <div id="reranker-options-list" class="space-y-1 mt-1">
+          <!-- Opciones inyectadas dinámicamente -->
+        </div>
+      </div>
+
+      <!-- Cápsula del Input Principal -->
+      <div class="bg-white dark:bg-surface-darkInput rounded-2xl sm:rounded-3xl border border-gray-300 dark:border-surface-darkBorder shadow-md hover:border-gray-400 dark:hover:border-gray-600 transition focus-within:ring-2 focus-within:ring-gray-300 dark:focus-within:ring-gray-700 focus-within:border-gray-400 p-2">
+
+        <!-- Textarea expansible -->
+        <textarea
+          id="chat-input"
+          rows="1"
+          placeholder="Escribe tu consulta legal o fiscal..."
+          class="w-full bg-transparent px-3 py-2 text-sm resize-none focus:outline-none max-h-36 placeholder-gray-400 dark:placeholder-gray-500"
+        ></textarea>
+
+        <!-- Barra de Selectores Integrada en la Caja de Texto -->
+        <div class="flex items-center justify-between pt-1 px-1">
+          <div class="flex items-center gap-1.5 flex-wrap">
+
+            <!-- Selector de Modo RAG -->
+            <button
+              id="btn-strategy-pill"
+              class="flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-gray-100 dark:bg-[#252a30] hover:bg-gray-200 dark:hover:bg-[#2e343c] text-gray-700 dark:text-gray-300 transition"
+              title="Cambiar modo de consulta"
+            >
+              <i data-lucide="layers" class="w-3.5 h-3.5 text-gray-500 dark:text-gray-400"></i>
+              <span id="label-active-strategy">Auto-merging</span>
+              <i data-lucide="chevron-up" class="w-3 h-3 opacity-60"></i>
+            </button>
+
+            <!-- Selector de Reranker (Predeterminado: Activo) -->
+            <button
+              id="btn-reranker-pill"
+              class="flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium bg-gray-100 dark:bg-[#252a30] hover:bg-gray-200 dark:hover:bg-[#2e343c] text-gray-700 dark:text-gray-300 transition"
+              title="Ajustar nivel de revisión"
+            >
+              <i data-lucide="sliders-horizontal" class="w-3.5 h-3.5 text-gray-500 dark:text-gray-400"></i>
+              <span id="label-active-reranker">Jina Reranker</span>
+              <i data-lucide="chevron-up" class="w-3 h-3 opacity-60"></i>
+            </button>
+
+          </div>
+
+          <!-- Botón de Envío -->
+          <button
+            id="btn-send"
+            disabled
+            class="w-8 h-8 rounded-full bg-gray-900 hover:bg-black dark:bg-gray-100 dark:hover:bg-white text-white dark:text-gray-900 disabled:opacity-30 disabled:hover:bg-gray-900 dark:disabled:hover:bg-gray-100 flex items-center justify-center transition shadow-sm"
+          >
+            <i data-lucide="arrow-up" class="w-4 h-4"></i>
+          </button>
+        </div>
+
+      </div>
+
+      <p class="text-[11px] text-center text-gray-400 dark:text-gray-500 mt-2">
+        Información de orientación fundamentada en normativa oficial. No sustituye asesoramiento legal o tributario vinculante.
+      </p>
+
+    </div>
+  </footer>
+
+  <!-- Lógica JavaScript del Cliente -->
+  <script>
+    const state = {
+      activeStrategy: 'auto_merging',
+      useReranker: true,
+      topK: 3,
+      isLoading: false,
+      strategies: {},
+      rerankers: {},
+    };
+
+    const chatMessages = document.getElementById('chat-messages');
+    const messagesContainer = document.getElementById('messages-container');
+    const emptyState = document.getElementById('empty-state');
+    const chatInput = document.getElementById('chat-input');
+    const btnSend = document.getElementById('btn-send');
+    const btnNewChat = document.getElementById('btn-new-chat');
+    const btnThemeToggle = document.getElementById('btn-theme-toggle');
+
+    const btnStrategyPill = document.getElementById('btn-strategy-pill');
+    const labelActiveStrategy = document.getElementById('label-active-strategy');
+    const popoverStrategy = document.getElementById('popover-strategy');
+    const strategyOptionsList = document.getElementById('strategy-options-list');
+
+    const btnRerankerPill = document.getElementById('btn-reranker-pill');
+    const labelActiveReranker = document.getElementById('label-active-reranker');
+    const popoverReranker = document.getElementById('popover-reranker');
+    const rerankerOptionsList = document.getElementById('reranker-options-list');
+
+    // Gestión del tema Dark / Light
+    function initTheme() {
+      if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    }
+    initTheme();
+
+    btnThemeToggle.addEventListener('click', () => {
+      document.documentElement.classList.toggle('dark');
+      localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+    });
+
+    // Auto-expansión del textarea
+    chatInput.addEventListener('input', () => {
+      chatInput.style.height = 'auto';
+      chatInput.style.height = Math.min(chatInput.scrollHeight, 140) + 'px';
+      btnSend.disabled = !chatInput.value.trim() || state.isLoading;
+    });
+
+    chatInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        if (!btnSend.disabled) sendMessage();
+      }
+    });
+
+    // Carga de metadatos de configuración desde el backend
+    async function loadConfig() {
+      try {
+        const res = await fetch('/api/strategies');
+        const data = await res.json();
+        state.strategies = data.estrategias || {};
+        state.rerankers = data.rerankers || {};
+        renderStrategyOptions();
+        renderRerankerOptions();
+      } catch (err) {
+        console.error('Error cargando configuración:', err);
+      }
+    }
+
+    function renderStrategyOptions() {
+      strategyOptionsList.innerHTML = '';
+      Object.entries(state.strategies).forEach(([key, strat]) => {
+        const isSelected = key === state.activeStrategy;
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = `w-full text-left p-2.5 rounded-xl border transition flex items-start gap-2.5 ${
+          isSelected
+            ? 'bg-gray-50 dark:bg-surface-darkBorder/60 border-gray-400 dark:border-gray-500'
+            : 'border-transparent hover:bg-gray-100 dark:hover:bg-[#252a30]'
+        }`;
+        item.innerHTML = `
+          <div class="mt-0.5">
+            <span class="w-3.5 h-3.5 rounded-full border flex items-center justify-center ${isSelected ? 'border-gray-800 dark:border-gray-200 bg-gray-800 dark:bg-gray-200' : 'border-gray-400'}">
+              ${isSelected ? '<span class="w-1.5 h-1.5 rounded-full bg-white dark:bg-gray-900"></span>' : ''}
+            </span>
+          </div>
+          <div class="flex-1">
+            <div class="flex items-center justify-between mb-0.5">
+              <span class="font-medium text-gray-900 dark:text-gray-100">${escapeHtml(strat.nombre)}</span>
+              <span class="text-[9px] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-surface-darkBorder text-gray-600 dark:text-gray-300 font-medium">${escapeHtml(strat.badge)}</span>
+            </div>
+            <p class="text-[11px] text-gray-500 dark:text-gray-400 leading-relaxed">${escapeHtml(strat.descripcion)}</p>
+          </div>
+        `;
+        item.addEventListener('click', () => {
+          state.activeStrategy = key;
+          labelActiveStrategy.textContent = strat.nombre;
+          popoverStrategy.classList.add('hidden');
+          renderStrategyOptions();
+        });
+        strategyOptionsList.appendChild(item);
+      });
+    }
+
+    function renderRerankerOptions() {
+      rerankerOptionsList.innerHTML = '';
+      const options = [
+        {
+          key: true,
+          meta: state.rerankers?.activo || {
+            nombre: 'Jina Reranker',
+            badge: 'Mayor exactitud',
+            descripcion: 'Hace una doble revisión de los textos encontrados para asegurarse de darte el dato exacto. Tarda unos segundos más, pero afina al máximo las cifras, porcentajes y condiciones.'
+          }
+        },
+        {
+          key: false,
+          meta: state.rerankers?.inactivo || {
+            nombre: 'Sin Reranker',
+            badge: 'Al instante',
+            descripcion: 'Te responde de inmediato con las primeras fuentes coincidentes sin hacer una segunda comprobación. Elige esta opción si buscas rapidez.'
+          }
+        }
+      ];
+
+      options.forEach(opt => {
+        const isSelected = state.useReranker === opt.key;
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = `w-full text-left p-2.5 rounded-xl border transition flex items-start gap-2.5 ${
+          isSelected
+            ? 'bg-gray-50 dark:bg-surface-darkBorder/60 border-gray-400 dark:border-gray-500'
+            : 'border-transparent hover:bg-gray-100 dark:hover:bg-[#252a30]'
+        }`;
+        item.innerHTML = `
+          <div class="mt-0.5">
+            <span class="w-3.5 h-3.5 rounded-full border flex items-center justify-center ${isSelected ? 'border-gray-800 dark:border-gray-200 bg-gray-800 dark:bg-gray-200' : 'border-gray-400'}">
+              ${isSelected ? '<span class="w-1.5 h-1.5 rounded-full bg-white dark:bg-gray-900"></span>' : ''}
+            </span>
+          </div>
+          <div class="flex-1">
+            <div class="flex items-center justify-between mb-0.5">
+              <span class="font-medium text-gray-900 dark:text-gray-100">${escapeHtml(opt.meta.nombre)}</span>
+              <span class="text-[9px] px-1.5 py-0.5 rounded-full bg-gray-100 dark:bg-surface-darkBorder text-gray-600 dark:text-gray-300 font-medium">${escapeHtml(opt.meta.badge)}</span>
+            </div>
+            <p class="text-[11px] text-gray-500 dark:text-gray-400 leading-relaxed">${escapeHtml(opt.meta.descripcion)}</p>
+          </div>
+        `;
+        item.addEventListener('click', () => {
+          state.useReranker = opt.key;
+          labelActiveReranker.textContent = opt.meta.nombre;
+          popoverReranker.classList.add('hidden');
+          renderRerankerOptions();
+        });
+        rerankerOptionsList.appendChild(item);
+      });
+    }
+
+    // Toggle de Popovers
+    btnStrategyPill.addEventListener('click', (e) => {
+      e.stopPropagation();
+      popoverReranker.classList.add('hidden');
+      popoverStrategy.classList.toggle('hidden');
+    });
+
+    btnRerankerPill.addEventListener('click', (e) => {
+      e.stopPropagation();
+      popoverStrategy.classList.add('hidden');
+      popoverReranker.classList.toggle('hidden');
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!popoverStrategy.contains(e.target) && !btnStrategyPill.contains(e.target)) {
+        popoverStrategy.classList.add('hidden');
+      }
+      if (!popoverReranker.contains(e.target) && !btnRerankerPill.contains(e.target)) {
+        popoverReranker.classList.add('hidden');
+      }
+    });
+
+    // Prompts sugeridos
+    document.querySelectorAll('.sample-prompt').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const text = btn.querySelector('.text-gray-500').textContent;
+        chatInput.value = text;
+        chatInput.dispatchEvent(new Event('input'));
+        sendMessage();
+      });
+    });
+
+    btnNewChat.addEventListener('click', () => {
+      messagesContainer.innerHTML = '';
+      messagesContainer.appendChild(emptyState);
+      chatInput.value = '';
+      chatInput.style.height = 'auto';
+      btnSend.disabled = true;
+    });
+
+    btnSend.addEventListener('click', sendMessage);
+
+    // Enviar y procesar consulta
+    async function sendMessage() {
+      const query = chatInput.value.trim();
+      if (!query || state.isLoading) return;
+
+      if (emptyState.parentNode) {
+        emptyState.remove();
+      }
+
+      state.isLoading = true;
+      btnSend.disabled = true;
+      chatInput.value = '';
+      chatInput.style.height = 'auto';
+
+      appendUserMessage(query);
+      const loadingMessageEl = appendLoadingIndicator();
+      scrollToBottom();
+
+      try {
+        const response = await fetch('/api/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            consulta: query,
+            strategy: state.activeStrategy,
+            use_reranker: state.useReranker,
+            top_k: state.topK,
+          })
+        });
+
+        const data = await response.json();
+        loadingMessageEl.remove();
+
+        if (data.error) {
+          appendErrorMessage(data.error);
+        } else {
+          appendAssistantMessage(data);
+        }
+      } catch (err) {
+        loadingMessageEl.remove();
+        appendErrorMessage(`Error al procesar la consulta: ${err.message}`);
+      } finally {
+        state.isLoading = false;
+        btnSend.disabled = !chatInput.value.trim();
+        scrollToBottom();
+      }
+    }
+
+    function scrollToBottom() {
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    // Renderizado de Mensaje del Usuario
+    function appendUserMessage(text) {
+      const wrap = document.createElement('div');
+      wrap.className = 'flex justify-end';
+      wrap.innerHTML = `
+        <div class="max-w-[85%] sm:max-w-[75%] rounded-2xl px-4 py-3 bg-gray-100 dark:bg-surface-darkBorder text-gray-900 dark:text-gray-100 text-sm">
+          <p class="whitespace-pre-wrap leading-relaxed">${escapeHtml(text)}</p>
+        </div>
+      `;
+      messagesContainer.appendChild(wrap);
+    }
+
+    // Renderizado de Indicador de Carga
+    function appendLoadingIndicator() {
+      const wrap = document.createElement('div');
+      wrap.className = 'flex items-start gap-3';
+      wrap.innerHTML = `
+        <div class="w-7 h-7 rounded-md bg-gray-100 dark:bg-surface-darkBorder text-gray-700 dark:text-gray-300 flex items-center justify-center font-bold flex-none mt-1">
+          <i data-lucide="scale" class="w-3.5 h-3.5"></i>
+        </div>
+        <div class="flex-1 bg-white dark:bg-surface-darkCard rounded-2xl p-4 border border-gray-200/80 dark:border-surface-darkBorder shadow-sm">
+          <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400">
+            <div class="w-2 h-2 rounded-full bg-gray-600 dark:bg-gray-300 animate-pulse"></div>
+            <span>Consultando fuentes normativas oficiales...</span>
+          </div>
+        </div>
+      `;
+      messagesContainer.appendChild(wrap);
+      lucide.createIcons();
+      return wrap;
+    }
+
+    // Renderizado de Mensaje de Error
+    function appendErrorMessage(msg) {
+      const wrap = document.createElement('div');
+      wrap.className = 'flex items-start gap-3';
+      wrap.innerHTML = `
+        <div class="w-7 h-7 rounded-md bg-red-100 dark:bg-red-950 text-red-600 flex items-center justify-center flex-none mt-1">
+          <i data-lucide="alert-circle" class="w-3.5 h-3.5"></i>
+        </div>
+        <div class="flex-1 bg-red-50/60 dark:bg-red-950/20 rounded-2xl p-4 border border-red-200 dark:border-red-900/50 text-xs text-red-700 dark:text-red-300">
+          <span class="font-medium block mb-1">Aviso</span>
+          <p>${escapeHtml(msg)}</p>
+        </div>
+      `;
+      messagesContainer.appendChild(wrap);
+      lucide.createIcons();
+    }
+
+    // Renderizado de Respuesta Completa del Asistente
+    function appendAssistantMessage(data) {
+      const wrap = document.createElement('div');
+      wrap.className = 'flex items-start gap-3';
+
+      const resp = data.respuesta || {};
+      const fuentes = data.fuentes || [];
+      const bloqueada = data.bloqueada;
+      let rawResumen = resp.resumen_ejecutivo || '';
+      if (rawResumen.trim().startsWith('{') && rawResumen.includes('"resumen_ejecutivo"')) {
+        try {
+          const parsed = JSON.parse(rawResumen.trim());
+          if (parsed && parsed.resumen_ejecutivo) {
+            rawResumen = parsed.resumen_ejecutivo;
+          }
+        } catch (e) {}
+      }
+      const parsedMarkdown = DOMPurify.sanitize(marked.parse(rawResumen));
+
+      const esInyeccion = bloqueada && (data.motivo_bloqueo || '').toLowerCase().includes('inyección');
+
+      // Certeza badge sobrio
+      let certezaClass = 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/50 dark:text-emerald-300 border-emerald-200 dark:border-emerald-900';
+      if (resp.grado_certeza === 'media') {
+        certezaClass = 'bg-amber-50 text-amber-700 dark:bg-amber-950/50 dark:text-amber-300 border-amber-200 dark:border-amber-900';
+      } else if (esInyeccion) {
+        certezaClass = 'bg-red-50 text-red-700 dark:bg-red-950/50 dark:text-red-300 border-red-200 dark:border-red-900';
+      } else if (resp.grado_certeza === 'baja' || bloqueada) {
+        certezaClass = 'bg-gray-100 text-gray-600 dark:bg-surface-darkBorder dark:text-gray-300 border-gray-200 dark:border-surface-darkBorder';
+      }
+
+      // Requisitos o plazos tags
+      const requisitosHtml = (resp.requisitos_o_plazos || []).map(r => `
+        <span class="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 rounded-md bg-gray-50 dark:bg-[#1a1d21] text-gray-700 dark:text-gray-300 border border-gray-200/80 dark:border-surface-darkBorder">
+          <i data-lucide="check" class="w-3 h-3 text-emerald-600"></i> ${escapeHtml(r)}
+        </span>
+      `).join('');
+
+      // Artículos citados tags
+      const articulosHtml = (resp.articulos_citados || []).map(a => `
+        <span class="inline-flex items-center gap-1 text-[11px] px-2 py-0.5 rounded-md bg-gray-50 dark:bg-[#1a1d21] text-gray-700 dark:text-gray-300 border border-gray-200/80 dark:border-surface-darkBorder font-mono">
+          <i data-lucide="bookmark" class="w-3 h-3 text-gray-500"></i> ${escapeHtml(a)}
+        </span>
+      `).join('');
+
+      // Generar tarjetas de fuentes (ordenadas de mayor a menor relevancia, sin score numérico)
+      const fuentesCardsHtml = fuentes.map((f, i) => {
+        const isPrincipal = f.es_principal;
+        return `
+          <div class="p-3.5 rounded-xl border ${isPrincipal ? 'border-gray-300 dark:border-gray-600 bg-gray-50/60 dark:bg-[#171a1f]' : 'border-gray-200 dark:border-surface-darkBorder bg-white dark:bg-[#14161a]'} transition">
+            <div class="flex items-center justify-between gap-2 mb-2 flex-wrap">
+              <div class="flex items-center gap-2">
+                <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-gray-200 dark:bg-surface-darkBorder text-gray-800 dark:text-gray-200 font-mono">${escapeHtml(f.doc_code || 'DOC')}</span>
+                <span class="text-xs font-semibold text-gray-900 dark:text-gray-100">${escapeHtml(f.ley || '')} ${f.titulo ? '• ' + escapeHtml(f.titulo) : ''}</span>
+              </div>
+              <div class="flex items-center gap-2">
+                ${isPrincipal ? '<span class="text-[10px] font-medium px-2 py-0.5 rounded-full bg-gray-200 dark:bg-surface-darkBorder text-gray-700 dark:text-gray-300">Fuente principal</span>' : ''}
+                ${f.url ? `<a href="${f.url}" target="_blank" rel="noopener" class="text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 transition" title="Ver en BOE oficial"><i data-lucide="external-link" class="w-3.5 h-3.5"></i></a>` : ''}
+              </div>
+            </div>
+            <div class="text-[11px] text-gray-600 dark:text-gray-300 font-serif leading-relaxed bg-white/80 dark:bg-[#101215] p-2.5 rounded-lg border border-gray-100 dark:border-surface-darkBorder max-h-40 overflow-y-auto whitespace-pre-line">
+              ${escapeHtml(f.texto)}
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      wrap.innerHTML = `
+        <div class="w-7 h-7 rounded-md ${esInyeccion ? 'bg-red-100 text-red-600 dark:bg-red-950 dark:text-red-400' : 'bg-gray-100 text-gray-700 dark:bg-surface-darkBorder dark:text-gray-300'} flex items-center justify-center font-bold flex-none mt-1">
+          <i data-lucide="${esInyeccion ? 'shield-alert' : 'scale'}" class="w-3.5 h-3.5"></i>
+        </div>
+
+        <div class="flex-1 space-y-3">
+          <!-- Tarjeta de Respuesta Principal -->
+          <div class="bg-white dark:bg-surface-darkCard rounded-2xl p-4 sm:p-5 border border-gray-200/80 dark:border-surface-darkBorder shadow-sm space-y-3">
+
+            <!-- Fila Superior de Metadatos -->
+            <div class="flex items-center justify-between gap-2 border-b border-gray-100 dark:border-surface-darkBorder pb-2 text-[11px] flex-wrap">
+              <div class="flex items-center gap-2">
+                <span class="px-2 py-0.5 rounded-full border text-[10px] font-medium ${certezaClass}">
+                  Certeza: ${escapeHtml(resp.grado_certeza || 'alta')}
+                </span>
+                <span class="text-gray-400">•</span>
+                <span class="text-gray-500 dark:text-gray-400 font-medium">${escapeHtml(data.estrategia?.nombre || '')}</span>
+                ${data.reranker_activo ? '<span class="text-gray-400">• Precisión alta</span>' : ''}
+              </div>
+            </div>
+
+            <!-- Si fue bloqueada por controles de inyección o ataque -->
+            ${esInyeccion ? `
+              <div class="p-3 rounded-xl bg-red-50/70 dark:bg-red-950/30 border border-red-200 dark:border-red-900 text-xs text-red-800 dark:text-red-200">
+                <strong class="block mb-0.5">Seguridad:</strong>
+                ${escapeHtml(data.motivo_bloqueo || 'Consulta no permitida.')}
+              </div>
+            ` : ''}
+
+            <!-- Resumen Ejecutivo -->
+            <div class="prose dark:prose-invert text-sm text-gray-800 dark:text-gray-200 leading-relaxed">
+              ${parsedMarkdown}
+            </div>
+
+            <!-- Requisitos o plazos si existen -->
+            ${requisitosHtml ? `
+              <div class="pt-2 border-t border-gray-100 dark:border-surface-darkBorder">
+                <span class="text-[10px] uppercase font-bold text-gray-400 block mb-1.5">Requisitos o condiciones</span>
+                <div class="flex flex-wrap gap-1.5">${requisitosHtml}</div>
+              </div>
+            ` : ''}
+
+            <!-- Artículos citados si existen -->
+            ${articulosHtml ? `
+              <div class="pt-1">
+                <span class="text-[10px] uppercase font-bold text-gray-400 block mb-1.5">Normativa aplicable</span>
+                <div class="flex flex-wrap gap-1.5">${articulosHtml}</div>
+              </div>
+            ` : ''}
+
+            <!-- Aviso Legal Preceptivo Visible -->
+            <div class="pt-2.5 border-t border-gray-100 dark:border-surface-darkBorder/60 flex items-start gap-1.5 text-[10px] text-gray-400 dark:text-gray-500 leading-normal">
+              <i data-lucide="shield-check" class="w-3.5 h-3.5 flex-none mt-0.5 text-gray-400"></i>
+              <span>${escapeHtml(resp.aviso_legal || 'AVISO: Información de carácter orientativo y divulgativo basada en normativa oficial del BOE. No constituye asesoramiento legal o tributario vinculante ni dictamen profesional.')}</span>
+            </div>
+
+          </div>
+
+          <!-- Desplegable de Fuentes Normativas (CERRADO POR DEFECTO) -->
+          ${fuentes.length > 0 ? `
+            <div class="bg-white dark:bg-surface-darkCard rounded-2xl border border-gray-200/80 dark:border-surface-darkBorder overflow-hidden shadow-sm">
+              <details class="group">
+                <summary class="flex items-center justify-between p-3.5 cursor-pointer select-none hover:bg-gray-50 dark:hover:bg-[#1a1d21] transition">
+                  <div class="flex items-center gap-2 text-xs font-medium text-gray-700 dark:text-gray-300">
+                    <i data-lucide="book-open" class="w-4 h-4 text-gray-500"></i>
+                    <span>Fuentes oficiales consultadas (${fuentes.length})</span>
+                  </div>
+                  <i data-lucide="chevron-down" class="w-4 h-4 text-gray-400 transition-transform group-open:rotate-180"></i>
+                </summary>
+
+                <div class="p-3 pt-0 space-y-2 border-t border-gray-100 dark:border-surface-darkBorder/60">
+                  ${fuentesCardsHtml}
+                </div>
+              </details>
+            </div>
+          ` : ''}
+
+        </div>
+      `;
+
+      messagesContainer.appendChild(wrap);
+      lucide.createIcons();
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    // Inicio de la app
+    loadConfig();
+    lucide.createIcons();
+  </script>
+</body>
+</html>

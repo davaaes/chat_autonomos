@@ -1,0 +1,2078 @@
+# DOC-07 - Ley 37/1992
+
+- BOE ID: BOE-A-1992-28740
+- Alcance: Artículos 4 a 28 y 90 a 114
+
+## Artículo 4. Hecho imponible
+
+Artículo 4. Hecho imponible
+
+Uno. Estarán sujetas al impuesto las entregas de bienes y prestaciones de servicios realizadas en el ámbito espacial del impuesto por empresarios o profesionales a título oneroso, con carácter habitual u ocasional, en el desarrollo de su actividad empresarial o profesional, incluso si se efectúan en favor de los propios socios, asociados, miembros o partícipes de las entidades que las realicen.
+
+Dos. Se entenderán realizadas en el desarrollo de una actividad empresarial o profesional:
+
+a) Las entregas de bienes y prestaciones de servicios efectuadas por las sociedades mercantiles, cuando tengan la condición de empresario o profesional.
+
+b) Las transmisiones o cesiones de uso a terceros de la totalidad o parte de cualesquiera de los bienes o derechos que integren el patrimonio empresarial o profesional de los sujetos pasivos, incluso las efectuadas con ocasión del cese en el ejercicio de las actividades económicas que determinan la sujeción al Impuesto
+
+c) Los servicios desarrollados por los Registradores de la Propiedad en su condición de liquidadores titulares de una Oficina Liquidadora de Distrito Hipotecario.
+
+Tres. La sujeción al impuesto se produce con independencia de los fines o resultados perseguidos en la actividad empresarial o profesional o en cada operación en particular.
+
+Cuatro. Las operaciones sujetas a este impuesto no estarán sujetas al concepto «transmisiones patrimoniales onerosas» del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+Se exceptúan de lo dispuesto en el párrafo anterior las entregas y arrendamientos de bienes inmuebles, así como la constitución o transmisión de derechos reales de goce o disfrute que recaigan sobre los mismos, cuando estén exentos del impuesto, salvo en los casos en que el sujeto pasivo renuncie a la exención en las circunstancias y con las condiciones recogidas en el artículo 20.Dos.
+
+## Artículo 5. Concepto de empresario o profesional
+
+Artículo 5. Concepto de empresario o profesional
+
+Uno. A los efectos de lo dispuesto en esta Ley, se reputarán empresarios o profesionales:
+
+a) Las personas o entidades que realicen las actividades empresariales o profesionales definidas en el apartado siguiente de este artículo.
+
+No obstante, no tendrán la consideración de empresarios o profesionales quienes realicen exclusivamente entregas de bienes o prestaciones de servicios a título gratuito, sin perjuicio de lo establecido en la letra siguiente.
+
+b) Las sociedades mercantiles, salvo prueba en contrario.
+
+c) Quienes realicen una o varias entregas de bienes o prestaciones de servicios que supongan la explotación de un bien corporal o incorporal con el fin de obtener ingresos continuados en el tiempo.
+
+En particular, tendrán dicha consideración los arrendadores de bienes.
+
+d) Quienes efectúen la urbanización de terrenos o la promoción, construcción o rehabilitación de edificaciones destinadas, en todos los casos, a su venta, adjudicación o cesión por cualquier título, aunque sea ocasionalmente.
+
+e) Quienes realicen a título ocasional las entregas de medios de transporte nuevos exentas del Impuesto en virtud de lo dispuesto en el artículo 25, apartados uno y dos de esta Ley.
+
+Los empresarios o profesionales a que se refiere esta letra sólo tendrán dicha condición a los efectos de las entregas de los medios de transporte que en ella se comprenden.
+
+Dos. Son actividades empresariales o profesionales las que impliquen la ordenación por cuenta propia de factores de producción materiales y humanos o de uno de ellos, con la finalidad de intervenir en la producción o distribución de bienes o servicios.
+
+En particular, tienen esta consideración las actividades extractivas, de fabricación, comercio y prestación de servicios, incluidas las de artesanía, agrícolas, forestales, ganaderas, pesqueras, de construcción, mineras y el ejercicio de profesiones liberales y artísticas.
+
+A efectos de este impuesto, las actividades empresariales o profesionales se considerarán iniciadas desde el momento en que se realice la adquisición de bienes o servicios con la intención, confirmada por elementos objetivos, de destinarlos al desarrollo de tales actividades, incluso en los casos a que se refieren las letras b), c) y d) del apartado anterior. Quienes realicen tales adquisiciones tendrán desde dicho momento la condición de empresarios o profesionales a efectos del Impuesto sobre el Valor Añadido.
+
+Tres. Se presumirá el ejercicio de actividades empresariales o profesionales:
+
+a) En los supuestos a que se refiere el artículo 3.º del Código de Comercio.
+
+b) Cuando para la realización de las operaciones definidas en el artículo 4 de esta Ley se exija contribuir por el Impuesto sobre Actividades Económicas.
+
+Cuatro. A los solos efectos de lo dispuesto en los artículos 69, 70 y 72 de esta Ley, se reputarán empresarios o profesionales actuando como tales respecto de todos los servicios que les sean prestados:
+
+1.º Quienes realicen actividades empresariales o profesionales simultáneamente con otras que no estén sujetas al Impuesto de acuerdo con lo dispuesto en el apartado Uno del artículo 4 de esta Ley.
+
+2.º Las personas jurídicas que no actúen como empresarios o profesionales siempre que tengan asignado un número de identificación a efectos del Impuesto sobre el Valor Añadido suministrado por la Administración española.
+
+## Artículo 6. Concepto de edificaciones
+
+Artículo 6. Concepto de edificaciones
+
+Uno. A los efectos de este impuesto, se considerarán edificaciones las construcciones unidas permanentemente al suelo o a otros inmuebles, efectuadas tanto sobre la superficie como en el subsuelo, que sean susceptibles de utilización autónoma e independiente.
+
+Dos. En particular, tendrán la consideración de edificaciones las construcciones que a continuación se relacionan, siempre que estén unidas a un inmueble de una manera fija, de suerte que no puedan separarse de él sin quebranto de la materia ni deterioro del objeto:
+
+a) Los edificios, considerándose como tales toda construcción permanente, separada e independiente, concebida para ser utilizada como vivienda o para servir al desarrollo de una actividad económica.
+
+b) Las instalaciones industriales no habitables, tales como diques, tanques o cargaderos.
+
+c) Las plataformas para exploración y explotación de hidrocarburos.
+
+d) Los puertos, aeropuertos y mercados.
+
+e) Las instalaciones de recreo y deportivas que no sean accesorias de otras edificaciones.
+
+f) Los caminos, canales de navegación, líneas de ferrocarril, carreteras, autopistas y demás vías de comunicación terrestres o fluviales, así como los puentes o viaductos y túneles relativos a las mismas.
+
+g) Las instalaciones fijas de transporte por cable.
+
+Tres. No tendrán la consideración de edificaciones:
+
+a) Las obras de urbanización de terrenos y en particular las de abastecimiento y evacuación de aguas, suministro de energía eléctrica, redes de distribución de gas, instalaciones telefónicas, accesos, calles y aceras.
+
+b) Las construcciones accesorias de explotaciones agrícolas que guarden relación con la naturaleza y destino de la finca aunque el titular de la explotación, sus familiares o las personas que con él trabajen tengan en ellas su vivienda.
+
+c) Los objetos de uso y ornamentación, tales como máquinas, instrumentos y utensilios y demás inmuebles por destino a que se refiere el artículo 334, números 4 y 5 del Código Civil.
+
+d) Las minas, canteras o escoriales, pozos de petróleo o de gas u otros lugares de extracción de productos naturales.
+
+## Artículo 7. Operaciones no sujetas al impuesto
+
+Artículo 7. Operaciones no sujetas al impuesto
+
+No estarán sujetas al impuesto:
+
+1.º La transmisión de un conjunto de elementos corporales y, en su caso, incorporales que, formando parte del patrimonio empresarial o profesional del sujeto pasivo, constituyan o sean susceptibles de constituir una unidad económica autónoma en el transmitente, capaz de desarrollar una actividad empresarial o profesional por sus propios medios, con independencia del régimen fiscal que a dicha transmisión le resulte de aplicación en el ámbito de otros tributos y del procedente conforme a lo dispuesto en el artículo 4, apartado cuatro, de esta Ley.
+
+Quedarán excluidas de la no sujeción a que se refiere el párrafo anterior las siguientes transmisiones:
+
+a) La mera cesión de bienes o de derechos.
+
+b) Las realizadas por quienes tengan la condición de empresario o profesional exclusivamente conforme a lo dispuesto por el artículo 5, apartado uno, letra c) de esta Ley, cuando dichas transmisiones tengan por objeto la mera cesión de bienes.
+
+c) Las efectuadas por quienes tengan la condición de empresario o profesional exclusivamente por la realización ocasional de las operaciones a que se refiere el artículo 5, apartado uno, letra d) de esta Ley.
+
+A los efectos de lo dispuesto en este número, resultará irrelevante que el adquirente desarrolle la misma actividad a la que estaban afectos los elementos adquiridos u otra diferente, siempre que se acredite por el adquirente la intención de mantener dicha afectación al desarrollo de una actividad empresarial o profesional.
+
+En relación con lo dispuesto en este número, se considerará como mera cesión de bienes o de derechos, la transmisión de éstos cuando no se acompañe de una estructura organizativa de factores de producción materiales y humanos, o de uno de ellos, que permita considerar a la misma constitutiva de una unidad económica autónoma.
+
+En caso de que los bienes y derechos transmitidos, o parte de ellos, se desafecten posteriormente de las actividades empresariales o profesionales que determinan la no sujeción prevista en este número, la referida desafectación quedará sujeta al Impuesto en la forma establecida para cada caso en esta Ley.
+
+Los adquirentes de los bienes y derechos comprendidos en las transmisiones que se beneficien de la no sujeción establecida en este número se subrogarán, respecto de dichos bienes y derechos, en la posición del transmitente en cuanto a la aplicación de las normas contenidas en el artículo 20, apartado uno, número 22.º y en los artículos 92 a 114 de esta Ley.
+
+2.º Las entregas gratuitas de muestras de mercancías sin valor comercial estimable, con fines de promoción de las actividades empresariales o profesionales.
+
+A los efectos de esta Ley, se entenderá por muestras de mercancías los artículos representativos de una categoría de las mismas que, por su modo de presentación o cantidad, sólo puedan utilizarse en fines de promoción.
+
+3.º Las prestaciones de servicios de demostración a título gratuito efectuadas para la promoción de las actividades empresariales o profesionales.
+
+4.º Las entregas sin contraprestación de impresos u objetos de carácter publicitario.
+
+Los impresos publicitarios deberán llevar de forma visible el nombre del empresario o profesional que produzca o comercialice bienes o que ofrezca determinadas prestaciones de servicios.
+
+A los efectos de esta Ley, se considerarán objetos de carácter publicitario los que carezcan de valor comercial intrínseco, en los que se consigne de forma indeleble la mención publicitaria.
+
+Por excepción a lo dispuesto en este número, quedarán sujetas al Impuesto las entregas de objetos publicitarios cuando el coste total de los suministros a un mismo destinatario durante el año natural exceda de 200 euros, a menos que se entreguen a otros sujetos pasivos para su redistribución gratuita.
+
+5.º Los servicios prestados por personas físicas en régimen de dependencia derivado de relaciones administrativas o laborales, incluidas en estas últimas las de carácter especial.
+
+6.º Los servicios prestados a las cooperativas de trabajo asociado por los socios de las mismas y los prestados a las demás cooperativas por sus socios de trabajo.
+
+7.º Las operaciones previstas en el artículo 9, número 1.º y en el artículo 12, números 1.º y 2.º de esta Ley, siempre que no se hubiese atribuido al sujeto pasivo el derecho a efectuar la deducción total o parcial del Impuesto sobre el Valor Añadido efectivamente soportado con ocasión de la adquisición o importación de los bienes o de sus elementos componentes que sean objeto de dichas operaciones.
+
+Tampoco estarán sujetas al impuesto las operaciones a que se refiere el artículo 12, número 3.º de esta Ley cuando el sujeto pasivo se limite a prestar el mismo servicio recibido de terceros y no se le hubiera atribuido el derecho a deducir total o parcialmente el Impuesto sobre el Valor Añadido efectivamente soportado en la recepción de dicho servicio.
+
+8.º A) Las entregas de bienes y prestaciones de servicios realizadas directamente por las Administraciones Públicas, así como las entidades a las que se refieren los apartados C) y D) de este número, sin contraprestación o mediante contraprestación de naturaleza tributaria.
+
+B) A estos efectos se considerarán Administraciones Públicas:
+
+a) La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.
+
+b) Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.
+
+c) Los Organismos Autónomos, las Universidades Públicas y las Agencias Estatales.
+
+d) Cualesquiera entidad de derecho público con personalidad jurídica propia, dependiente de las anteriores que, con independencia funcional o con una especial autonomía reconocida por la Ley tengan atribuidas funciones de regulación o control de carácter externo sobre un determinado sector o actividad.
+
+No tendrán la consideración de Administraciones Públicas las entidades públicas empresariales estatales y los organismos asimilados dependientes de las Comunidades Autónomas y Entidades locales.
+
+C) No estarán sujetos al Impuesto los servicios prestados en virtud de los encargos ejecutados por los entes, organismos y entidades del sector público que ostenten, de conformidad con lo establecido en el artículo 32 de la Ley de Contratos del Sector Público, la condición de medio propio personificado del poder adjudicador que haya ordenado el encargo, en los términos establecidos en el referido artículo 32.
+
+D) Asimismo, no estarán sujetos al Impuesto los servicios prestados por cualesquiera entes, organismos o entidades del sector público, en los términos a que se refiere el artículo 3.1 de la Ley de Contratos del Sector Público, a favor de las Administraciones Públicas de la que dependan o de otra íntegramente dependiente de estas, cuando dichas Administraciones Públicas ostenten la titularidad íntegra de los mismos.
+
+E) La no consideración como operaciones sujetas al impuesto que establecen los dos apartados C) y D) anteriores será igualmente aplicable a los servicios prestados entre las entidades a las que se refieren los mismos, íntegramente dependientes de la misma Administración Pública.
+
+F) En todo caso, estarán sujetas al Impuesto las entregas de bienes y prestaciones de servicios que las Administraciones, entes, organismos y entidades del sector público realicen en el ejercicio de las actividades que a continuación se relacionan:
+
+a´) Telecomunicaciones.
+
+b´) Distribución de agua, gas, calor, frío, energía eléctrica y demás modalidades de energía.
+
+c´) Transportes de personas y bienes.
+
+d´) Servicios portuarios y aeroportuarios y servicios de administración de infraestructuras ferroviarias incluyendo, a estos efectos, las concesiones y autorizaciones exceptuadas de la no sujeción del Impuesto por el número 9.º siguiente.
+
+e´) Obtención, fabricación o transformación de productos para su transmisión posterior.
+
+f´) Intervención sobre productos agropecuarios dirigida a la regulación del mercado de estos productos.
+
+g´) Explotación de ferias y de exposiciones de carácter comercial.
+
+h´) Almacenaje y depósito.
+
+i´) Las de oficinas comerciales de publicidad.
+
+j´) Explotación de cantinas y comedores de empresas, economatos, cooperativas y establecimientos similares.
+
+k´) Las de agencias de viajes.
+
+l´) Las comerciales o mercantiles de los Entes públicos de radio y televisión, incluidas las relativas a la cesión del uso de sus instalaciones.
+
+m´) Las de matadero.
+
+9.º Las concesiones y autorizaciones administrativas, con excepción de las siguientes:
+
+a) Las que tengan por objeto la cesión del derecho a utilizar el dominio público portuario.
+
+b) Las que tengan por objeto la cesión de los inmuebles e instalaciones en aeropuertos.
+
+c) Las que tengan por objeto la cesión del derecho a utilizar infraestructuras ferroviarias.
+
+d) Las autorizaciones para la prestación de servicios al público y para el desarrollo de actividades comerciales o industriales en el ámbito portuario.
+
+10.º Las prestaciones de servicios a título gratuito a que se refiere el artículo 12, número 3.º de esta Ley que sean obligatorias para el sujeto pasivo en virtud de normas jurídicas o convenios colectivos, incluso los servicios telegráficos y telefónicos prestados en régimen de franquicia.
+
+11.º Las operaciones realizadas por las Comunidades de Regantes para la ordenación y aprovechamiento de las aguas.
+
+12.º Las entregas de dinero a título de contraprestación o pago.
+
+## Artículo 8. Concepto de entrega de bienes
+
+Artículo 8. Concepto de entrega de bienes
+
+Uno. Se considerará entrega de bienes la transmisión del poder de disposición sobre bienes corporales, incluso si se efectúa mediante cesión de títulos representativos de dichos bienes.
+
+A estos efectos, tendrán la condición de bienes corporales el gas, el calor, el frío, la energía eléctrica y demás modalidades de energía.
+
+Dos. También se considerarán entregas de bienes:
+
+1º. Las ejecuciones de obra que tengan por objeto la construcción o rehabilitación de una edificación, en el sentido del artículo 6 de esta ley, cuando el empresario que ejecute la obra aporte una parte de los materiales utilizados, siempre que el coste de los mismos exceda del 40 por 100 de la base imponible.
+
+2.º Las aportaciones no dinerarias efectuadas por los sujetos pasivos del Impuesto de elementos de su patrimonio empresarial o profesional a sociedades o comunidades de bienes o a cualquier otro tipo de entidades y las adjudicaciones de esta naturaleza en caso de liquidación o disolución total o parcial de aquéllas, sin perjuicio de la tributación que proceda con arreglo a las normas reguladoras de los conceptos "actos jurídicos documentados" y "operaciones societarias" del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+En particular, se considerará entrega de bienes la adjudicación de terrenos o edificaciones promovidos por una comunidad de bienes realizada en favor de los comuneros, en proporción a su cuota de participación.
+
+3.º Las transmisiones de bienes en virtud de una norma o de una resolución administrativa o jurisdiccional, incluida la expropiación forzosa.
+
+4.º Las cesiones de bienes en virtud de contratos de venta con pacto de reserva de dominio o condición suspensiva.
+
+5.º Las cesiones de bienes en virtud de contratos de arrendamiento-venta y asimilados.
+
+A efectos de este impuesto, se asimilarán a los contratos de arrendamiento-venta los de arrendamiento con opción de compra desde el momento en que el arrendatario se comprometa a ejercitar dicha opción y, en general, los de arrendamiento de bienes con cláusula de transferencia de la propiedad vinculante para ambas partes.
+
+6.º Las transmisiones de bienes entre comitente y comisionista que actúe en nombre propio efectuadas en virtud de contratos de comisión de venta o comisión de compra.
+
+7.º El suministro de un producto informático normalizado efectuado en cualquier soporte material.
+
+A estos efectos, se considerarán como productos informáticos normalizados aquellos que no precisen de modificación sustancial alguna para ser utilizados por cualquier usuario.
+
+8.º Las transmisiones de valores cuya posesión asegure, de hecho o de derecho, la atribución de la propiedad, el uso o disfrute de un inmueble o de una parte del mismo en los supuestos previstos en el artículo 20.Uno.18.º k) de esta Ley.
+
+Tres. A efectos de esta ley, se entenderá por:
+
+1.º “Ventas a distancia intracomunitarias de bienes”: las entregas de bienes que hayan sido expedidos o transportados por el vendedor, directa o indirectamente, o por su cuenta, a partir de un Estado miembro distinto del de llegada de la expedición o del transporte con destino al cliente, cuando se cumplan las siguientes condiciones:
+
+a) Que los destinatarios de las citadas entregas sean las personas cuyas adquisiciones intracomunitarias de bienes no estén sujetas al impuesto en virtud de lo dispuesto en el artículo 14 de esta Ley, o en el precepto equivalente al mismo que resulte aplicable en el Estado miembro de llegada de la expedición o el transporte, o bien cualquier otra persona que no tenga la condición de empresario o profesional actuando como tal.
+
+b) Que los bienes objeto de dichas entregas sean bienes distintos de los que se indican a continuación:
+
+a’) Medios de transporte nuevos, definidos en el artículo 13.2.º de esta Ley.
+
+b’) Bienes objeto de instalación o montaje a que se refiere el artículo 68.Dos.2.º de esta Ley.
+
+2.º “Ventas a distancia de bienes importados de países o territorios terceros”: las entregas de bienes que hayan sido expedidos o transportados por el vendedor, directa o indirectamente, o por su cuenta, a partir de un país o territorio tercero con destino a un cliente situado en un Estado miembro, cuando se cumplan las siguientes condiciones:
+
+a) Que los destinatarios de las citadas entregas sean las personas cuyas adquisiciones intracomunitarias de bienes no estén sujetas al impuesto en virtud de lo dispuesto en el artículo 14 de esta Ley, o en el precepto equivalente al mismo que resulte aplicable en el Estado miembro de llegada de la expedición o el transporte, o bien cualquier otra persona que no tenga la condición de empresario o profesional actuando como tal.
+
+b) Que los bienes objeto de dichas entregas sean bienes distintos de los que se indican a continuación:
+
+a’) Medios de transporte nuevos, definidos en el artículo 13.2.º de esta Ley.
+
+b’) Bienes objeto de instalación o montaje a que se refiere el artículo 68.Dos.2.º de esta Ley.
+
+## Artículo 8 bis. Entregas de bienes facilitadas a través de una interfaz digital.
+
+Artículo 8 bis. Entregas de bienes facilitadas a través de una interfaz digital.
+
+Cuando un empresario o profesional, utilizando una interfaz digital como un mercado en línea, una plataforma, un portal u otros medios similares, facilite:
+
+a) La venta a distancia de bienes importados de países o territorios terceros en envíos cuyo valor intrínseco no exceda de 150 euros, o
+
+b) La entrega de bienes en el interior de la Comunidad por parte de un empresario o profesional no establecido en la Comunidad a una persona que no tenga la condición de empresario o profesional actuando como tal, se considerará en ambos supuestos que el empresario o profesional titular de la interfaz digital ha recibido y entregado por sí mismo los correspondientes bienes y que la expedición o el transporte de los bienes se encuentra vinculado a la entrega por él realizada.
+
+A efectos de lo previsto en esta ley, la determinación del valor intrínseco de los bienes se efectuará en los términos previstos en la legislación aduanera.
+
+## Artículo 9. Operaciones asimiladas a las entregas de bienes
+
+Artículo 9. Operaciones asimiladas a las entregas de bienes
+
+Se considerarán operaciones asimiladas a las entregas de bienes a título oneroso:
+
+1.º El autoconsumo de bienes.
+
+A los efectos de este impuesto, se considerarán autoconsumos de bienes las siguientes operaciones realizadas sin contraprestación:
+
+a) La transferencia, efectuada por el sujeto pasivo, de bienes corporales de su patrimonio empresarial o profesional a su patrimonio personal o al consumo particular de dicho sujeto pasivo.
+
+b) La transmisión del poder de disposición sobre bienes corporales que integren el patrimonio empresarial o profesional del sujeto pasivo.
+
+c) El cambio de afectación de bienes corporales de un sector a otro diferenciado de su actividad empresarial o profesional.
+
+El supuesto de autoconsumo a que se refiere este párrafo c) no resultará aplicable en los siguientes casos:
+
+Cuando, por una modificación en la normativa vigente, una determinada actividad económica pase obligatoriamente a formar parte de un sector diferenciado distinto de aquel en el que venía estando integrada con anterioridad.
+
+Cuando el régimen de tributación aplicable a una determinada actividad económica cambie del régimen general al régimen especial simplificado, al de la agricultura, ganadería y pesca, al del recargo de equivalencia o al de las operaciones con oro de inversión, o viceversa, incluso por el ejercicio de un derecho de opción.
+
+Lo dispuesto en los dos guiones del párrafo anterior debe entenderse, en su caso, sin perjuicio de lo siguiente:
+
+De las regularizaciones de deducciones previstas en los artículos 101, 105, 106, 107, 109, 110, 112 y 113 de esta Ley.
+
+De la aplicación de lo previsto en el apartado dos del artículo 99 de esta Ley, en relación con la rectificación de deducciones practicadas inicialmente según el destino previsible de los bienes y servicios adquiridos, cuando el destino real de los mismos resulte diferente del previsto, en el caso de cuotas soportadas o satisfechas por la adquisición o importación de bienes o servicios distintos de los bienes de inversión que no hubiesen sido utilizados en ninguna medida en el desarrollo de la actividad empresarial o profesional con anterioridad al momento en que la actividad económica a la que estaban previsiblemente destinados en el momento en que se soportaron las cuotas pase a formar parte de un sector diferenciado distinto de aquel en el que venía estando integrada con anterioridad.
+
+De lo previsto en los artículos 134 bis y 155 de esta Ley, en relación con los supuestos de comienzo o cese en la aplicación de los regímenes especiales de la agricultura, ganadería y pesca o del recargo de equivalencia respectivamente.
+
+A efectos de lo dispuesto en esta Ley, se considerarán sectores diferenciados de la actividad empresarial o profesional los siguientes:
+
+a') Aquellos en los que las actividades económicas realizadas y los regímenes de deducción aplicables sean distintos.
+
+Se considerarán actividades económicas distintas aquellas que tengan asignados grupos diferentes en la Clasificación Nacional de Actividades Económicas.
+
+No obstante lo establecido en el párrafo anterior, no se reputará distinta la actividad accesoria a otra cuando, en el año precedente, su volumen de operaciones no excediera del 15 por 100 del de esta última y, además, contribuya a su realización. Si no se hubiese ejercido la actividad accesoria durante el año precedente, en el año en curso el requisito relativo al mencionado porcentaje será aplicable según las previsiones razonables del sujeto pasivo, sin perjuicio de la regularización que proceda si el porcentaje real excediese del límite indicado.
+
+Las actividades accesorias seguirán el mismo régimen que las actividades de las que dependan.
+
+Los regímenes de deducción a que se refiere esta letra a') se considerarán distintos si los porcentajes de deducción, determinados con arreglo a lo dispuesto en el artículo 104 de esta Ley, que resultarían aplicables en la actividad o actividades distintas de la principal difirieran en más de 50 puntos porcentuales del correspondiente a la citada actividad principal.
+
+La actividad principal, con las actividades accesorias a la misma y las actividades económicas distintas cuyos porcentajes de deducción no difirieran en más 50 puntos porcentuales con el de aquélla constituirán un solo sector diferenciado.
+
+Las actividades distintas de la principal cuyos porcentajes de deducción difirieran en más de 50 puntos porcentuales con el de ésta constituirán otro sector diferenciado del principal.
+
+A los efectos de lo dispuesto en esta letra a'), se considerará principal la actividad en la que se hubiese realizado mayor volumen de operaciones durante el año inmediato anterior.
+
+b') Las actividades acogidas a los regímenes especiales simplificado, de la agricultura, ganadería y pesca, de las operaciones con oro de inversión o del recargo de equivalencia.
+
+c') Las operaciones de arrendamiento financiero a que se refiere la disposición adicional tercera de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+
+d') Las operaciones de cesión de créditos o préstamos, con excepción de las realizadas en el marco de un contrato de "factoring".
+
+d) La afectación o, en su caso, el cambio de afectación de bienes producidos, construidos, extraídos, transformados, adquiridos o importados en el ejercicio de la actividad empresarial o profesional del sujeto pasivo para su utilización como bienes de inversión.
+
+Lo dispuesto en esta letra no será de aplicación en los supuestos en que al sujeto pasivo se le hubiera atribuido el derecho a deducir íntegramente las cuotas del Impuesto sobre el Valor Añadido que hubiere soportado en el caso de adquirir a terceros bienes de idéntica naturaleza.
+
+No se entenderá atribuido el derecho a deducir íntegramente las cuotas del impuesto que hubiesen soportado los sujetos pasivos al adquirir bienes de idéntica naturaleza cuando, con posterioridad a su puesta en funcionamiento y durante el período de regularización de deducciones, los bienes afectados se destinasen a alguna de las siguientes finalidades:
+
+a') Las que, en virtud de lo establecido en los artículos 95 y 96 de esta Ley, limiten o excluyan el derecho a deducir.
+
+b') La utilización en operaciones que no originen el derecho a la deducción.
+
+c') La utilización exclusiva en operaciones que originen el derecho a la deducción, siendo aplicable la regla de prorrata general.
+
+d') La realización de una entrega exenta del impuesto que no origine el derecho a deducir.
+
+2.º (Suprimido)
+
+3.º La transferencia por un sujeto pasivo de un bien corporal de su empresa con destino a otro Estado miembro, para afectarlo a las necesidades de aquella en este último. No tendrán esa consideración las transferencias realizadas en el marco de un acuerdo de ventas de bienes en consigna en los términos previstos en el artículo 9 bis de esta Ley.
+
+Quedarán excluidas de lo dispuesto en este número las transferencias de bienes que se utilicen para la realización de las siguientes operaciones.
+
+a) Las entregas de dichos bienes efectuadas por el sujeto pasivo que se considerarían efectuadas en el interior del Estado miembro de llegada de la expedición o del transporte por aplicación de los criterios contenidos en el artículo 68, apartado dos, número 2º., tres y cuatro, de esta Ley.
+
+b) Las entregas de dichos bienes efectuada por el sujeto pasivo a que se refiere el artículo 68, apartado dos, número 4.º, de esta Ley.
+
+c) Las entregas de dichos bienes efectuadas por el sujeto pasivo en el interior del país en las condiciones previstas en el artículo 21 o en el artículo 25 de esta Ley.
+
+d) Una ejecución de obra para el sujeto pasivo, cuando los bienes sean utilizados por el empresario que la realice en el Estado miembro de llegada de la expedición o transporte de los citados bienes, siempre que la obra fabricada o montada sea objeto de una entrega exenta con arreglo a los criterios contenidos en los artículos 21 y 25 de esta Ley.
+
+e) La prestación de un servicio para el sujeto pasivo, que tenga por objeto informes periciales o trabajos efectuados sobre dichos bienes en el Estado miembro de llegada de la expedición o del transporte de los mismos, siempre que éstos, después de los mencionados servicios, se reexpidan con destino al sujeto pasivo en el territorio de aplicación del Impuesto.
+
+Entre los citados trabajos se comprenden las reparaciones y las ejecuciones de obra que deban calificarse de prestaciones de servicios de acuerdo con el artículo 11 de esta Ley.
+
+f) La utilización temporal de dichos bienes, en el territorio del Estado miembro de llegada de la expedición o del transporte de los mismos, en la realización de prestaciones de servicios efectuadas por el sujeto pasivo establecido en España.
+
+g) La utilización temporal de dichos bienes, por un período que no exceda de veinticuatro meses, en el territorio de otro Estado miembro en el interior del cual la importación del mismo bien procedente de un país tercero para su utilización temporal se beneficiaría del régimen de importación temporal, con exención total de los derechos de importación.
+
+h) Las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración, que se considerarían efectuadas en otro Estado miembro de la Comunidad con arreglo a los criterios establecidos en el artículo 68.Seis de esta Ley.
+
+Las exclusiones a que se refieren las letras a) a h) anteriores no tendrán efecto desde el momento en que dejen de cumplirse cualesquiera de los requisitos que las condicionan
+
+## Artículo 9 bis. Acuerdo de ventas de bienes en consigna.
+
+Artículo 9 bis. Acuerdo de ventas de bienes en consigna.
+
+Uno. A los efectos de lo dispuesto en esta Ley, se entenderá por acuerdo de ventas de bienes en consigna aquel en el que se cumplan los siguientes requisitos:
+
+a) Que los bienes sean expedidos o transportados a otro Estado miembro, por el vendedor, o por un tercero en su nombre y por su cuenta, con el fin de que esos bienes sean adquiridos en un momento posterior a su llegada por otro empresario o profesional habilitado, de conformidad con un acuerdo previo entre ambas partes.
+
+b) Que el vendedor que expida o transporte los bienes no tenga la sede de su actividad económica o un establecimiento permanente en el Estado miembro de llegada de la expedición o transporte de aquellos.
+
+c) Que el empresario o profesional que va a adquirir los bienes esté identificado a efectos del Impuesto sobre el Valor Añadido en el Estado miembro de llegada de la expedición o transporte, y ese número de identificación fiscal, así como su nombre y apellidos, razón o denominación social completa, sean conocidos por el vendedor en el momento del inicio de la expedición o transporte.
+
+d) Que el vendedor haya incluido el envío de dichos bienes tanto en el libro registro que se determine reglamentariamente como en la declaración recapitulativa a que se refiere el artículo 164, apartado uno, número 5.º, de esta Ley, en la forma que se determine reglamentariamente.
+
+Dos. Cuando, en el plazo de los doce meses siguientes a la llegada de los bienes al Estado miembro de destino en el marco de un acuerdo de ventas de bienes en consigna, el empresario o profesional mencionado en la letra c) del apartado anterior, o en la letra a´) del segundo párrafo del apartado siguiente, adquiera el poder de disposición de los bienes, se entenderá que en el territorio de aplicación del Impuesto se realiza, según los casos:
+
+a) Una entrega de bienes de las previstas en el artículo 68, apartado dos, número 1.º, letra A), primer párrafo, de esta Ley, por el vendedor, a la que resultará aplicable la exención prevista en el artículo 25 de esta Ley, o
+
+b) una adquisición intracomunitaria de bienes de las previstas en el artículo 15, apartado uno, letra b), de esta Ley, por el empresario o profesional que los adquiere.
+
+Tres. Se entenderá que se ha producido una transferencia de bienes a la que se refiere el artículo 9.3.º de esta Ley cuando, en el marco de un acuerdo de ventas de bienes en consigna, dentro del plazo de los doce meses previsto en el apartado anterior, se incumplan cualquiera de las condiciones establecidas en el apartado uno anterior, en particular:
+
+a) Cuando los bienes no hubieran sido adquiridos por el empresario o profesional al que iban destinados inicialmente los mismos.
+
+b) Cuando los bienes fueran expedidos o transportados a un destino distinto del Estado miembro al que estaban inicialmente destinados según el acuerdo de ventas de bienes en consigna.
+
+c) En el supuesto de destrucción, pérdida o robo de los bienes.
+
+No obstante, se entenderán cumplidos los requisitos del apartado uno anterior cuando dentro del referido plazo:
+
+a´) Los bienes sean adquiridos por un empresario o profesional que sustituya al referido en la letra c) del apartado uno anterior, con cumplimiento de los requisitos previstos en dicha letra.
+
+b´) No se haya transmitido el poder de disposición de los bienes y estos sean devueltos al Estado miembro desde el que se expidieron o transportaron.
+
+c´) Las circunstancias previstas en las letras a´) y b´) hayan sido incluidas por el vendedor en el libro registro que se determine reglamentariamente.
+
+Cuatro. Se entenderá que se ha producido una transferencia de bienes a la que se refiere el artículo 9.3.º de esta Ley, en el marco de un acuerdo de ventas de bienes en consigna y cumpliéndose las condiciones previstas en el apartado uno anterior, al día siguiente de la expiración del plazo de 12 meses desde la llegada de los bienes al Estado miembro de destino sin que el empresario o profesional mencionado en la letra c) del apartado uno o en la letra a’) del segundo párrafo del apartado tres del artículo 9 bis haya adquirido el poder de disposición de los bienes.
+
+Cinco. Los empresarios o profesionales que suscriban un acuerdo de ventas de bienes en consigna y quienes sustituyan a aquel a quien estaban inicialmente destinados los bienes deberán llevar un libro registro de estas operaciones en las condiciones que se establezcan reglamentariamente.
+
+## Artículo 10. Concepto de transformación
+
+Artículo 10. Concepto de transformación
+
+Salvo lo dispuesto especialmente en otros preceptos de esta Ley, se considerará transformación cualquier alteración de los bienes que determine la modificación de los fines específicos para los cuales eran utilizables.
+
+## Artículo 11. Concepto de prestación de servicios
+
+Artículo 11. Concepto de prestación de servicios
+
+Uno. A los efectos del Impuesto sobre el Valor Añadido, se entenderá por prestación de servicios toda operación sujeta al citado tributo que, de acuerdo con esta Ley, no tenga la consideración de entrega, adquisición intracomunitaria o importación de bienes.
+
+Dos. En particular, se considerarán prestaciones de servicios:
+
+1.º El ejercicio independiente de una profesión, arte u oficio.
+
+2.º Los arrendamientos de bienes, industria o negocio, empresas o establecimientos mercantiles, con o sin opción de compra.
+
+3.º Las cesiones del uso o disfrute de bienes.
+
+4.º Las cesiones y concesiones de derechos de autor, licencias, patentes, marcas de fábrica y comerciales y demás derechos de propiedad intelectual e industrial.
+
+5.º Las obligaciones de hacer y no hacer y las abstenciones estipuladas en contratos de agencia o venta en exclusiva o derivadas de convenios de distribución de bienes en áreas territoriales delimitadas.
+
+6.º Las ejecuciones de obra que no tengan la consideración de entregas de bienes con arreglo a lo dispuesto en el artículo 8 de esta Ley.
+
+7.º Los traspasos de locales de negocio.
+
+8.º Los transportes.
+
+9.º Los servicios de hostelería, restaurante o acampamento y las ventas de bebidas o alimentos para su consumo inmediato en el mismo lugar.
+
+10.º Las operaciones de seguro, reaseguro y capitalización.
+
+11.º Las prestaciones de hospitalización.
+
+12.º Los préstamos y créditos en dinero.
+
+13.º El derecho a utilizar instalaciones deportivas o recreativas.
+
+14.º La explotación de ferias y exposiciones.
+
+15.º Las operaciones de mediación y las de agencia o comisión cuando el agente o comisionista actúe en nombre ajeno. Cuando actúe en nombre propio y medie en una prestación de servicios se entenderá que ha recibido y prestado por sí mismo los correspondientes servicios.
+
+16.º El suministro de productos informáticos cuando no tenga la condición de entrega de bienes, considerándose accesoria a la prestación de servicios la entrega del correspondiente soporte.
+
+En particular, se considerará prestación de servicios el suministro de productos informáticos que hayan sido confeccionados previo encargo de su destinatario conforme a las especificaciones de éste, así como aquellos otros que sean objeto de adaptaciones sustanciales necesarias para el uso por su destinatario.
+
+## Artículo 12. Operaciones asimiladas a las prestaciones de servicios
+
+Artículo 12. Operaciones asimiladas a las prestaciones de servicios
+
+Se considerarán operaciones asimiladas a las prestaciones de servicios a título oneroso los autoconsumos de servicios.
+
+A efectos de este impuesto serán autoconsumos de servicios las siguientes operaciones realizadas sin contraprestación:
+
+1.º Las transferencias de bienes y derechos, no comprendidas en el artículo 9, número 1.º, de esta Ley, del patrimonio empresarial o profesional al patrimonio personal del sujeto pasivo.
+
+2.º La aplicación total o parcial al uso particular del sujeto pasivo o, en general, a fines ajenos a su actividad empresarial o profesional de los bienes integrantes de su patrimonio empresarial o profesional.
+
+3.º Las demás prestaciones de servicios efectuadas a título gratuito por el sujeto pasivo no mencionadas en los números anteriores de este artículo, siempre que se realicen para fines ajenos a los de la actividad empresarial o profesional.
+
+## Artículo 13. Hecho imponible
+
+Artículo 13. Hecho imponible
+
+Estarán sujetas las siguientes operaciones realizadas en el ámbito espacial de aplicación del Impuesto:
+
+1.ª Las adquisiciones intracomunitarias de bienes efectuadas a título oneroso por empresarios, profesionales o personas jurídicas que no actúen como tales cuando el transmitente sea un empresario o profesional.
+
+No se comprenden en estas adquisiciones intracomunitarias de bienes las siguientes:
+
+a) Las adquisiciones de bienes cuya entrega se efectúe por un empresario o profesional que se beneficie del régimen de franquicia del Impuesto en el Estado miembro desde el que se inicie la expedición o el transporte de los bienes.
+
+b) Las adquisiciones de bienes cuya entrega haya tributado con sujeción a las reglas establecidas para el régimen especial de bienes usados, objetos de arte, antigüedades y objetos de colección en el Estado miembro en el que se inicie la expedición o el transporte de los bienes.
+
+c) Las adquisiciones de bienes que se correspondan con las entregas de bienes que hayan de ser objeto de instalación o montaje comprendidas en el artículo 68, apartado dos, número 2.ª de esta Ley.
+
+d) Las adquisiciones de bienes que se correspondan con las ventas a distancia comprendidas en el artículo 68.Tres.a) de esta Ley.
+
+e) Las adquisiciones de bienes que se correspondan con las entregas de bienes objeto de Impuestos Especiales a que se refiere el artículo 68, apartado cinco, de esta Ley.
+
+f) Las adquisiciones intracomunitarias de bienes cuya entrega en el Estado de origen de la expedición o transporte haya estado exenta del Impuesto por aplicación de los criterios establecidos en el artículo 22, apartados uno al once, de esta Ley.
+
+g) Las adquisiciones de bienes que se correspondan con las entregas de gas a través de una red de gas natural situada en el territorio de la Comunidad o de cualquier red conectada a dicha red, las entregas de electricidad o las entregas de calor o de frío a través de las redes de calefacción o de refrigeración que se entiendan realizadas en el territorio de aplicación del impuesto de acuerdo con el artículo 68.Seis de esta Ley.
+
+2.ª Las adquisiciones intracomunitarias de medios de transporte nuevos, efectuadas a título oneroso por las personas a las que sea de aplicación la no sujeción prevista en el artículo 14, apartados uno y dos, de esta Ley, así como las realizadas por cualquier otra persona que no tenga la condición de empresario o profesional, cualquiera que sea la condición del transmitente.
+
+A estos efectos, se considerarán medios de transporte:
+
+a) Los vehículos terrestres accionados a motor cuya cilindrada sea superior a 48 cm o su potencia exceda de 7,2 Kw.
+
+b) Las embarcaciones cuya eslora máxima sea superior a 7,5 metros, con excepción de aquéllas a las que afecte la exención del artículo 22, apartado uno, de esta Ley.
+
+c) Las aeronaves cuyo peso total al despegue exceda de 1.550 kilogramos, con excepción de aquéllas a las que afecte la exención del artículo 22, apartado cuatro, de esta Ley.
+
+Los referidos medios de transporte tendrán la consideración de nuevos cuando, respecto de ellos, se dé cualquiera de las circunstancias que se indican a continuación:
+
+a) Que su entrega se efectúe antes de los tres meses siguientes a la fecha de su primera puesta en servicio o, tratándose de vehículos terrestres accionados a motor, antes de los seis meses siguientes a la citada fecha.
+
+b) Que los vehículos terrestres no hayan recorrido más de 6.000 kilómetros, las embarcaciones no hayan navegado más de 100 horas y las aeronaves no hayan volado más de 40 horas.
+
+## Artículo 14. Adquisiciones no sujetas
+
+Artículo 14. Adquisiciones no sujetas
+
+Uno. No estarán sujetas al impuesto las adquisiciones intracomunitarias de bienes, con las limitaciones establecidas en el apartado siguiente, realizadas por las personas o entidades que se indican a continuación:
+
+1.º Los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca, respecto de los bienes destinados al desarrollo de la actividad sometida a dicho régimen.
+
+2.º Los sujetos pasivos que realicen exclusivamente operaciones que no originan el derecho a la deducción total o parcial del impuesto.
+
+3.º Las personas jurídicas que no actúen como empresarios o profesionales.
+
+Dos. La no sujeción establecida en el apartado anterior sólo se aplicará respecto de las adquisiciones intracomunitarias de bienes, efectuadas por las personas indicadas, cuando el importe total de las adquisiciones de bienes procedentes de los demás Estados miembros, excluido el impuesto devengado en dichos Estados, no haya alcanzado en el año natural precedente 10.000 euros.
+
+La no sujeción se aplicará en el año natural en curso hasta alcanzar el citado importe.
+
+En la aplicación del límite a que se refiere este apartado debe considerarse que el importe de la contraprestación relativa a los bienes adquiridos no podrá fraccionarse a estos efectos.
+
+Para el cálculo del límite indicado en este apartado se computará el importe de la contraprestación de las entregas de bienes a que se refiere el artículo 8.Tres.1.º de esta Ley, cuando, por aplicación de las reglas comprendidas en el artículo 68 de esta Ley, se entiendan realizadas fuera del territorio de aplicación del impuesto.
+
+Tres. Lo dispuesto en el presente artículo no será de aplicación respecto de las adquisiciones de medios de transporte nuevos y de los bienes que constituyen el objeto de los Impuestos Especiales, cuyo importe no se computará en el límite indicado en el apartado anterior.
+
+Cuatro. No obstante lo establecido en el apartado uno, las operaciones descritas en él quedarán sujetas al impuesto cuando las personas que las realicen opten por la sujeción al mismo, en la forma que se determine reglamentariamente.
+
+La opción abarcará un período mínimo de dos años.
+
+## Artículo 15. Concepto de adquisición intracomunitaria de bienes
+
+Artículo 15. Concepto de adquisición intracomunitaria de bienes
+
+Uno. Se entenderá por adquisición intracomunitaria de bienes:
+
+a) La obtención del poder de disposición sobre bienes muebles corporales expedidos o transportados al territorio de aplicación del Impuesto, con destino al adquirente, desde otro Estado miembro, por el transmitente, el propio adquirente o un tercero en nombre y por cuenta de cualquiera de los anteriores.
+
+b) La obtención del poder de disposición sobre bienes muebles corporales en el marco de un acuerdo de ventas de bienes en consigna en los términos previstos en el artículo 9 bis, apartado dos, de esta Ley.
+
+Dos. Cuando los bienes adquiridos por una persona jurídica que no actúe como empresario o profesional sean transportados desde un territorio tercero e importados por dicha persona en otro Estado miembro, dichos bienes se considerarán expedidos o transportados a partir del citado Estado miembro de importación.
+
+## Artículo 16. Operaciones asimiladas a las adquisiciones intracomunitarias de bienes
+
+Artículo 16. Operaciones asimiladas a las adquisiciones intracomunitarias de bienes
+
+Se considerarán operaciones asimiladas a las adquisiciones intracomunitarias de bienes a título oneroso:
+
+1.º (Suprimido)
+
+2.º La afectación a las actividades de un empresario o profesional desarrolladas en el territorio de aplicación del impuesto de un bien expedido o transportado por ese empresario, o por su cuenta, desde otro Estado miembro en el que el referido bien haya sido producido, extraído, transformado, adquirido o importado por dicho empresario o profesional en el desarrollo de su actividad empresarial o profesional realizada en el territorio de este último Estado miembro.
+
+Se exceptúan de lo dispuesto en este número las operaciones excluidas del concepto de transferencia de bienes según los criterios contenidos en el artículo 9, número 3.º, de esta Ley.
+
+3.º La afectación realizada por:
+
+a) las fuerzas de un Estado parte del Tratado del Atlántico Norte en el territorio de aplicación del Impuesto, para su uso o el del elemento civil que les acompaña, o
+
+b) las fuerzas armadas de cualquier Estado miembro para uso de dichas fuerzas o del personal civil a su servicio, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa, de los bienes que no han sido adquiridos por dichas fuerzas o elemento civil en las condiciones normales de tributación del Impuesto en la Comunidad, o cuando su importación no pudiera beneficiarse de la exención del Impuesto establecida en el artículo 62 de esta ley.
+
+4.º Cualquier adquisición resultante de una operación que, si se hubiese efectuado en el interior del país por un empresario o profesional, sería calificada como entrega de bienes en virtud de lo dispuesto en el artículo 8 de esta Ley.
+
+## Artículo 17. Hecho imponible
+
+Artículo 17. Hecho imponible
+
+Estarán sujetas al impuesto las importaciones de bienes, cualquiera que sea el fin a que se destinen y la condición del importador.
+
+## Artículo 18. Concepto de importación de bienes
+
+Artículo 18. Concepto de importación de bienes
+
+Uno. Tendrá la consideración de importación de bienes:
+
+Primero. La entrada en el interior del país de un bien que no cumpla las condiciones previstas en los artículos 9 y 10 del Tratado constitutivo de la Comunidad Económica Europea o, si se trata de un bien comprendido en el ámbito de aplicación del Tratado constitutivo de la Comunidad Europea del Carbón y del Acero, que no esté en libre práctica.
+
+Segundo. La entrada en el interior del país de un bien procedente de un territorio tercero, distinto de los bienes a que se refiere el número anterior.
+
+Dos. No obstante lo dispuesto en el apartado uno, cuando un bien de los que se mencionan en él se coloque, desde su entrada en el interior del territorio de aplicación del impuesto, en las situaciones a que se refiere el artículo 23 o se vincule a los regímenes comprendidos en el artículo 24, ambos de esta ley, con excepción del régimen de depósito distinto del aduanero, la importación de dicho bien se producirá cuando cesen las situaciones o se ultimen los regímenes indicados en el territorio de aplicación del impuesto.
+
+Lo dispuesto en el párrafo anterior solo será de aplicación cuando los bienes se coloquen en las citadas situaciones o se vinculen a los regímenes indicados con cumplimiento de la legislación que sea aplicable en cada caso.
+
+El incumplimiento de la legislación reguladora de dichas situaciones y regímenes determinará el hecho imponible importación de bienes.
+
+No obstante, no constituirá importación el cese de las situaciones a que se refiere el artículo 23 o la ultimación de los regímenes comprendidos en el artículo 24 cuando aquel determine una entrega de bienes a la que resulte aplicable las exenciones establecidas en los artículos 21, 22 o 25 de esta ley.
+
+Tampoco constituirá importación el cese de las situaciones o la ultimación de los regímenes mencionados en el párrafo anterior cuando aquel determine un fletamento o un arrendamiento de buques o aeronaves, o bien un arrendamiento de los objetos que se incorporen a dichos buques y aeronaves, a los que resulte aplicable las exenciones previstas en el artículo 22, apartados uno, dos, cuatro y cinco de esta ley.
+
+Tres. La vinculación de mercancías importadas al régimen de depósito distinto del aduanero se referirá exclusivamente a las referidas en el artículo 65 de esta ley.
+
+La ultimación del régimen de depósito distinto del aduanero de los bienes previamente importados y vinculados a dicho régimen, a cuya importación se haya aplicado la exención prevista en el artículo 65 esta ley, determinará el hecho imponible importación de bienes a excepción de los bienes objeto de Impuestos Especiales a que se refiere la letra a) del apartado quinto del anexo de esta ley, en cuyo caso la ultimación del régimen de depósito distinto del aduanero determinará la realización de una operación asimilada a una importación.
+
+No obstante, no constituirá importación ni operación asimilada a la importación la ultimación del régimen de depósito distinto del aduanero de los bienes previamente importados cuando aquella determine una entrega de bienes a la que resulte aplicable las exenciones establecidas en los artículos 21, 22 o 25 de esta ley.
+
+## Artículo 19. Operaciones asimiladas a las importaciones de bienes
+
+Artículo 19. Operaciones asimiladas a las importaciones de bienes
+
+Se considerarán asimiladas a las importaciones de bienes:
+
+1.º El incumplimiento de los requisitos determinantes de la afectación a la navegación marítima internacional de los buques que se hubiesen beneficiado de exención del impuesto en los casos a que se refieren los artículos 22, apartado uno, número 1.º, 26, apartado uno, y 27, número 2.º, de esta Ley.
+
+2.º La no afectación exclusiva al salvamento, a la asistencia marítima o a la pesca costera de los buques cuya entrega, adquisición intracomunitaria o importación se hubiesen beneficiado de la exención del impuesto.
+
+3.º El incumplimiento de los requisitos que determinan la dedicación esencial a la navegación aérea internacional de las compañías que realicen actividades comerciales, en relación con las aeronaves cuya entrega, adquisición intracomunitaria o importación se hubiesen beneficiado de la exención del impuesto en los casos a que se refieren los artículos 22, apartado cuatro, 26, apartado uno, y 27, número 3.
+
+4.º Las adquisiciones realizadas en el territorio de aplicación del impuesto de los bienes cuya entrega, adquisición intracomunitaria o importación previas se hubiesen beneficiado de la exención del impuesto, en virtud de lo dispuesto en los artículos 22, apartados ocho y nueve, 26, en su relación con el artículo anterior, 60 y 61 de esta Ley.
+
+No obstante lo dispuesto en el párrafo anterior no será de aplicación cuando el adquirente expida o transporte inmediata y definitivamente dichos bienes fuera del territorio de la Comunidad.
+
+5.º El cese de las situaciones a que se refiere el artículo 23 o la ultimación de los regímenes comprendidos en el artículo 24 de esta ley, de los bienes cuya entrega o adquisición intracomunitaria para ser colocados en las citadas situaciones o vinculados a dichos regímenes se hubiese beneficiado de la exención del Impuesto en virtud de lo dispuesto en los mencionados artículos y en el artículo 26, apartado uno, o hubiesen sido objeto de entregas o prestaciones de servicios igualmente exentas por dichos artículos.
+
+Por excepción a lo establecido en el párrafo anterior no constituirá operación asimilada a las importaciones el cese de las situaciones a que se refiere el artículo 23 ni la ultimación del régimen comprendido en el artículo 24 de esta ley de los siguientes bienes: estaño (código NC 8001), cobre (códigos NC 7402, 7403, 7405 y 7408), zinc (código NC 7901), níquel (código NC 7502), aluminio (código NC 7601), plomo (código NC 7801), indio (códigos NC ex 81 1292 y ex 81 1299), plata (código NC 7106) y platino, paladio y rodio (códigos NC 71101 100, 71 102100 y 71103100). En estos casos, el cese de las situaciones o la ultimación de los regímenes mencionados dará lugar a la liquidación del impuesto en los términos establecidos en el apartado sexto del anexo de esta ley.
+
+Tratándose de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante comprendidos en los epígrafes 1.1, 1.2.1, 1.2.2, 1.3, 1.13 y 1.14 de la tarifa 1.ª del artículo 50.1, de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, la ultimación del régimen de depósito distinto del aduanero a que se refiere el artículo 24.Uno.1.º, letra f) de esta ley se entenderá realizada, en todo caso, por el último depositante del producto que se extraiga del depósito fiscal, al que se repercutirá el Impuesto sobre Hidrocarburos correspondiente y que estará obligado a liquidar el Impuesto sobre el Valor Añadido por la operación asimilada a la importación, o por el titular del depósito fiscal en caso de que sea el propietario del producto. Asimismo, el último depositante del producto que se extraiga, o el titular del depósito fiscal en caso de que sea el propietario del producto, estará obligado a garantizar el ingreso del Impuesto sobre el Valor Añadido correspondiente a la posterior entrega sujeta y no exenta del bien extraído del depósito fiscal, en la forma prevista en el apartado undécimo del anexo de esta ley.
+
+No obstante, no constituirá operación asimilada a las importaciones el cese de las situaciones a que se refiere el artículo 23 o la ultimación de los regímenes comprendidos en el artículo 24 cuando aquella determine una entrega de bienes a la que resulte aplicable las exenciones establecidas en los artículos 21, 22 o 25 de esta ley.
+
+## Artículo 20. Exenciones en operaciones interiores
+
+Artículo 20. Exenciones en operaciones interiores
+
+Uno. Estarán exentas de este impuesto las siguientes operaciones:
+
+1.º Las prestaciones de servicios y las entregas de bienes accesorias a ellas que constituyan el servicio postal universal siempre que sean realizadas por el operador u operadores que se comprometen a prestar todo o parte del mismo.
+
+Esta exención no se aplicará a los servicios cuyas condiciones de prestación se negocien individualmente.
+
+2.º Las prestaciones de servicios de hospitalización o asistencia sanitaria y las demás relacionadas directamente con las mismas realizadas por entidades de Derecho público o por entidades o establecimientos privados en régimen de precios autorizados o comunicados.
+
+Se considerarán directamente relacionados con las de hospitalización y asistencia sanitaria las prestaciones de servicios de alimentación, alojamiento, quirófano, suministro de medicamentos y material sanitario y otros análogos prestados por clínicas, laboratorios, sanatorios y demás establecimientos de hospitalización y asistencia sanitaria.
+
+La exención no se extiende a las operaciones siguientes:
+
+a) La entrega de medicamentos para ser consumidos fuera de los establecimientos mencionados en el primer párrafo de este número.
+
+b) Los servicios de alimentación y alojamiento prestados a personas distintas de los destinatarios de los servicios de hospitalización y asistencia sanitaria y de sus acompañantes.
+
+c) Los servicios veterinarios.
+
+d) Los arrendamientos de bienes efectuados por las entidades a que se refiere el presente número.
+
+3.º La asistencia a personas físicas por profesionales médicos o sanitarios, cualquiera que sea la persona destinataria de dichos servicios.
+
+A efectos de este impuesto tendrán la condición de profesionales médicos o sanitarios los considerados como tales en el ordenamiento jurídico y los psicólogos, logopedas y ópticos, diplomados en centros oficiales o reconocidos por la Administración.
+
+La exención comprende las prestaciones de asistencia médica, quirúrgica y sanitaria, relativas al diagnóstico, prevención y tratamiento de enfermedades, incluso las de análisis clínicos y exploraciones radiológicas.
+
+4.º Las entregas de sangre, plasma sanguíneo y demás fluidos, tejidos y otros elementos del cuerpo humano efectuadas para fines médicos o de investigación o para su procesamiento con idénticos fines.
+
+5.º Las prestaciones de servicios realizadas en el ámbito de sus respectivas profesiones por estomatólogos, odontólogos, mecánicos dentistas y protésicos dentales, así como la entrega, reparación y colocación de prótesis dentales y ortopedias maxilares realizadas por los mismos, cualquiera que sea la persona a cuyo cargo se realicen dichas operaciones.
+
+6.º Los servicios prestados directamente a sus miembros por uniones, agrupaciones o entidades autónomas, incluidas las Agrupaciones de Interés Económico, constituidas exclusivamente por personas que ejerzan una actividad exenta o no sujeta al Impuesto que no origine el derecho a la deducción, cuando concurran las siguientes condiciones:
+
+a) Que tales servicios se utilicen directa y exclusivamente en dicha actividad y sean necesarios para el ejercicio de la misma.
+
+b) Que los miembros se limiten a reembolsar la parte que les corresponda en los gastos hechos en común.
+
+c) Que la actividad exenta ejercida sea distinta de las señaladas en los números 16.º, 17.º, 18.º, 19.º, 20.º, 22.º, 23.º, 26.º y 28.º del apartado Uno de este artículo.
+
+La exención también se aplicará cuando, cumplido el requisito previsto en la letra b) precedente, la prorrata de deducción no exceda del 10 por ciento y el servicio no se utilice directa y exclusivamente en las operaciones que originen el derecho a la deducción.
+
+La exención no alcanza a los servicios prestados por sociedades mercantiles.
+
+7.º Las entregas de bienes y prestaciones de servicios que, para el cumplimiento de sus fines específicos, realice la Seguridad Social, directamente o a través de sus entidades gestoras o colaboradoras.
+
+Sólo será aplicable esta exención en los casos en que quienes realicen tales operaciones no perciban contraprestación alguna de los adquirentes de los bienes o de los destinatarios de los servicios, distinta de las cotizaciones efectuadas a la Seguridad Social.
+
+La exención no se extiende a las entregas de medicamentos o de material sanitario realizadas por cuenta de la Seguridad Social.
+
+8.º Las prestaciones de servicios de asistencia social que se indican a continuación efectuadas por entidades de Derecho Público o entidades o establecimientos privados de carácter social:
+
+a) Protección de la infancia y de la juventud. Se considerarán actividades de protección de la infancia y de la juventud las de rehabilitación y formación de niños y jóvenes, la de asistencia a lactantes, la custodia y atención a niños, la realización de cursos, excursiones, campamentos o viajes infantiles y juveniles y otras análogas prestadas en favor de personas menores de veinticinco años de edad.
+
+b) Asistencia a la tercera edad.
+
+c) Educación especial y asistencia a personas con minusvalía.
+
+d) Asistencia a minorías étnicas.
+
+e) Asistencia a refugiados y asilados.
+
+f) Asistencia a transeúntes.
+
+g) Asistencia a personas con cargas familiares no compartidas.
+
+h) Acción social comunitaria y familiar.
+
+i) Asistencia a ex-reclusos.
+
+j) Reinserción social y prevención de la delincuencia.
+
+k) Asistencia a alcohólicos y toxicómanos.
+
+l) Cooperación para el desarrollo.
+
+La exención comprende la prestación de los servicios de alimentación, alojamiento o transporte accesorios de los anteriores prestados por dichos establecimientos o entidades, con medios propios o ajenos.
+
+9.º La educación de la infancia y de la juventud, la guarda y custodia de niños, incluida la atención a niños en los centros docentes en tiempo interlectivo durante el comedor escolar o en aulas en servicio de guardería fuera del horario escolar, la enseñanza escolar, universitaria y de postgraduados, la enseñanza de idiomas y la formación y reciclaje profesional, realizadas por Entidades de derecho público o entidades privadas autorizadas para el ejercicio de dichas actividades.
+
+La exención se extenderá a las prestaciones de servicios y entregas de bienes directamente relacionadas con los servicios enumerados en el párrafo anterior, efectuadas, con medios propios o ajenos, por las mismas empresas docentes o educativas que presten los mencionados servicios.
+
+La exención no comprenderá las siguientes operaciones:
+
+a) Los servicios relativos a la práctica del deporte, prestados por empresas distintas de los centros docentes.
+
+En ningún caso, se entenderán comprendidos en esta letra los servicios prestados por las Asociaciones de Padres de Alumnos vinculadas a los centros docentes.
+
+b) Las de alojamiento y alimentación prestadas por Colegios Mayores o Menores y residencias de estudiantes.
+
+c) Las efectuadas por escuelas de conductores de vehículos relativas a los permisos de conducción de vehículos terrestres de las clases A y B y a los títulos, licencias o permisos necesarios para la conducción de buques o aeronaves deportivos o de recreo.
+
+d) Las entregas de bienes efectuadas a título oneroso.
+
+10.º Las clases a título particular prestadas por personas físicas sobre materias incluidas en los planes de estudios de cualquiera de los niveles y grados del sistema educativo.
+
+No tendrán la consideración de clases prestadas a título particular, aquéllas para cuya realización sea necesario darse de alta en las tarifas de actividades empresariales o artísticas del Impuesto sobre Actividades Económicas.
+
+11.º Las cesiones de personal realizadas en el cumplimiento de sus fines, por entidades religiosas inscritas en el Registro correspondiente del Ministerio de Justicia, para el desarrollo de las siguientes actividades:
+
+a) Hospitalización, asistencia sanitaria y demás directamente relacionadas con las mismas.
+
+b) Las de asistencia social comprendidas en el número 8. de este apartado.
+
+c) Educación, enseñanza, formación y reciclaje profesional.
+
+12.º Las prestaciones de servicios y las entregas de bienes accesorias a las mismas efectuadas directamente a sus miembros por organismos o entidades legalmente reconocidos que no tengan finalidad lucrativa, cuyos objetivos sean de naturaleza política, sindical, religiosa, patriótica, filantrópica o cívica, realizadas para la consecución de sus finalidades específicas, siempre que no perciban de los beneficiarios de tales operaciones contraprestación alguna distinta de las cotizaciones fijadas en sus estatutos.
+
+Se entenderán incluidos en el párrafo anterior los Colegios profesionales, las Cámaras Oficiales, las Organizaciones patronales y las Federaciones que agrupen a los organismos o entidades a que se refiere este número.
+
+La aplicación de esta exención quedará condicionada a que no sea susceptible de producir distorsiones de competencia.
+
+13º. Los servicios prestados a personas físicas que practiquen el deporte o la educación física, cualquiera que sea la persona o entidad a cuyo cargo se realice la prestación, siempre que tales servicios estén directamente relacionados con dichas prácticas y sean prestados por las siguientes personas o entidades:
+
+a) Entidades de derecho público.
+
+b) Federaciones deportivas.
+
+c) Comité Olímpico Español.
+
+d) Comité Paralímpico Español.
+
+e) Entidades o establecimientos deportivos privados de carácter social.
+
+La exención no se extiende a los espectáculos deportivos.
+
+14.º Las prestaciones de servicios que a continuación se relacionan efectuadas por entidades de Derecho público o por entidades o establecimientos culturales privados de carácter social:
+
+a) Las propias de bibliotecas, archivos y centros de documentación.
+
+b) Las visitas a museos, galerías de arte, pinacotecas, monumentos, lugares históricos, jardines botánicos, parques zoológicos y parques naturales y otros espacios naturales protegidos de características similares.
+
+c) Las representaciones teatrales, musicales, coreográficas, audiovisuales y cinematográficas.
+
+d) La organización de exposiciones y manifestaciones similares.
+
+15.º El transporte de enfermos o heridos en ambulancias o vehículos especialmente adaptados para ello.
+
+16.º Las operaciones de seguro, reaseguro y capitalización.
+
+Asimismo, los servicios de mediación, incluyendo la captación de clientes, para la celebración del contrato entre las partes intervinientes en la realización de las anteriores operaciones, con independencia de la condición del empresario o profesional que los preste.
+
+Dentro de las operaciones de seguro se entenderán comprendidas las modalidades de previsión
+
+17.º Las entregas de sellos de Correos y efectos timbrados de curso legal en España por importe no superior a su valor facial.
+
+La exención no se extiende a los servicios de expedición de los referidos bienes prestados en nombre y por cuenta de terceros.
+
+18.º Las siguientes operaciones financieras:
+
+a) Los depósitos en efectivo en sus diversas formas, incluidos los depósitos en cuenta corriente y cuentas de ahorro, y las demás operaciones relacionadas con los mismos, incluidos los servicios de cobro o pago prestados por el depositario en favor del depositante.
+
+La exención no se extiende a los servicios de gestión de cobro de créditos, letras de cambio, recibos y otros documentos. Tampoco se extiende la exención a los servicios prestados al cedente en el marco de los contratos de "factoring", con excepción de los de anticipo de fondos que, en su caso, se puedan prestar en estos contratos.
+
+No se considerarán de gestión de cobro las operaciones de abono en cuenta de cheques o talones.
+
+b) La transmisión de depósitos en efectivo, incluso mediante certificados de depósito o títulos que cumplan análoga función.
+
+c) La concesión de créditos y préstamos en dinero, cualquiera que sea la forma en que se instrumente, incluso mediante efectos financieros o títulos de otra naturaleza.
+
+d) Las demás operaciones, incluida la gestión, relativas a préstamos o créditos efectuadas por quienes los concedieron en todo o en parte.
+
+La exención no alcanza a los servicios prestados a los demás prestamistas en los préstamos sindicados.
+
+En todo caso, estarán exentas las operaciones de permuta financiera.
+
+e) La transmisión de préstamos o créditos.
+
+f) La prestación de fianzas, avales, cauciones y demás garantías reales o personales, así como la emisión, aviso, confirmación y demás operaciones relativas a los créditos documentarios.
+
+La exención se extiende a la gestión de garantías de préstamos o créditos efectuadas por quienes concedieron los préstamos o créditos garantizados o las propias garantías, pero no a la realizada por terceros.
+
+g) La transmisión de garantías.
+
+h) Las operaciones relativas a transferencias, giros, cheques, libranzas, pagarés, letras de cambio, tarjetas de pago o de crédito y otras órdenes de pago.
+
+La exención se extiende a las operaciones siguientes:
+
+a') La compensación interbancaria de cheques y talones.
+
+b') La aceptación y la gestión de la aceptación.
+
+c') El protesto o declaración sustitutiva y la gestión del protesto.
+
+No se incluye en la exención el servicio de cobro de letras de cambio o demás documentos que se hayan recibido en gestión de cobro. Tampoco se incluyen en la exención los servicios prestados al cedente en el marco de los contratos de "factoring", con excepción de los de anticipo de fondos que, en su caso, se puedan prestar en estos contratos.
+
+i) La transmisión de los efectos y órdenes de pago a que se refiere la letra anterior, incluso la transmisión de efectos descontados.
+
+No se incluye en la exención la cesión de efectos en comisión de cobranza. Tampoco se incluyen en la exención los servicios prestados al cedente en el marco de los contratos de "factoring", con excepción de los de anticipo de fondos que, en su caso, se puedan prestar en estos contratos.
+
+j) Las operaciones de compra, venta o cambio y servicios análogos que tengan por objeto divisas, billetes de banco y monedas que sean medios legales de pago, a excepción de las monedas y billetes de colección y de las piezas de oro, plata y platino.
+
+A efectos de lo dispuesto en el párrafo anterior se considerarán de colección las monedas y los billetes que no sean normalmente utilizados para su función de medio legal de pago o tengan un interés numismático, con excepción de las monedas de colección entregadas por su emisor por un importe no superior a su valor facial que estarán exentas del impuesto.
+
+No se aplicará esta exención a las monedas de oro que tengan la consideración de oro de inversión de acuerdo con lo establecido en el número 2.º del artículo 140 de esta Ley.
+
+k) Los servicios y operaciones, exceptuados el depósito y la gestión, relativos a acciones, participaciones en sociedades, obligaciones y demás valores no mencionados en las letras anteriores de este número, con excepción de los siguientes:
+
+a') Los representativos de mercaderías.
+
+b') Aquellos cuya posesión asegure de hecho o de derecho la propiedad, el uso o el disfrute exclusivo de la totalidad o parte de un bien inmueble, que no tengan la naturaleza de acciones o participaciones en sociedades.
+
+c') Aquellos valores no admitidos a negociación en un mercado secundario oficial, realizadas en el mercado secundario, mediante cuya transmisión se hubiera pretendido eludir el pago del impuesto correspondiente a la transmisión de los inmuebles propiedad de las entidades a las que representen dichos valores, en los términos a que se refiere el artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+l) La transmisión de los valores a que se refiere la letra anterior y los servicios relacionados con ella, incluso por causa de su emisión o amortización, con las mismas excepciones.
+
+m) La mediación en las operaciones exentas descritas en las letras anteriores de este número y en las operaciones de igual naturaleza no realizadas en el ejercicio de actividades empresariales o profesionales.
+
+La exención se extiende a los servicios de mediación en la transmisión o en la colocación en el mercado, de depósitos, de préstamos en efectivo o de valores, realizados por cuenta de sus entidades emisoras, de los titulares de los mismos o de otros intermediarios, incluidos los casos en que medie el aseguramiento de dichas operaciones.
+
+n) La gestión y depósito de las Instituciones de Inversión Colectiva, de las Entidades de Capital-Riesgo gestionadas por sociedades gestoras autorizadas y registradas en los Registros especiales administrativos, de los Fondos de Pensiones, de Regulación del Mercado Hipotecario, de Titulización de Activos y Colectivos de Jubilación, constituidos de acuerdo con su legislación específica.
+
+ñ) (Suprimida)
+
+19.º Las loterías, apuestas y juegos organizados por la Sociedad Estatal Loterías y Apuestas del Estado y la Organización Nacional de Ciegos y por los organismos correspondientes de las Comunidades Autónomas, así como las actividades que constituyan los hechos imponibles de los tributos sobre el juego y combinaciones aleatorias.
+
+La exención no se extiende a los servicios de gestión y demás operaciones de carácter accesorio o complementario de las incluidas en el párrafo anterior que no constituyan el hecho imponible de los tributos sobre el juego, con excepción de los servicios de gestión del bingo.
+
+20.º Las entregas de terrenos rústicos y demás que no tengan la condición de edificables, incluidas las construcciones de cualquier naturaleza en ellos enclavadas, que sean indispensables para el desarrollo de una explotación agraria, y los destinados exclusivamente a parques y jardines públicos o a superficies viales de uso público.
+
+A estos efectos, se consideran edificables los terrenos calificados como solares por la Ley sobre el Régimen del Suelo y Ordenación Urbana y demás normas urbanística, así como los demás terrenos aptos para la edificación por haber sido ésta autorizada por la correspondiente licencia administrativa.
+
+La exención no se extiende a las entregas de los siguientes terrenos, aunque no tengan la condición de edificables:
+
+a) Las de terrenos urbanizados o en curso de urbanización, excepto los destinados exclusivamente a parques y jardines públicos o a superficies viales de uso público.
+
+b) Las de terrenos en los que se hallen enclavadas edificaciones en curso de construcción o terminadas cuando se transmitan conjuntamente con las mismas y las entregas de dichas edificaciones estén sujetas y no exentas al impuesto. No obstante, estarán exentas las entregas de terrenos no edificables en los que se hallen enclavadas construcciones de carácter agrario indispensables para su explotación y las de terrenos de la misma naturaleza en los que existan construcciones paralizadas, ruinosas o derruidas.
+
+21.º (Suprimida)
+
+22.ºA) Las segundas y ulteriores entregas de edificaciones, incluidos los terrenos en que se hallen enclavadas, cuando tengan lugar después de terminada su construcción o rehabilitación.
+
+A los efectos de lo dispuesto en esta Ley, se considerará primera entrega la realizada por el promotor que tenga por objeto una edificación cuya construcción o rehabilitación esté terminada. No obstante, no tendrá la consideración de primera entrega la realizada por el promotor después de la utilización ininterrumpida del inmueble por un plazo igual o superior a dos años por su propietario o por titulares de derechos reales de goce o disfrute o en virtud de contratos de arrendamiento sin opción de compra, salvo que el adquirente sea quien utilizó la edificación durante el referido plazo. No se computarán a estos efectos los períodos de utilización de edificaciones por los adquirentes de los mismos en los casos de resolución de las operaciones en cuya virtud se efectuaron las correspondientes transmisiones.
+
+Los terrenos en que se hallen enclavadas las edificaciones comprenderán aquéllos en los que se hayan realizado las obras de urbanización accesorias a las mismas. No obstante, tratándose de viviendas unifamiliares, los terrenos urbanizados de carácter accesorio no podrán exceder de 5.000 metros cuadrados.
+
+Las transmisiones no sujetas al Impuesto en virtud de lo establecido en el número 1.º del artículo 7 de esta Ley no tendrán, en su caso, la consideración de primera entrega a efectos de lo dispuesto en este número.
+
+La exención prevista en este número no se aplicará:
+
+a) A las entregas de edificaciones efectuadas en el ejercicio de la opción de compra inherente a un contrato de arrendamiento, por empresas dedicadas habitualmente a realizar operaciones de arrendamiento financiero. A estos efectos, el compromiso de ejercitar la opción de compra frente al arrendador se asimilará al ejercicio de la opción de compra.
+
+Los contratos de arrendamiento financiero a que se refiere el párrafo anterior tendrán una duración mínima de diez años.
+
+b) A las entregas de edificaciones para su rehabilitación por el adquirente, siempre que se cumplan los requisitos que reglamentariamente se establezcan.
+
+c) A las entregas de edificaciones que sean objeto de demolición con carácter previo a una nueva promoción urbanística.
+
+B) A los efectos de esta ley, son obras de rehabilitación de edificaciones las que reúnan los siguientes requisitos:
+
+1.º Que su objeto principal sea la reconstrucción de las mismas, entendiéndose cumplido este requisito cuando más del 50 por ciento del coste total del proyecto de rehabilitación se corresponda con obras de consolidación o tratamiento de elementos estructurales, fachadas o cubiertas o con obras análogas o conexas a las de rehabilitación.
+
+2.º Que el coste total de las obras a que se refiera el proyecto exceda del 25 por ciento del precio de adquisición de la edificación si se hubiese efectuado aquélla durante los dos años inmediatamente anteriores al inicio de las obras de rehabilitación o, en otro caso, del valor de mercado que tuviera la edificación o parte de la misma en el momento de dicho inicio. A estos efectos, se descontará del precio de adquisición o del valor de mercado de la edificación la parte proporcional correspondiente al suelo.
+
+Se considerarán obras análogas a las de rehabilitación las siguientes:
+
+a) Las de adecuación estructural que proporcionen a la edificación condiciones de seguridad constructiva, de forma que quede garantizada su estabilidad y resistencia mecánica.
+
+b) Las de refuerzo o adecuación de la cimentación así como las que afecten o consistan en el tratamiento de pilares o forjados.
+
+c) Las de ampliación de la superficie construida, sobre y bajo rasante.
+
+d) Las de reconstrucción de fachadas y patios interiores.
+
+e) Las de instalación de elementos elevadores, incluidos los destinados a salvar barreras arquitectónicas para su uso por discapacitados.
+
+Se considerarán obras conexas a las de rehabilitación las que se citan a continuación cuando su coste total sea inferior al derivado de las obras de consolidación o tratamiento de elementos estructurales, fachadas o cubiertas y, en su caso, de las obras análogas a éstas, siempre que estén vinculadas a ellas de forma indisociable y no consistan en el mero acabado u ornato de la edificación ni en el simple mantenimiento o pintura de la fachada:
+
+a) Las obras de albañilería, fontanería y carpintería.
+
+b) Las destinadas a la mejora y adecuación de cerramientos, instalaciones eléctricas, agua y climatización y protección contra incendios.
+
+c) Las obras de rehabilitación energética.
+
+Se considerarán obras de rehabilitación energética las destinadas a la mejora del comportamiento energético de las edificaciones reduciendo su demanda energética, al aumento del rendimiento de los sistemas e instalaciones térmicas o a la incorporación de equipos que utilicen fuentes de energía renovables.
+
+23.º Los arrendamientos que tengan la consideración de servicios con arreglo a lo dispuesto en el artículo 11 de esta Ley y la constitución y transmisión de derechos reales de goce y disfrute, que tengan por objeto los siguientes bienes:
+
+a) Terrenos, incluidas las construcciones inmobiliarias de carácter agrario utilizadas para la explotación de una finca rústica.
+
+Se exceptúan las construcciones inmobiliarias dedicadas a actividades de ganadería independiente de la explotación del suelo.
+
+b) Los edificios o partes de los mismos destinados exclusivamente a viviendas o a su posterior arrendamiento por entidades gestoras de programas públicos de apoyo a la vivienda o por sociedades acogidas al régimen especial de Entidades dedicadas al arrendamiento de viviendas establecido en el Impuesto sobre Sociedades. La exención se extenderá a los garajes y anexos accesorios a las viviendas y los muebles, arrendados conjuntamente con aquéllos.
+
+La exención no comprenderá:
+
+a´) Los arrendamientos de terrenos para estacionamientos de vehículos.
+
+b´) Los arrendamientos de terrenos para depósito o almacenaje de bienes, mercancías o productos, o para instalar en ellos elementos de una actividad empresarial.
+
+c´) Los arrendamientos de terrenos para exposiciones o para publicidad.
+
+d´) Los arrendamientos con opción de compra de terrenos o viviendas cuya entrega estuviese sujeta y no exenta al impuesto.
+
+e') Los arrendamientos de apartamentos o viviendas amueblados cuando concurran cualquiera de las siguientes circunstancias:
+
+– El arrendador se obligue a la prestación de alguno de los servicios complementarios propios de la industria hotelera, tales como los de restaurante, limpieza, lavado de ropa u otros análogos.
+
+– Su duración a favor de un mismo arrendatario no supere las 30 noches, excepto si se produce en el apartamento o vivienda arrendada en la que el arrendador tenga su residencia habitual, en cuyo caso estarán exentos.
+
+f´) Los arrendamientos de edificios o parte de los mismos para ser subarrendados, con excepción de los realizados de acuerdo con lo dispuesto en la letra b) anterior.
+
+g´) Los arrendamientos de edificios o parte de los mismos asimilados a viviendas de acuerdo con lo dispuesto en la Ley de Arrendamientos Urbanos.
+
+h´) La constitución o transmisión de derechos reales de goce o disfrute sobre los bienes a que se refieren las letras a´), b´), c´), e´) y f´) anteriores.
+
+j´) La constitución o transmisión de derechos reales de superficie.
+
+24.º Las entregas de bienes que hayan sido utilizados por el transmitente en la realización de operaciones exentas del impuesto en virtud de lo establecido en este artículo, siempre que al sujeto pasivo no se le haya atribuido el derecho a efectuar la deducción total o parcial del impuesto soportado al realizar la adquisición, afectación o importación de dichos bienes o de sus elementos componentes.
+
+A efectos de lo dispuesto en el párrafo anterior, se considerará que al sujeto pasivo no se le ha atribuido el derecho a efectuar la deducción parcial de las cuotas soportadas cuando haya utilizado los bienes o servicios adquiridos exclusivamente en la realización de operaciones exentas que no originen el derecho a la deducción, aunque hubiese sido de aplicación la regla de prorrata.
+
+Lo dispuesto en este número no se aplicará:
+
+a) A las entregas de bienes de inversión que se realicen durante su período de regularización.
+
+b) Cuando resulten procedentes las exenciones establecidas en los números 20.º y 22.º anteriores.
+
+25.º Las entregas de bienes cuya adquisición, afectación o importación o la de sus elementos componentes hubiera determinado la exclusión total del derecho a deducir en favor del transmitente en virtud de lo dispuesto en los artículos 95 y 96 de esta Ley.
+
+26.º Los servicios profesionales, incluidos aquéllos cuya contraprestación consista en derechos de autor, prestados por artistas plásticos, escritores, colaboradores literarios, gráficos y fotográficos de periódicos y revistas, compositores musicales, autores de obras teatrales y de argumento, adaptación, guión y diálogos de las obras audiovisuales, traductores y adaptadores.
+
+27.º (Suprimido)
+
+28.º Las prestaciones de servicios y las entregas de bienes realizadas por los partidos políticos con motivo de manifestaciones destinadas a reportarles un apoyo financiero para el cumplimiento de su finalidad específica y organizadas en su exclusivo beneficio.
+
+Dos. Las exenciones relativas a los números 20.º y 22.º del apartado anterior podrán ser objeto de renuncia por el sujeto pasivo, en la forma y con los requisitos que se determinen reglamentariamente, cuando el adquirente sea un sujeto pasivo que actúe en el ejercicio de sus actividades empresariales o profesionales y se le atribuya el derecho a efectuar la deducción total o parcial del Impuesto soportado al realizar la adquisición o, cuando no cumpliéndose lo anterior, en función de su destino previsible, los bienes adquiridos vayan a ser utilizados, total o parcialmente, en la realización de operaciones, que originen el derecho a la deducción.
+
+Tres. A efectos de lo dispuesto en este artículo, se considerarán entidades o establecimientos de carácter social aquéllos en los que concurran los siguientes requisitos:
+
+1.º Carecer de finalidad lucrativa y dedicar, en su caso, los beneficios eventualmente obtenidos al desarrollo de actividades exentas de idéntica naturaleza.
+
+2.º Los cargos de presidente, patrono o representante legal deberán ser gratuitos y carecer de interés en los resultados económicos de la explotación por sí mismos o a través de persona interpuesta.
+
+3.º Los socios, comuneros o partícipes de las entidades o establecimientos y sus cónyuges o parientes consanguíneos, hasta el segundo grado inclusive, no podrán ser destinatarios principales de las operaciones exentas ni gozar de condiciones especiales en la prestación de los servicios.
+
+Este requisito no se aplicará cuando se trate de las prestaciones de servicios a que se refiere el apartado Uno, números 8.º y 13.º, de este artículo.
+
+Las entidades que cumplan los requisitos anteriores podrán solicitar de la Administración tributaria su calificación como entidades o establecimientos privados de carácter social en las condiciones, términos y requisitos que se determinen reglamentariamente. La eficacia de dicha calificación, que será vinculante para la Administración, quedará subordinada, en todo caso, a la subsistencia de las condiciones y requisitos que, según lo dispuesto en esta Ley, fundamentan la exención.
+
+Las exenciones correspondientes a los servicios prestados por entidades o establecimientos de carácter social que reúnan los requisitos anteriores se aplicarán con independencia de la obtención de la calificación a que se refiere el párrafo anterior, siempre que se cumplan las condiciones que resulten aplicables en cada caso.
+
+## Artículo 21. Exenciones en las exportaciones de bienes
+
+Artículo 21. Exenciones en las exportaciones de bienes
+
+Estarán exentas del impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones:
+
+1.º Las entregas de bienes expedidos o transportados fuera de la Comunidad por el transmitente o por un tercero que actúe en nombre y por cuenta de éste.
+
+2.º Las entregas de bienes expedidos o transportados fuera de la Comunidad por el adquirente no establecido en el territorio de aplicación del impuesto o por un tercero que actúe en nombre y por cuenta de él.
+
+Se excluyen de lo dispuesto en el párrafo anterior los bienes destinados al equipamiento o avituallamiento de embarcaciones deportivas o de recreo, de aviones de turismo o de cualquier medio de transporte de uso privado.
+
+Estarán también exentas del impuesto:
+
+A) Las entregas de bienes a viajeros con cumplimiento de los siguientes requisitos:
+
+a) La exención se hará efectiva mediante el reembolso del impuesto soportado en las adquisiciones.
+
+b) Que los viajeros tengan su residencia habitual fuera del territorio de la Comunidad.
+
+c) Que los bienes adquiridos salgan efectivamente del territorio de la Comunidad.
+
+d) Que el conjunto de los bienes adquiridos no constituya una expedición comercial.
+
+A los efectos de esta Ley, se considerará que los bienes conducidos por los viajeros no constituyen una expedición comercial cuando se trate de bienes adquiridos ocasionalmente, que se destinen al uso personal o familiar de los viajeros o a ser ofrecidos como regalos y que, por su naturaleza y cantidad, no pueda presumirse que sean el objeto de una actividad comercial.
+
+B) Las entregas de bienes efectuadas en las tiendas libres de impuestos que, bajo control aduanero, existen en los puertos y aeropuertos cuando los adquirentes sean personas que salgan inmediatamente con destino a territorios terceros, así como las efectuadas a bordo de los buques o aeronaves que realicen navegaciones con destino a puertos o aeropuertos situados en territorios terceros.
+
+3.º Las prestaciones de servicios que consistan en trabajos realizados sobre bienes muebles adquiridos o importados para ser objeto de dichos trabajos en el territorio de aplicación del Impuesto y, seguidamente, expedidos o transportados fuera de la Comunidad por quien ha efectuado los mencionados trabajos, por el destinatario de los mismos no establecido en el territorio de aplicación del Impuesto, por persona distinta de las anteriores que ostente la condición de exportador de conformidad con lo dispuesto en la normativa aduanera o, bien, por otra persona que actúe en nombre y por cuenta de cualquiera de los anteriores.
+
+La exención no se extiende a los trabajos de reparación o mantenimiento de embarcaciones deportivas o de recreo, aviones de turismo o cualquier otro medio de transporte de uso privado introducidos en régimen de tránsito o de importación temporal.
+
+4.º Las entregas de bienes a Organismos reconocidos que los exporten fuera del territorio de la Comunidad en el marco de sus actividades humanitarias, caritativas o educativas, previo reconocimiento del derecho a la exención.
+
+No obstante, cuando quien entregue los bienes a que se refiere el párrafo anterior de este número sea un Ente público o un establecimiento privado de carácter social, se podrá solicitar a la Agencia Estatal de Administración Tributaria la devolución del Impuesto soportado que no haya podido deducirse totalmente previa justificación de su importe en el plazo de tres meses desde que dichas entregas se realicen.
+
+5.º Las prestaciones de servicios, incluidas las de transporte y operaciones accesorias, distintas de las que gocen de exención conforme al artículo 20 de esta Ley, cuando estén directamente relacionadas con las exportaciones de bienes fuera del territorio de la Comunidad.
+
+Se considerarán directamente relacionados con las mencionadas exportaciones los servicios respecto de los cuales concurran las siguientes condiciones:
+
+a) Que se presten a quienes realicen dichas exportaciones, a los destinatarios de los bienes, a sus representantes aduaneros, o a los transitarios y consignatarios que actúen por cuenta de unos u otros.
+
+b) Que se realicen a partir del momento en que los bienes se expidan directamente con destino a un punto situado fuera del territorio de la Comunidad o a un punto situado en zona portuaria, aeroportuaria o fronteriza para su inmediata expedición fuera de dicho territorio.
+
+La condición a que se refiere la letra b) anterior no se exigirá en relación con los servicios de arrendamiento de medios de transporte, embalaje y acondicionamiento de la carga, reconocimiento de las mercancías por cuenta de los adquirentes y otros análogos cuya realización previa sea imprescindible para llevar a cabo el envío.
+
+6.º Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones exentas descritas en el presente artículo.
+
+7.º Las entregas de bienes expedidos o transportados fuera de la Comunidad por quien ostente la condición de exportador, de conformidad con lo dispuesto en la normativa aduanera, distinto del transmitente o el adquirente no establecido en el territorio de aplicación del impuesto, o por un tercero que actúe en nombre y por cuenta del mismo.
+
+## Artículo 22. Exenciones en las operaciones asimiladas a las exportaciones
+
+Artículo 22. Exenciones en las operaciones asimiladas a las exportaciones
+
+Estarán exentas del impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones:
+
+Uno. Las entregas, construcciones, transformaciones, reparaciones, mantenimiento, fletamento, total o parcial, y arrendamiento de los buques que se indican a continuación:
+
+1.º Los buques aptos para navegar por alta mar que se afecten a la navegación marítima internacional en el ejercicio de actividades comerciales de transporte remunerado de mercancías o pasajeros, incluidos los circuitos turísticos, o de actividades industriales o de pesca.
+
+La exención no se aplicará en ningún caso a los buques destinados a actividades deportivas, de recreo o, en general, de uso privado.
+
+2.º Los buques afectos exclusivamente al salvamento, a la asistencia marítima o a la pesca costera.
+
+La desafectación de un buque de las finalidades indicadas en el párrafo anterior producirá efectos durante un plazo mínimo de un año, excepto en los supuestos de entrega posterior del mismo.
+
+3.º Los buques de guerra.
+
+La exención descrita en el presente apartado queda condicionada a que el adquirente de los bienes o destinatario de los servicios indicados sea la propia Compañía que realiza las actividades mencionadas y utilice los buques en el desarrollo de dichas actividades o, en su caso, la propia entidad pública que utilice los buques en sus fines de defensa.
+
+A los efectos de esta Ley, se considerará:
+
+Primero. Navegación marítima internacional, la que se realice a través de las aguas marítimas en los siguientes supuestos:
+
+a) La que se inicie en un puerto situado en el ámbito espacial de aplicación del Impuesto y termine o haga escala en otro puerto situado fuera de dicho ámbito espacial.
+
+b) La que se inicie en un puerto situado fuera del ámbito espacial de aplicación del Impuesto y termine o haga escala en otro puerto situado dentro o fuera de dicho ámbito espacial.
+
+c) La que se inicie y finalice en cualquier puerto, sin realizar escalas, cuando la permanencia en aguas situadas fuera del mar territorial del ámbito espacial de aplicación del Impuesto exceda de cuarenta y ocho horas.
+
+Lo dispuesto en esta letra c) no se aplicará a los buques que realicen actividades comerciales de transporte remunerado de personas o mercancías.
+
+En este concepto de navegación marítima internacional no se comprenderán las escalas técnicas realizadas para repostar, reparar o servicios análogos.
+
+Segundo. Que un buque está afecto a la navegación marítima internacional, cuando sus recorridos en singladuras de dicha navegación representen más del 50 por ciento del total recorrido efectuado durante los períodos de tiempo que se indican a continuación:
+
+a) El año natural anterior a la fecha en que se efectúen las correspondientes operaciones de reparación o mantenimiento, salvo lo dispuesto en la letra siguiente.
+
+b) En los supuestos de entrega, construcción, transformación, adquisición intracomunitaria, importación, fletamento, total o parcial, o arrendamiento del buque o en los de desafectación de los fines a que se refiere el número 2.º anterior, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
+
+Este criterio se aplicará también en relación con las operaciones mencionadas en la letra anterior cuando se realicen después de las citadas en la presente letra.
+
+A efectos de lo dispuesto en esta letra, se considerará que la construcción de un buque ha finalizado en el momento de su matriculación definitiva en el Registro marítimo correspondiente.
+
+Si, transcurridos los períodos a que se refiere esta letra b), el buque no cumpliese los requisitos que determinan la afectación a la navegación marítima internacional, se regularizará su situación tributaria en relación con las operaciones de este apartado, de acuerdo con lo dispuesto en el artículo 19, número 1.º
+
+Dos. Las entregas, arrendamientos, reparaciones y mantenimiento de los objetos, incluidos los equipos de pesca, que se incorporen o se encuentren a bordo de los buques a que afectan las exenciones establecidos en el apartado anterior, siempre que se realicen durante los períodos en que dichos beneficios fiscales resulten de aplicación.
+
+La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+
+1.º Que el destinatario directo de dichas operaciones sea el titular de la explotación del buque o, en su caso, su propietario.
+
+2.º Que los objetos mencionados se utilicen o, en su caso, se destinen a ser utilizados exclusivamente en la explotación de dichos buques.
+
+3.º Que las operaciones a que afecten las exenciones se efectúen después de la matriculación definitiva de los mencionados buques en el Registro Marítimo correspondiente.
+
+Tres. Las entregas de productos de avituallamiento para los buques que se indican a continuación, cuando se adquieran por los titulares de la explotación de dichos buques:
+
+1.º Los buques a que se refieren las exenciones del apartado uno anterior, números 1.º y 2.º, siempre que se realicen durante los períodos en que dichos beneficios fiscales resulten de aplicación.
+
+No obstante, cuando se trate de buques afectos a la pesca costera, la exención no se extiende a las entregas de provisiones de a bordo.
+
+2.º Los buques de guerra que realicen navegación marítima internacional, en los términos descritos en el apartado uno.
+
+Cuatro. Las entregas, transformaciones, reparaciones, mantenimiento, fletamiento total o arrendamiento de las siguientes aeronaves:
+
+1.º Las utilizadas exclusivamente por compañías dedicadas esencialmente a la navegación aérea internacional en el ejercicio de actividades comerciales de transporte remunerado de mercancías o pasajeros.
+
+2.º Las utilizadas por entidades públicas en el cumplimiento de sus funciones públicas.
+
+La exención está condicionada a que el adquirente o destinatario de los servicios indicados sea la propia compañía que realice las actividades mencionadas y utilice las aeronaves en el desarrollo de dichas actividades o, en su caso, la propia entidad pública que utilice las aeronaves en las funciones públicas.
+
+A los efectos de esta Ley, se considerará:
+
+Primero. Navegación aérea internacional, la que se realice en los siguientes supuestos:
+
+a) La que se inicie en un aeropuerto situado en el ámbito espacial de aplicación del impuesto y termine o haga escala en otro aeropuerto situado fuera de dicho ámbito espacial.
+
+b) La que se inicie en un aeropuerto situado fuera del ámbito espacial del impuesto y termine o haga escala en otro aeropuerto situado dentro o fuera de dicho ámbito espacial.
+
+En este concepto de navegación aérea internacional no se comprenderán las escalas técnicas realizadas para repostar, reparar o servicios análogos.
+
+Segundo. Que una compañía está dedicada esencialmente a la navegación aérea internacional cuando corresponda a dicha navegación más del 50 por 100 de la distancia total recorrida en los vuelos efectuados por todas las aeronaves utilizadas por dicha compañía durante los períodos de tiempo que se indican a continuación:
+
+a) El año natural anterior a la realización de las operaciones de reparación o mantenimiento, salvo lo dispuesto en la letra siguiente.
+
+b) En los supuestos de entrega, construcción, transformación, adquisición intracomunitaria, importación, fletamento total o arrendamiento de las aeronaves, el año natural en que se efectúen dichas operaciones, a menos que tuviesen lugar después del primer semestre de dicho año, en cuyo caso el período a considerar comprenderá ese año natural y el siguiente.
+
+Este criterio se aplicará también en relación con las operaciones mencionadas en la letra anterior cuando se realicen después de las citadas en la presente letra.
+
+Si al transcurrir los períodos a que se refiere esta letra b) la compañía no cumpliese los requisitos que determinan su dedicación a la navegación aérea internacional, se regularizará su situación tributaria en relación con las operaciones de este apartado de acuerdo con lo dispuesto en el artículo 19, número 3.º
+
+Cinco. Las entregas, arrendamientos, reparaciones y mantenimiento de los objetos que se incorporen o se encuentren a bordo de las aeronaves a que se refieren las exenciones establecidas en el apartado anterior.
+
+La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+
+1.º Que el destinatario de dichas operaciones sea el titular de la explotación de la aeronave a que se refieran.
+
+2.º Que los objetos mencionados se utilicen o, en su caso, se destinen a ser utilizados en la explotación de dichas aeronaves y a bordo de las mismas.
+
+3.º Que las operaciones a que se refieren las exenciones se realicen después de la matriculación de las mencionadas aeronaves en el Registro de Matrícula que se determine reglamentariamente.
+
+Seis. Las entregas de productos de avituallamiento para las aeronaves a que se refieren las exenciones establecidas en el apartado cuatro, cuando sean adquiridos por las compañías o entidades públicas titulares de la explotación de dichas aeronaves.
+
+Siete. Las prestaciones de servicios, distintas de las relacionadas en los apartados anteriores de este artículo, realizadas para atender las necesidades directas de los buques y de las aeronaves a los que corresponden las exenciones establecidas en los apartados uno y cuatro anteriores, o para atender las necesidades del cargamento de dichos buques y aeronaves.
+
+Los servicios a que se refiere el párrafo anterior deberán tener por destinatarios a los titulares de la explotación de dichos buques o a las compañías o entidades públicas que utilizan dichas aeronaves.
+
+Por excepción a lo dispuesto en el párrafo anterior, estarán exentos los servicios de carga, estiba, descarga, desestiba y transbordo, relacionados con las necesidades de cargamento de los buques contemplados en el apartado uno del artículo 22 de esta ley, prestados por profesionales estibadores, en nombre propio, a favor de empresas estibadoras y utilizados por estas en los servicios prestados, a su vez, a los titulares de la explotación de dichos buques.
+
+Ocho. Las entregas de bienes y prestaciones de servicios realizadas en el marco de las relaciones diplomáticas y consulares, en los casos y con los requisitos que se determinen reglamentariamente.
+
+Nueve. Las entregas de bienes y prestaciones de servicios destinadas a los organismos internacionales reconocidos por España o al personal de dichos organismos con estatuto diplomático, dentro de los límites y en las condiciones fijadas en los convenios internacionales por los que se crean tales organismos o en los acuerdos de sede que sean aplicables en cada caso.
+
+En particular, se incluirán en este apartado las entregas de bienes y las prestaciones de servicios destinadas a la Comunidad Europea, a la Comunidad Europea de la Energía Atómica, al Banco Central Europeo o al Banco Europeo de Inversiones, o a los organismos creados por las Comunidades a los que se aplica el Protocolo del 8 de abril de 1965 sobre los privilegios y las inmunidades de las Comunidades Europeas, dentro de los límites y conforme a las condiciones de dicho Protocolo y a los acuerdos para su aplicación o a los acuerdos de sede, siempre que con ello no se provoquen distorsiones en la competencia.
+
+Asimismo, se incluirán en este apartado las entregas de bienes y las prestaciones de servicios destinadas a la Comisión o a un órgano u organismo establecidos con arreglo al Derecho de la Unión, cuando la Comisión o dicho órgano u organismo adquieran dichos bienes o servicios en el ejercicio de las tareas que les confiere el Derecho de la Unión en respuesta a la pandemia de COVID-19, excepto en caso de que los bienes y servicios adquiridos se utilicen, inmediatamente o en una fecha posterior, para entregas ulteriores a título oneroso por parte de la Comisión o de dicho órgano u organismo.
+
+Diez. Las entregas de bienes y prestaciones de servicios efectuadas para:
+
+a) Las fuerzas de los demás Estados partes del Tratado del Atlántico Norte, en los términos establecidos en el Convenio entre los Estados partes de dicho Tratado relativo al estatuto de sus fuerzas;
+
+b) las fuerzas armadas de cualquier Estado miembro distinto de España, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+
+Once. Las entregas de bienes y las prestaciones de servicios efectuadas con destino a otro Estado miembro y para:
+
+a) las fuerzas de cualquier Estado parte del Tratado del Atlántico Norte, distinto del propio Estado miembro de destino, en los términos establecidos en el Convenio entre los Estados partes de dicho Tratado relativo al estatuto de sus fuerzas;
+
+b) las fuerzas armadas de cualquier Estado miembro distinto del propio Estado miembro de destino, para uso de dichas fuerzas o del personal civil a su servicio, o para el abastecimiento de sus comedores o cantinas, siempre que dichas fuerzas estén afectadas a un esfuerzo de defensa realizado para llevar a cabo una actividad de la Unión en el ámbito de la política común de seguridad y defensa.
+
+Doce. Las entregas de oro al Banco de España.
+
+Trece. Los transportes de viajeros y sus equipajes por vía marítima o aérea procedentes de o con destino a un puerto o aeropuerto situado fuera del ámbito espacial del impuesto.
+
+Se entenderán incluidos en este apartado los transportes por vía aérea amparados por un único título de transporte que incluya vuelos de conexión aérea.
+
+Catorce. Las prestaciones de transporte intracomunitario de bienes, definido en el artículo 72, apartado dos de esta Ley, con destino a las islas Azores o Madeira o procedentes de dichas islas.
+
+Quince. Las prestaciones de servicios realizadas por intermediarios que actúen en nombre y por cuenta de terceros cuando intervengan en las operaciones que estén exentas del Impuesto en virtud de lo dispuesto en este artículo.
+
+Dieciséis. Las operaciones exentas por aplicación de lo dispuesto en los apartados anteriores no comprenderán las que gocen de exención en virtud de los artículos 20, 20 bis, 21 y 25 de esta ley.
+
+## Artículo 23. Exenciones relativas a las situaciones de depósito temporal y otras situaciones
+
+Artículo 23. Exenciones relativas a las situaciones de depósito temporal y otras situaciones
+
+Uno. Estarán exentas, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones:
+
+1.º Las entregas de bienes que se encuentren en situación de depósito temporal, así como las prestaciones de servicios relacionadas directamente con las entregas de bienes anteriores y las realizadas mientras los bienes se mantengan en dicha situación.
+
+2.º Las entregas de bienes que sean conducidos al mar territorial para incorporarlos a plataformas de perforación o de explotación para su construcción, reparación, mantenimiento, transformación o equipamiento o para unir dichas plataformas al continente.
+
+La exención se extiende a las entregas de bienes destinados al avituallamiento de las plataformas a que se refiere el párrafo anterior.
+
+3.º Las prestaciones de servicios relacionadas directamente con las entregas de bienes descritas en el número 2.º anterior, así como con las importaciones de bienes destinados a ser colocados en las situaciones a que se refiere este apartado.
+
+4.º Las entregas de los bienes que se encuentren en la situación indicada en el número 2.º precedente, así como las prestaciones de servicios realizadas mientras los bienes se mantengan en dicha situación.
+
+Dos. La situación de depósito temporal, así como la colocación de los bienes en situación de depósito temporal mencionados en el presente artículo, se ajustarán a la definición, normas y requisitos establecidos por la legislación aduanera.
+
+Tres. Las exenciones establecidas en este artículo están condicionadas, en todo caso, a que los bienes a que se refieren no sean utilizados ni destinados a su consumo final en las situaciones indicadas.
+
+Cuatro. Las prestaciones de servicios exentas en virtud del apartado uno no comprenderán las que gocen de exención por los artículos 20, 21 y 22 de esta ley.
+
+## Artículo 24. Exenciones relativas a regímenes aduaneros y fiscales
+
+Artículo 24. Exenciones relativas a regímenes aduaneros y fiscales
+
+Uno. Estarán exentas del Impuesto, en las condiciones y con los requisitos que se establezcan reglamentariamente, las siguientes operaciones:
+
+1.º Las entregas de los bienes que se indican a continuación:
+
+a) Los destinados a ser vinculados al régimen de zona franca y los que estén vinculados a dicho régimen.
+
+b) Los destinados a ser utilizados en los procesos efectuados al amparo de los regímenes aduanero y fiscal de perfeccionamiento activo, así como de los que estén vinculados a dichos regímenes, con excepción de la modalidad de exportación anticipada del perfeccionamiento activo.
+
+c) Los que se encuentren vinculados al régimen de importación temporal con exención total de derechos de importación o de tránsito externo.
+
+d) Los comprendidos en el artículo 18, apartado uno, número 2.º, que se encuentren al amparo del régimen fiscal de importación temporal o del régimen de tránsito interno.
+
+e) Los destinados a ser vinculados al régimen de depósito aduanero y los que estén vinculados a dicho régimen.
+
+f) Los destinados a ser vinculados a un régimen de depósito distinto del aduanero y de los que estén vinculados a dicho régimen.
+
+2.º Las prestaciones de servicios relacionadas directamente con las entregas descritas en el número anterior.
+
+3.º Las prestaciones de servicios relacionadas directamente con las siguientes operaciones y bienes:
+
+a) Las importaciones de bienes que se vinculen al régimen de zona franca.
+
+b) Las importaciones de bienes que se vinculen al régimen de tránsito externo.
+
+c) Las importaciones de los bienes comprendidos en el artículo 18, apartado uno, número 2.º, que se coloquen al amparo del régimen fiscal de importación temporal o del tránsito interno.
+
+d) Las importaciones de bienes que se vinculen a los regímenes aduanero y fiscal de perfeccionamiento activo.
+
+e) Las importaciones de bienes que se vinculen al régimen de depósito aduanero.
+
+f) Las importaciones de bienes que se vinculen al régimen de importación temporal con exención total.
+
+g) Las importaciones de bienes que se vinculen a un régimen de depósito distinto del aduanero exentas conforme el artículo 65 de esta ley.
+
+h) Los bienes vinculados a los regímenes descritos en las letras a), b), c), d), e) y g) anteriores.
+
+Dos. Los regímenes a que se refiere el apartado anterior son los definidos en la legislación aduanera y su vinculación y permanencia en ellos se ajustarán a las normas y requisitos establecidos en dicha legislación.
+
+El régimen fiscal de perfeccionamiento activo se autorizará respecto de los bienes que quedan excluidos del régimen aduanero de la misma denominación, con sujeción, en lo demás, a las mismas normas que regulan el mencionado régimen aduanero.
+
+El régimen fiscal de importación temporal se autorizará respecto de los bienes procedentes de los territorios comprendidos en el artículo 3, apartado dos, número 1.º, letra b), de esta ley, cuya importación temporal se beneficie de exención total de derechos de importación o se beneficiaría de dicha exención si los bienes procediesen de terceros países.
+
+A los efectos de esta ley, el régimen de depósito distinto de los aduaneros será el definido en el apartado quinto del Anexo de la misma.
+
+Tres. Las exenciones descritas en el apartado uno se aplicarán mientras los bienes a que se refieren permanezcan vinculados a los regímenes indicados.
+
+Cuatro. Las exenciones relativas a los regímenes aduaneros y fiscales están condicionadas, en todo caso, a que los bienes a que se refieren no sean utilizados ni destinados a su consumo final durante la vigencia de los mismos, sin perjuicio de los bienes incorporados a los procesos de transformación que se realicen al amparo de los regímenes aduanero y fiscal de perfeccionamiento activo.
+
+Cinco. Las prestaciones de servicios exentas por aplicación del apartado uno no comprenderán las que gocen de exención en virtud del artículo 20 de esta ley.
+
+## Artículo 25. Exenciones en las entregas de bienes destinados a otro Estado miembro
+
+Artículo 25. Exenciones en las entregas de bienes destinados a otro Estado miembro
+
+Estarán exentas del impuesto las siguientes operaciones:
+
+Uno. Las entregas de bienes definidas en el artículo 8 de esta Ley, expedidos o transportados, por el vendedor, por el adquirente o por un tercero en nombre y por cuenta de cualquiera de los anteriores, al territorio de otro Estado miembro, siempre que el adquirente sea un empresario o profesional o una persona jurídica que no actúe como tal, que disponga de un número de identificación a efectos del Impuesto sobre el Valor Añadido asignado por un Estado miembro distinto del Reino de España, que haya comunicado dicho número de identificación fiscal al vendedor.
+
+La aplicación de esta exención quedará condicionada a que el vendedor haya incluido dichas operaciones en la declaración recapitulativa de operaciones intracomunitarias prevista en el artículo 164, apartado uno, número 5.º, de esta Ley, en las condiciones que se establezcan reglamentariamente.
+
+La exención descrita en este apartado no se aplicará a las entregas de bienes efectuadas para aquellas personas cuyas adquisiciones intracomunitarias de bienes no estén sujetas al Impuesto en el Estado miembro de destino en virtud de los criterios contenidos en el artículo 14, apartados uno y dos, de esta Ley.
+
+Tampoco se aplicará esta exención a las entregas de bienes acogidas al régimen especial de bienes usados, objetos de arte, antigüedades y objetos de colección, regulado en el capítulo IV del título IX de esta Ley.
+
+Dos. Las entregas de medios de transportes nuevos, efectuadas en las condiciones indicadas en el apartado uno, cuando los adquirentes en destino sean las personas comprendidas en el penúltimo párrafo del apartado precedente o cualquiera otra persona que no tenga la condición de empresario o profesional.
+
+Tres. Las entregas de bienes comprendidas en el artículo 9, número 3.º de esta Ley a las que resultaría aplicable la exención del apartado uno si el destinatario fuese otro empresario o profesional.
+
+Cuatro. Las entregas de bienes efectuadas en el marco de un acuerdo de ventas de bienes en consigna en las condiciones previstas en el artículo 9 bis, apartado dos, de esta Ley.
+
+## Artículo 26. Exenciones en las adquisiciones intracomunitarias de bienes
+
+Artículo 26. Exenciones en las adquisiciones intracomunitarias de bienes
+
+Estarán exentas del impuesto:
+
+Uno. Las adquisiciones intracomunitarias de bienes cuya entrega en el territorio de aplicación del impuesto hubiera estado, en todo caso, no sujeta o exenta en virtud de lo dispuesto en los artículos 7, 20, 22, 23 y 24 de esta Ley.
+
+Dos. Las adquisiciones intracomunitarias de bienes cuya importación hubiera estado, en todo caso, exenta del impuesto en virtud de lo dispuesto en el Capítulo III de este Título.
+
+Tres. Las adquisiciones intracomunitarias de bienes en las que concurran los siguientes requisitos:
+
+1º. Que se realicen por un empresario o profesional que:
+
+a) No esté establecido ni identificado a efectos del Impuesto sobre el Valor Añadido en el territorio de aplicación del Impuesto, y
+
+b) Que esté identificado a efectos del Impuesto sobre el Valor Añadido en otro Estado miembro de la Comunidad.
+
+2º. Que se efectúen para la ejecución de una entrega subsiguiente de los bienes adquiridos, realizada en el interior del territorio de aplicación del impuesto por el propio adquirente.
+
+3º. Que los bienes adquiridos se expidan o transporten directamente a partir de un Estado miembro distinto de aquel en el que se encuentre identificado a efectos del Impuesto sobre el Valor Añadido el adquirente y con destino a la persona para la cual se efectúe la entrega subsiguiente.
+
+4º. Que el destinatario de la posterior entrega sea un empresario o profesional o una persona jurídica que no actúe como tal, a quienes no les afecte la no sujeción establecida en el artículo 14 de esta Ley y que tengan atribuido un número de identificación a efectos del Impuesto sobre el Valor Añadido suministrado por la Administración española
+
+Cuatro. Las adquisiciones intracomunitarias de bienes respecto de las cuales se atribuya al adquirente, en virtud de lo dispuesto en los artículos 119 o 119 bis de esta Ley, el derecho a la devolución total del Impuesto que se hubiese devengado por las mismas.
+
+## Artículo 27. Importaciones de bienes cuya entrega en el interior estuviese exenta del impuesto
+
+Artículo 27. Importaciones de bienes cuya entrega en el interior estuviese exenta del impuesto
+
+Estarán exentas del impuesto las importaciones de los siguientes bienes:
+
+1.º La sangre, el plasma sanguíneo y los demás fluidos, tejidos y otros elementos del cuerpo humano para fines médicos o de investigación o para su procesamiento por idénticos fines.
+
+2.º Los buques y los objetos para ser incorporados a ellos a que se refieren las exenciones establecidas en el artículo 22, apartados uno y dos de esta Ley.
+
+3.º Las aeronaves y los objetos para ser incorporados a ellas a que se refieren las exenciones establecidas en el artículo 22, apartados cuatro y cinco de esta Ley.
+
+4.º Los productos de avituallamiento que, desde el momento en que se produzca la entrada en el ámbito espacial de aplicación del impuesto hasta la llegada al puerto o puertos situados en dicho ámbito territorial y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de los buques a los que corresponden las exenciones de las entregas de avituallamientos establecidas en el artículo 22, apartado tres de esta Ley, con las limitaciones previstas en dicho precepto.
+
+5.º Los productos de avituallamiento que, desde la entrada en el ámbito espacial de aplicación del impuesto hasta la llegada al aeropuerto o aeropuertos situados en dicho ámbito territorial y durante la permanencia en los mismos por el plazo necesario para el cumplimiento de sus fines, se hayan consumido o se encuentren a bordo de las aeronaves a que afectan las exenciones correspondientes a las entregas de avituallamientos establecidas en el artículo 22, apartado seis de esta Ley y en las condiciones previstas en él.
+
+6.º Los productos de avituallamiento que se importen por las empresas titulares de la explotación de los buques y aeronaves a que afectan las exenciones establecidas en el artículo 22, apartados tres y seis, de esta Ley, con las limitaciones establecidas en dichos preceptos y para ser destinados exclusivamente a los mencionados buques y aeronaves.
+
+7.º Las divisas, billetes de banco y monedas que sean medios legales de pago, a excepción de las monedas y billetes de colección y de las piezas de oro, plata y platino.
+
+8.º Los títulos-valores.
+
+9.º (Suprimido)
+
+10.º El oro importado directamente por el Banco de España.
+
+11.º Los bienes destinados a las plataformas a que se refiere el artículo 23, apartado uno, número 2.º, de esta Ley, cuando se destinen a los mismos fines mencionados en dicho precepto.
+
+12.º Los bienes cuya expedición o transporte tenga como punto de llegada un lugar situado en otro Estado miembro, siempre que la entrega ulterior de dichos bienes efectuada por el importador o su representante fiscal estuviese exenta en virtud de lo dispuesto en el artículo 25 de esta Ley.
+
+La exención prevista en este número quedará condicionada al cumplimiento de los requisitos que se establezcan reglamentariamente.
+
+## Artículo 28. Importaciones de bienes personales por traslado de residencia habitual
+
+Artículo 28. Importaciones de bienes personales por traslado de residencia habitual
+
+Uno. Estarán exentas del Impuesto las importaciones de bienes personales pertenecientes a personas físicas que trasladen su residencia habitual desde un territorio tercero al Reino de España.
+
+Dos. La exención quedará condicionada a la concurrencia de los siguientes requisitos:
+
+1.º Los interesados deberán haber tenido su residencia habitual fuera de la Comunidad al menos durante los doce meses consecutivos anteriores al traslado.
+
+2.º Los bienes importados habrán de destinarse en la nueva residencia a los mismos usos o finalidades que en la anterior.
+
+3.º Que los bienes hubiesen sido adquiridos o importados en las condiciones normales de tributación en el país de origen o procedencia y no se hubieran beneficiado de ninguna exención o devolución de las cuotas devengadas con ocasión de su salida de dicho país.
+
+Se considerará cumplido este requisito cuando los bienes se hubiesen adquirido o importado al amparo de las exenciones establecidas en los regímenes diplomático o consular en favor de los miembros de los organismos internacionales reconocidos y con sede en el Estado de origen, con los límites y condiciones fijados por los Convenios internacionales por los que se crean dichos organismos o por los Acuerdos de sede.
+
+4.º Que los bienes objeto de importación hubiesen estado en posesión del interesado o, tratándose de bienes no consumibles, hubiesen sido utilizados por él en su antigua residencia durante un período mínimo de seis meses antes de haber abandonado dicha residencia.
+
+No obstante, cuando se trate de vehículos provistos de motor mecánico para circular por carretera, sus remolques, caravanas de cámping, viviendas transportables, embarcaciones de recreo y aviones de turismo, que se hubiesen adquirido o importado al amparo de las exenciones a que se refiere el segundo párrafo del número 3.º anterior, el período de utilización descrito en el párrafo precedente habrá de ser superior a doce meses.
+
+No se exigirá el cumplimiento de los plazos establecidos en este número, en los casos excepcionales en que se admita por la legislación aduanera a efectos de los derechos de importación.
+
+5.º Que la importación de los bienes se realice en el plazo máximo de doce meses a partir de la fecha del traslado de residencia al territorio de aplicación del impuesto.
+
+No obstante, los bienes personales podrán importarse antes del traslado, previo compromiso del interesado de establecer su nueva residencia antes de los seis meses siguientes a la importación, pudiendo exigirse garantía en cumplimiento de dicho compromiso.
+
+En el supuesto a que se refiere el párrafo anterior, los plazos establecidos en el número anterior se calcularán con referencia a la fecha de la importación.
+
+6.º Que los bienes importados con exención no sean transmitidos, cedidos o arrendados durante el plazo de doce meses posteriores a la importación, salvo causa justificada.
+
+El incumplimiento de este requisito determinará la exacción del impuesto referido a la fecha en que se produjera dicho incumplimiento.
+
+Tres. Quedan excluidos de la exención los siguientes bienes:
+
+1.º Los productos alcohólicos comprendidos en los códigos NC 22.03 a 22.08 del Arancel aduanero.
+
+2.º El tabaco en rama o manufacturado.
+
+No obstante, los bienes comprendidos en este número 2.º y en el 1.º anterior podrán ser importados con exención hasta el límite de las cantidades autorizadas con franquicia en el régimen de viajeros regulado en el artículo 35 de esta Ley.
+
+3.º Los medios de transporte de carácter industrial.
+
+4.º Los materiales de uso profesional distintos de instrumentos portátiles para el ejercicio de la profesión u oficio del importador.
+
+5.º Los vehículos de uso mixto utilizados para fines comerciales o profesionales.
+
+## Artículo 90. Tipo impositivo general
+
+Artículo 90. Tipo impositivo general
+
+Uno. El Impuesto se exigirá al tipo del 21 por ciento, salvo lo dispuesto en el artículo siguiente.
+
+Dos. El tipo impositivo aplicable a cada operación será el vigente en el momento del devengo.
+
+Tres. En las reimportaciones de bienes que hayan sido exportados temporalmente fuera de la Comunidad y que se efectúen después de haber sido objeto en un país tercero de trabajos de reparación, transformación, adaptación, ejecuciones de obra o incorporación de otros bienes, se aplicará el tipo impositivo que hubiera correspondido a las operaciones indicadas si se hubiesen realizado en el territorio de aplicación del Impuesto.
+
+En las operaciones asimiladas a las importaciones de bienes que hayan sido exclusivamente objeto de servicios exentos mientras han permanecido vinculados a los regímenes o situaciones a que se refieren los artículos 23 y 24 de esta Ley, se aplicará el tipo impositivo que hubiera correspondido a los citados servicios si no hubiesen estado exentos.
+
+## Artículo 91. Tipos impositivos reducidos
+
+Artículo 91. Tipos impositivos reducidos
+
+Uno. Se aplicará el tipo del 10 por ciento a las operaciones siguientes:
+
+1. Las entregas, adquisiciones intracomunitarias o importaciones de los bienes que se indican a continuación:
+
+1.º Las sustancias o productos, cualquiera que sea su origen que, por sus características, aplicaciones, componentes, preparación y estado de conservación, sean susceptibles de ser habitual e idóneamente utilizados para la nutrición humana o animal, de acuerdo con lo establecido en el Código Alimentario y las disposiciones dictadas para su desarrollo.
+
+Se excluyen de lo dispuesto en el párrafo anterior:
+
+a) Las bebidas alcohólicas.
+
+Se entiende por bebida alcohólica todo líquido apto para el consumo humano por ingestión que contenga alcohol etílico.
+
+b) Las bebidas refrescantes, zumos y gaseosas con azúcares o edulcorantes añadidos.
+
+A los efectos de este número no tendrán la consideración de alimento el tabaco ni las sustancias no aptas para el consumo humano o animal en el mismo estado en que fuesen objeto de entrega, adquisición intracomunitaria o importación.
+
+2.º Los animales, vegetales y los demás productos susceptibles de ser utilizados habitual e idóneamente para la obtención de los productos a que se refiere el número anterior, directamente o mezclados con otros de origen distinto.
+
+Se comprenden en este número los animales destinados a su engorde antes de ser utilizados en el consumo humano o animal y los animales reproductores de los mismos o de aquellos otros a que se refiere el párrafo anterior.
+
+3.º Los siguientes bienes cuando por sus características objetivas, envasado, presentación y estado de conservación, sean susceptibles de ser utilizados directa, habitual e idóneamente en la realización de actividades agrícolas, forestales o ganaderas: semillas y materiales de origen exclusivamente animal o vegetal susceptibles de originar la reproducción de animales o vegetales; fertilizantes, residuos orgánicos, correctores y enmiendas, herbicidas, plaguicidas de uso fitosanitario o ganadero; los plásticos para cultivos en acolchado, en túnel o en invernadero y las bolsas de papel para la protección de las frutas antes de su recolección.
+
+4.º Las aguas aptas para la alimentación humana o animal o para el riego, incluso en estado sólido.
+
+5.º Los medicamentos de uso veterinario.
+
+6.º Los siguientes bienes:
+
+a) Los productos farmacéuticos comprendidos en el Capítulo 30 «Productos farmacéuticos» de la Nomenclatura Combinada, susceptibles de uso directo por el consumidor final, distintos de los incluidos en el número 5.º de este apartado uno.1 y de aquellos a los que les resulte de aplicación el tipo impositivo establecido en el número 3.º del apartado dos.1 de este artículo.
+
+b) (Suprimida)
+
+c) Los equipos médicos, aparatos y demás instrumental, relacionados en el apartado octavo del anexo de esta Ley, que por sus características objetivas, estén diseñados para aliviar o tratar deficiencias, para uso personal y exclusivo de personas que tengan deficiencias físicas, mentales, intelectuales o sensoriales, sin perjuicio de lo previsto en el apartado dos.1 de este artículo.
+
+No se incluyen en esta letra otros accesorios, recambios y piezas de repuesto de dichos bienes.
+
+7.º Los edificios o partes de los mismos aptos para su utilización como viviendas, incluidas las plazas de garaje, con un máximo de dos unidades, y anexos en ellos situados que se transmitan conjuntamente.
+
+En lo relativo a esta ley no tendrán la consideración de anexos a viviendas los locales de negocio, aunque se transmitan conjuntamente con los edificios o parte de los mismos destinados a viviendas.
+
+No se considerarán edificios aptos para su utilización como viviendas las edificaciones destinadas a su demolición a que se refiere el artículo 20, apartado uno, número 22.º, parte A), letra c) de esta ley.
+
+8.º Las flores, las plantas vivas de carácter ornamental, así como las semillas, bulbos, esquejes y otros productos de origen exclusivamente vegetal susceptibles de ser utilizados en su obtención.
+
+2. Las prestaciones de servicios siguientes:
+
+1.º Los transportes de viajeros y sus equipajes.
+
+2.º Los servicios de hostelería, acampamento y balneario, los de restaurantes y, en general, el suministro de comidas y bebidas para consumir en el acto, incluso si se confeccionan previo encargo del destinatario.
+
+Se incluyen en este número los arrendamientos de apartamentos o viviendas amueblados a que se refiere el artículo 20.Uno.23.º, letra e’) de esta ley.
+
+3.º Las efectuadas en favor de titulares de explotaciones agrícolas, forestales o ganaderas, necesarias para el desarrollo de las mismas, que se indican a continuación: plantación, siembra, injertado, abonado, cultivo y recolección; embalaje y acondicionamiento de los productos, incluido su secado, limpieza, descascarado, troceado, ensilado, almacenamiento y desinfección de los productos; cría, guarda y engorde de animales; nivelación, explanación o abancalamiento de tierras de cultivo; asistencia técnica; la eliminación de plantas y animales dañinos y la fumigación de plantaciones y terrenos; drenaje; tala, entresaca, astillado y descortezado de árboles y limpieza de bosques; y servicios veterinarios.
+
+Lo dispuesto en el párrafo anterior no será aplicable en ningún caso a las cesiones de uso o disfrute o arrendamiento de bienes.
+
+Igualmente se aplicará este tipo impositivo a las prestaciones de servicios realizadas por las cooperativas agrarias a sus socios como consecuencia de su actividad cooperativizada y en cumplimiento de su objeto social, incluida la utilización por los socios de la maquinaria en común.
+
+4.º Los servicios de limpieza de vías públicas, parques y jardines públicos.
+
+5.º Los servicios de recogida, almacenamiento, transporte, valorización o eliminación de residuos, limpieza de alcantarillados públicos y desratización de los mismos y la recogida o tratamiento de las aguas residuales.
+
+Se comprenden en el párrafo anterior los servicios de cesión, instalación y mantenimiento de recipientes normalizados utilizados en la recogida de residuos.
+
+Se incluyen también en este número los servicios de recogida o tratamiento de vertidos en aguas interiores o marítimas.
+
+6.º La entrada a bibliotecas, archivos y centros de documentación, museos, galerías de arte, pinacotecas, salas cinematográficas, teatros, circos, festejos taurinos, conciertos, y a los demás espectáculos culturales en vivo.
+
+7.º Las prestaciones de servicios a que se refiere el número 8º del apartado uno del artículo 20 de esta ley cuando no estén exentas de acuerdo con dicho precepto ni les resulte de aplicación el tipo impositivo establecido en el número 3º del apartado dos.2 de este artículo.
+
+8.º Los espectáculos deportivos de carácter aficionado.
+
+9.º Las exposiciones y ferias de carácter comercial.
+
+10.º Las ejecuciones de obra de renovación y reparación realizadas en edificios o partes de los mismos destinados a viviendas, cuando se cumplan los siguientes requisitos:
+
+a) Que el destinatario sea persona física, no actúe como empresario o profesional y utilice la vivienda a que se refieren las obras para su uso particular.
+
+No obstante lo dispuesto en el párrafo anterior, también se comprenderán en este número las citadas ejecuciones de obra cuando su destinatario sea una comunidad de propietarios o cuando se trate de viviendas destinadas a su arrendamiento como vivienda habitual, cualquiera que sea la condición del arrendador.
+
+La aplicación del tipo reducido queda condicionada a que el importe de la contraprestación de las ejecuciones de obras haya sido satisfecho mediante tarjeta de crédito o débito, transferencia bancaria, cheque nominativo o ingreso en cuentas en entidades de crédito a favor de los sujetos pasivos que las realicen.
+
+b) Que la construcción o rehabilitación de la vivienda a que se refieren las obras haya concluido al menos dos años antes del inicio de estas últimas.
+
+c) Que la persona que realice las obras no aporte materiales para su ejecución o, en el caso de que los aporte, su coste no exceda del 40 por ciento de la base imponible de la operación.
+
+11.º Los arrendamientos con opción de compra de edificios o partes de los mismos destinados exclusivamente a viviendas, incluidas las plazas de garaje, con un máximo de dos unidades, y anexos en ellos situados que se arrienden conjuntamente.
+
+12.º La cesión de los derechos de aprovechamiento por turno de edificios, conjuntos inmobiliarios o sectores de ellos arquitectónicamente diferenciados cuando el inmueble tenga, al menos, diez alojamientos, de acuerdo con lo establecido en la normativa reguladora de estos servicios.
+
+13.º Los prestados por intérpretes, artistas, directores y técnicos, que sean personas físicas, a los productores de películas cinematográficas susceptibles de ser exhibidas en salas de espectáculos y a los organizadores de obras teatrales y musicales.
+
+3. Las siguientes operaciones:
+
+1.º Las ejecuciones de obras, con o sin aportación de materiales, consecuencia de contratos directamente formalizados entre el promotor y el contratista que tengan por objeto la construcción o rehabilitación de edificaciones o partes de las mismas destinadas principalmente a viviendas, incluidos los locales, anejos, garajes, instalaciones y servicios complementarios en ellos situados.
+
+Se considerarán destinadas principalmente a viviendas, las edificaciones en las que al menos el 50 por ciento de la superficie construida se destine a dicha utilización.
+
+2.º Las ventas con instalación de armarios de cocina y de baño y de armarios empotrados para las edificaciones a que se refiere el número 1º anterior, que sean realizadas como consecuencia de contratos directamente formalizados con el promotor de la construcción o rehabilitación de dichas edificaciones.
+
+3.º Las ejecuciones de obra, con o sin aportación de materiales, consecuencia de contratos directamente formalizados entre las Comunidades de Propietarios de las edificaciones o partes de las mismas a que se refiere el número 1º anterior y el contratista que tengan por objeto la construcción de garajes complementarios de dichas edificaciones, siempre que dichas ejecuciones de obra se realicen en terrenos o locales que sean elementos comunes de dichas Comunidades y el número de plazas de garaje a adjudicar a cada uno de los propietarios no exceda de dos unidades.
+
+4. Las importaciones de objetos de arte, antigüedades y objetos de colección, cualquiera que sea el importador de los mismos, y las entregas de objetos de arte realizadas por las siguientes personas:
+
+1.º Por sus autores o derechohabientes.
+
+2.º Por empresarios o profesionales distintos de los revendedores de objetos de arte a que se refiere el artículo 136 de esta Ley, cuando tengan derecho a deducir íntegramente el Impuesto soportado por repercusión directa o satisfecho en la adquisición o importación del mismo bien.
+
+5. Las adquisiciones intracomunitarias de objetos de arte cuando el proveedor de los mismos sea cualquiera de las personas a que se refieren los números 1.º y 2.º del número 4 precedente.
+
+Dos. Se aplicará el tipo del 4 por ciento a las operaciones siguientes:
+
+1. Las entregas, adquisiciones intracomunitarias o importaciones de los bienes que se indican a continuación:
+
+1.º Los siguientes productos:
+
+a) El pan común, así como la masa de pan común congelada y el pan común congelado destinados exclusivamente a la elaboración del pan común.
+
+b) Las harinas panificables.
+
+c) Los siguientes tipos de leche producida por cualquier especie animal: natural, certificada, pasterizada, concentrada, desnatada, esterilizada, UHT, evaporada, en polvo y fermentada.
+
+d) Los quesos.
+
+e) Los huevos.
+
+f) Las frutas, verduras, hortalizas, legumbres, tubérculos y cereales, que tengan la condición de productos naturales de acuerdo con el Código Alimentario y las disposiciones dictadas para su desarrollo.
+
+g) Los aceites de oliva.
+
+2.º Los libros, periódicos y revistas, incluso cuando tengan la consideración de servicios prestados por vía electrónica, que no contengan única o fundamentalmente publicidad y no consistan íntegra o predominantemente en contenidos de vídeo o música audible, así como los elementos complementarios que se entreguen conjuntamente con aquellos mediante precio único.
+
+Se comprenderán en este número las ejecuciones de obra que tengan como resultado inmediato la obtención de un libro, periódico o revista en pliego o en continuo, de un fotolito de dichos bienes o que consistan en la encuadernación de los mismos.
+
+A estos efectos tendrán la consideración de elementos complementarios las cintas magnetofónicas, discos, videocasetes y otros soportes sonoros o videomagnéticos similares que constituyan una unidad funcional con el libro, periódico o revista, perfeccionando o completando su contenido y que se vendan con ellos, con las siguientes excepciones:
+
+a) Los discos y cintas magnetofónicas que contengan exclusivamente obras musicales y cuyo valor de mercado sea superior al del libro, periódico o revista con el que se entreguen conjuntamente.
+
+b) Los videocasetes y otros soportes sonoros o videomagnéticos similares que contengan películas cinematográficas, programas o series de televisión de ficción o musicales y cuyo valor de mercado sea superior al del libro, periódico o revista con el que se entreguen conjuntamente.
+
+c) Los productos informáticos grabados por cualquier medio en los soportes indicados en las letras anteriores, cuando contengan principalmente programas o aplicaciones que se comercialicen de forma independiente en el mercado.
+
+Se entenderá que los libros, periódicos y revistas contienen fundamentalmente publicidad cuando más del 90 por ciento de los ingresos que proporcionen a su editor se obtengan por este concepto.
+
+Se considerarán comprendidos en este número las partituras, mapas y cuadernos de dibujo, excepto los artículos y aparatos electrónicos.
+
+3.º Los medicamentos de uso humano, así como las formas galénicas, fórmulas magistrales y preparados oficinales.
+
+4.º Los vehículos para personas con movilidad reducida a que se refiere el número 20 del Anexo I del Real Decreto Legislativo 339/1990, de 2 de marzo, por el que se aprueba el Texto Articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en la redacción dada por el Anexo II A del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, y las sillas de ruedas para uso exclusivo de personas con discapacidad.
+
+Los vehículos destinados a ser utilizados como autotaxis o autoturismos especiales para el transporte de personas con discapacidad en silla de ruedas, bien directamente o previa su adaptación, así como los vehículos a motor que, previa adaptación o no, deban transportar habitualmente a personas con discapacidad en silla de ruedas o con movilidad reducida, con independencia de quien sea el conductor de los mismos.
+
+La aplicación del tipo impositivo reducido a los vehículos comprendidos en el párrafo anterior requerirá el previo reconocimiento del derecho del adquirente, que deberá justificar el destino del vehículo.
+
+A efectos de este apartado dos, se considerarán personas con discapacidad aquellas con un grado de discapacidad igual o superior al 33 por ciento. El grado de discapacidad deberá acreditarse mediante certificación o resolución expedida por el Instituto de Mayores y Servicios Sociales o el órgano competente de la comunidad autónoma.
+
+5.º Las prótesis, ortesis e implantes internos para personas con discapacidad.
+
+6.º Las viviendas calificadas administrativamente como de protección oficial de régimen especial o de promoción pública, así como las viviendas protegidas sujetas a calificación permanente o indefinida, cuando las entregas se efectúen por sus promotores, incluidos los garajes y anexos situados en el mismo edificio que se transmitan conjuntamente. A estos efectos, el número de plazas de garaje no podrá exceder de dos unidades.
+
+Las viviendas que sean adquiridas por las entidades que apliquen el régimen especial previsto en el capítulo III del título VII de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, siempre que a las rentas derivadas de su posterior arrendamiento les sea aplicable la bonificación establecida en el apartado 1 del artículo 49 de la citada ley. A estos efectos, la entidad adquirente comunicará esta circunstancia al sujeto pasivo con anterioridad al devengo de la operación en la forma que se determine reglamentariamente.
+
+7.º) Las compresas, tampones, protegeslips, preservativos y otros anticonceptivos no medicinales.
+
+2. Las prestaciones de servicios siguientes:
+
+1.º Los servicios de reparación de los vehículos y de las sillas de ruedas comprendidos en el párrafo primero del número 4.º del apartado dos.1 de este artículo y los servicios de adaptación de los autotaxis y autoturismos para personas con discapacidad y de los vehículos a motor a los que se refiere el párrafo segundo del mismo precepto, independientemente de quién sea el conductor de los mismos.
+
+2.º Los arrendamientos con opción de compra de edificios o partes de los mismos destinados exclusivamente a viviendas calificadas administrativamente como de protección oficial de régimen especial o de promoción pública, incluidas las plazas de garaje, con un máximo de dos unidades, y anexos en ellos situados que se arrienden conjuntamente.
+
+3.º Los servicios de teleasistencia, ayuda a domicilio, centro de día y de noche y atención residencial, a que se refieren las letras b), c), d) y e) del apartado 1 del artículo 15 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, siempre que se presten en plazas concertadas en centros o residencias o mediante precios derivados de un concurso administrativo adjudicado a las empresas prestadoras, o como consecuencia de una prestación económica vinculada a tales servicios que cubra más del 10 por ciento de su precio, en aplicación, en ambos casos, de lo dispuesto en la Ley.
+
+Lo dispuesto en este número 3.º no se aplicará a los servicios que resulten exentos por aplicación del número 8.º del apartado uno del artículo 20 de esta Ley.
+
+Tres. Lo dispuesto en los apartados uno.1 y dos.1 de este artículo será también aplicable a las ejecuciones de obra que sean prestaciones de servicios, de acuerdo con lo previsto en el artículo 11 de esta Ley, y tengan como resultado inmediato la obtención de alguno de los bienes a cuya entrega resulte aplicable uno de los tipos reducidos previstos en dichos preceptos.
+
+El contenido del párrafo anterior no será de aplicación a las ejecuciones de obra que tengan por objeto la construcción o rehabilitación de viviendas de protección oficial de régimen especial o de promoción pública a que se refiere el apartado uno.3 de este artículo.
+
+Cuatro. Se aplicará el tipo del 0 por ciento a las entregas de bienes realizadas en concepto de donativos a las entidades sin fines lucrativos definidas de acuerdo con lo dispuesto en el artículo 2 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, siempre que se destinen por las mismas a los fines de interés general que desarrollen de acuerdo con lo dispuesto por el artículo 3, apartado 1.º, de dicha Ley.
+
+## Artículo 92. Cuotas tributarias deducibles
+
+Artículo 92. Cuotas tributarias deducibles
+
+Uno. Los sujetos pasivos podrán deducir de las cuotas del Impuesto sobre el Valor Añadido devengadas por las operaciones gravadas que realicen en el interior del país las que, devengadas en el mismo territorio, hayan soportado por repercusión directa o correspondan a las siguientes operaciones:
+
+1.º Las entregas de bienes y prestaciones de servicios efectuadas por otro sujeto pasivo del Impuesto.
+
+2.º Las importaciones de bienes.
+
+3°. Las entregas de bienes y prestaciones de servicios comprendidas en los artículos 9.1.° c) y d); 84.uno.2.° y 4.º, y 140 quinque, todos ellos de la presente Ley.
+
+4.º Las adquisiciones intracomunitarias de bienes definidas en los artículos 13, número 1.º, y 16 de esta Ley.
+
+Dos. El derecho a la deducción establecido en el apartado anterior sólo procederá en la medida en que los bienes y servicios adquiridos se utilicen en la realización de las operaciones comprendidas en el artículo 94, apartado uno, de esta Ley.
+
+## Artículo 93. Requisitos subjetivos de la deducción
+
+Artículo 93. Requisitos subjetivos de la deducción
+
+Uno. Podrán hacer uso del derecho a deducir los sujetos pasivos del Impuesto que tengan la condición de empresarios o profesionales de conformidad con lo dispuesto en el artículo 5 de esta Ley y hayan iniciado la realización habitual de entregas de bienes o prestaciones de servicios correspondientes a sus actividades empresariales o profesionales.
+
+No obstante lo dispuesto en el párrafo anterior, las cuotas soportadas o satisfechas con anterioridad al inicio de la realización habitual de entregas de bienes o prestaciones de servicios correspondientes a sus actividades empresariales o profesionales podrán deducirse con arreglo a lo dispuesto en los artículos 111, 112 y 113 de esta Ley.
+
+Dos. También podrán hacer uso del derecho a deducir los sujetos pasivos del Impuesto que realicen con carácter ocasional las entregas de los medios de transporte nuevos a que se refiere el artículo 25, apartados uno y dos de esta Ley.
+
+Tres. El ejercicio del derecho a la deducción correspondiente a los sectores o actividades a los que resulten aplicables los regímenes especiales regulados en el Título IX de esta Ley se realizará de acuerdo con las normas establecidas en dicho Título para cada uno de ellos.
+
+Cuatro. No podrán ser objeto de deducción, en ninguna medida ni cuantía, las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios efectuadas sin la intención de utilizarlos en la realización de actividades empresariales o profesionales, aunque ulteriormente dichos bienes o servicios se afecten total o parcialmente a las citadas actividades.
+
+Cinco. Los sujetos pasivos que realicen conjuntamente operaciones sujetas al Impuesto y operaciones no sujetas por aplicación de lo establecido en el artículo 7.8.º de esta Ley podrán deducir las cuotas soportadas por la adquisición de bienes y servicios destinados de forma simultánea a la realización de unas y otras operaciones en función de un criterio razonable y homogéneo de imputación de las cuotas correspondientes a los bienes y servicios utilizados para el desarrollo de las operaciones sujetas al Impuesto, incluyéndose, a estos efectos, las operaciones a que se refiere el artículo 94.Uno.2.º de esta Ley. Este criterio deberá ser mantenido en el tiempo salvo que por causas razonables haya de procederse a su modificación.
+
+A estos efectos, podrá atenderse a la proporción que represente el importe total, excluido el Impuesto sobre el Valor Añadido, determinado para cada año natural, de las entregas de bienes y prestaciones de servicios de las operaciones sujetas al Impuesto, respecto del total de ingresos que obtenga el sujeto pasivo en cada año natural por el conjunto de su actividad.
+
+El cálculo resultante de la aplicación de dicho criterio se podrá determinar provisionalmente atendiendo a los datos del año natural precedente, sin perjuicio de la regularización que proceda a final de cada año.
+
+No obstante lo anterior, no serán deducibles en proporción alguna las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios destinados, exclusivamente, a la realización de las operaciones no sujetas a que se refiere el artículo 7.8.º de esta Ley.
+
+Las deducciones establecidas en este apartado se ajustarán también a las condiciones y requisitos previstos en el Capítulo I del Título VIII de esta Ley y, en particular, los que se refieren a la regla de prorrata.
+
+Lo previsto en este apartado no será de aplicación a las actividades de gestión de servicios públicos en las condiciones señaladas en la letra a) del artículo 78.Dos.3.º de esta Ley.
+
+## Artículo 94. Operaciones cuya realización origina el derecho a la deducción
+
+Artículo 94. Operaciones cuya realización origina el derecho a la deducción
+
+Uno. Los sujetos pasivos a que se refiere el apartado uno del artículo anterior podrán deducir las cuotas del Impuesto sobre el Valor Añadido comprendidas en el artículo 92 en la medida en que los bienes o servicios, cuya adquisición o importación determinen el derecho a la deducción, se utilicen por el sujeto pasivo en la realización de las siguientes operaciones:
+
+1.º Las efectuadas en el ámbito espacial de aplicación del impuesto que se indican a continuación:
+
+a) Las entregas de bienes y prestaciones de servicios sujetas y no exentas del Impuesto sobre el Valor Añadido.
+
+b) Las prestaciones de servicios cuyo valor esté incluido en la base imponible de las importaciones de bienes, de acuerdo con lo establecido en el artículo 83 de esta Ley.
+
+c) Las operaciones exentas en virtud de lo dispuesto en los artículos 20 bis, 21, 22, 23, 24 y 25 de esta Ley, así como las demás exportaciones definitivas de bienes fuera de la Comunidad que no se destinen a la realización de las operaciones a que se refiere el número 2.º de este apartado.
+
+d) Los servicios prestados por agencias de viajes que estén exentos del impuesto en virtud de lo establecido en el artículo 143 de esta Ley.
+
+2.º Las operaciones realizadas fuera del territorio de aplicación del impuesto que originarían el derecho a la deducción si se hubieran efectuado en el interior del mismo.
+
+3.º Las operaciones de seguro, reaseguro, capitalización y servicios relativos a las mismas, así como las bancarias o financieras, que estarían exentas si se hubiesen realizado en el territorio de aplicación del impuesto, en virtud de lo dispuesto en el artículo 20, apartado uno, números 16.º y 18.º de esta Ley, siempre que el destinatario de tales prestaciones esté establecido fuera de la Comunidad o que las citadas operaciones estén directamente relacionadas con exportaciones fuera de la Comunidad y se efectúen a partir del momento en que los bienes se expidan con tal destino, cualquiera que sea el momento en que dichas operaciones se hubiesen concertado.
+
+A efectos de lo dispuesto en el párrafo anterior, las personas o entidades que no tengan la condición de empresarios o profesionales se considerarán no establecidas en la Comunidad cuando no esté situado en dicho territorio ningún lugar de residencia habitual o secundaria, ni el centro de sus intereses económicos, ni presten con habitualidad en el mencionado territorio servicios en régimen de dependencia derivados de relaciones laborales o administrativas.
+
+Dos. Los sujetos pasivos comprendidos en el apartado dos del artículo anterior únicamente podrán deducir el impuesto soportado o satisfecho por la adquisición de los medios de transporte que sean objeto de la entrega a que se refiere el artículo 25, apartado dos, de esta Ley, hasta la cuantía de la cuota del impuesto que procedería repercutir si la entrega no estuviese exenta.
+
+Tres. En ningún caso procederá la deducción de las cuotas en cuantía superior a la que legalmente corresponda ni antes de que se hubiesen devengado con arreglo a derecho.
+
+## Artículo 95. Limitaciones del derecho a deducir
+
+Artículo 95. Limitaciones del derecho a deducir
+
+Uno. Los empresarios o profesionales no podrán deducir las cuotas soportadas o satisfechas por las adquisiciones o importaciones de bienes o servicios que no se afecten, directa y exclusivamente, a su actividad empresarial o profesional.
+
+Dos. No se entenderán afectos directa y exclusivamente a la actividad empresarial o profesional, entre otros:
+
+1.º Los bienes que se destinen habitualmente a dicha actividad y a otras de naturaleza no empresarial ni profesional por períodos de tiempo alternativos.
+
+2.º Los bienes o servicios que se utilicen simultáneamente para actividades empresariales o profesionales y para necesidades privadas.
+
+3.º Los bienes o derechos que no figuren en la contabilidad o registros oficiales de la actividad empresarial o profesional del sujeto pasivo.
+
+4.º Los bienes y derechos adquiridos por el sujeto pasivo que no se integren en su patrimonio empresarial o profesional.
+
+5.º Los bienes destinados a ser utilizados en la satisfacción de necesidades personales o particulares de los empresarios o profesionales, de sus familiares o del personal dependiente de los mismos, con excepción de los destinados al alojamiento gratuito en los locales o instalaciones de la empresa del personal encargado de la vigilancia y seguridad de los mismos, y a los servicios económicos y socio-culturales del personal al servicio de la actividad.
+
+Tres. No obstante lo dispuesto en los apartados anteriores, las cuotas soportadas por la adquisición, importación, arrendamiento o cesión de uso por otro título de los bienes de inversión que se empleen en todo o en parte en el desarrollo de la actividad empresarial o profesional podrán deducirse de acuerdo con las siguientes reglas:
+
+1.ª Cuando se trate de bienes de inversión distintos de los comprendidos en la regla siguiente, en la medida en que dichos bienes vayan a utilizarse previsiblemente, de acuerdo con criterios fundados, en el desarrollo de la actividad empresarial o profesional.
+
+2.ª Cuando se trate de vehículos automóviles de turismo y sus remolques, ciclomotores y motocicletas, se presumirán afectados al desarrollo de la actividad empresarial o profesional en la proporción del 50 por 100.
+
+A estos efectos, se considerarán automóviles de turismo, remolques, ciclomotores y motocicletas los definidos como tales en el anexo del Real Decreto Legislativo 339/1990, de 2 de marzo, por el que se aprueba el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, así como los definidos como vehículos mixtos en dicho anexo y, en todo caso, los denominados vehículos todo terreno o tipo "jeep''.
+
+No obstante lo dispuesto en esta regla 2.ª, los vehículos que se relacionan a continuación se presumirán afectados al desarrollo de la actividad empresarial o profesional en la proporción del 100 por 100:
+
+a) Los vehículos mixtos utilizados en el transporte de mercancías.
+
+b) Los utilizados en la prestación de servicios de transporte de viajeros mediante contraprestación.
+
+c) Los utilizados en la prestación de servicios de enseñanza de conductores o pilotos mediante contraprestación.
+
+d) Los utilizados por sus fabricantes en la realización de pruebas, ensayos, demostraciones o en la promoción de ventas.
+
+e) Los utilizados en los desplazamientos profesionales de los representantes o agentes comerciales.
+
+f) Los utilizados en servicios de vigilancia.
+
+3.ª Las deducciones a que se refieren las reglas anteriores deberán regularizarse cuando se acredite que el grado efectivo de utilización de los bienes en el desarrollo de la actividad empresarial o profesional es diferente del que se haya aplicado inicialmente.
+
+La mencionada regularización se ajustará al procedimiento establecido en el capítulo I del título VIII de esta Ley para la deducción y regularización de las cuotas soportadas por la adquisición de los bienes de inversión, sustituyendo el porcentaje de operaciones que originan derecho a la deducción respecto del total por el porcentaje que represente el grado de utilización en el desarrollo de la actividad empresarial o profesional.
+
+4.ª El grado de utilización en el desarrollo de la actividad empresarial o profesional deberá acreditarse por el sujeto pasivo por cualquier medio de prueba admitido en derecho. No será medio de prueba suficiente la declaración-liquidación presentada por el sujeto pasivo ni la contabilización o inclusión de los correspondientes bienes de inversión en los registros oficiales de la actividad empresarial o profesional.
+
+5.ª A efectos de lo dispuesto en este apartado, no se entenderán afectos en ninguna proporción a una actividad empresarial o profesional los bienes que se encuentren en los supuestos previstos en los números 3.º y 4.º del apartado dos de este artículo.
+
+Cuatro. Lo dispuesto en el apartado anterior será también de aplicación a las cuotas soportadas o satisfechas por la adquisición o importación de los siguientes bienes y servicios directamente relacionados con los bienes a que se refiere dicho apartado:
+
+1.º Accesorios y piezas de recambio para los mencionados bienes.
+
+2.º Combustibles, carburantes, lubrificantes y productos energéticos necesarios para su funcionamiento.
+
+3.º Servicios de aparcamiento y utilización de vías de peaje.
+
+4.º Rehabilitación, renovación y reparación de los mismos.
+
+## Artículo 96. Exclusiones y restricciones del derecho a deducir
+
+Artículo 96. Exclusiones y restricciones del derecho a deducir
+
+Uno. No podrán ser objeto de deducción, en ninguna proporción, las cuotas soportadas como consecuencia de la adquisición, incluso por autoconsumo, importación, arrendamiento, transformación, reparación, mantenimiento o utilización de los bienes y servicios que se indican a continuación y de los bienes y servicios accesorios o complementarios a los mismos:
+
+1.º Las joyas, alhajas, piedras preciosas, perlas naturales o cultivadas, y objetos elaborados total o parcialmente con oro o platino.
+
+A efectos de este impuesto se considerarán piedras preciosas el diamante, el rubí, el zafiro, la esmeralda, el aguamarina, el ópalo y la turquesa.
+
+2.º (Suprimido)
+
+3.º Los alimentos, las bebidas y el tabaco.
+
+4.º Los espectáculos y servicios de carácter recreativo.
+
+5.º Los bienes o servicios destinados a atenciones a clientes, asalariados o a terceras personas.
+
+No tendrán esta consideración:
+
+a) Las muestras gratuitas y los objetos publicitarios de escaso valor definidos en el artículo 7, números 2.o y 4.o de esta Ley.
+
+b) Los bienes destinados exclusivamente a ser objeto de entrega o cesión de uso, directamente o mediante transformación, a título oneroso, que, en un momento posterior a su adquisición, se destinasen a atenciones a clientes, asalariados o terceras personas.
+
+6.º Los servicios de desplazamiento o viajes, hostelería y restauración, salvo que el importe de los mismos tuviera la consideración de gasto fiscalmente deducible a efectos del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades.
+
+Dos. Se exceptúan de lo dispuesto en el apartado anterior las cuotas soportadas con ocasión de las operaciones mencionadas en ellos y relativas a los siguientes bienes y servicios:
+
+1.º Los bienes que objetivamente considerados sean de exclusiva aplicación industrial, comercial, agraria, clínica o científica.
+
+2.º Los bienes destinados exclusivamente a ser objeto de entrega o cesión de uso a título oneroso, directamente o mediante transformación por empresarios o profesionales dedicados con habitualidad a la realización de tales operaciones.
+
+3.º Los servicios recibidos para ser prestados como tales a título oneroso por empresarios o profesionales dedicados con habitualidad a la realización de dichas operaciones.
+
+Tres. Las deducciones establecidas en el presente artículo y en el anterior se ajustarán también a las condiciones y requisitos previstos en el capítulo I del título VIII de esta Ley y, en particular, los que se refieren a la regla de prorrata.
+
+## Artículo 97. Requisitos formales de la deducción
+
+Artículo 97. Requisitos formales de la deducción
+
+Uno. Sólo podrán ejercitar el derecho a la deducción los empresarios o profesionales que estén en posesión del documento justificativo de su derecho.
+
+A estos efectos, únicamente se considerarán documentos justificativos del derecho a la deducción:
+
+1.º La factura original expedida por quien realice la entrega o preste el servicio o, en su nombre y por su cuenta, por su cliente o por un tercero, siempre que, para cualquiera de estos casos, se cumplan los requisitos que se establezcan reglamentariamente.
+
+2.º La factura original expedida por quien realice una entrega que dé lugar a una adquisición intracomunitaria de bienes sujeta al impuesto, siempre que dicha adquisición esté debidamente consignada en la declaración-liquidación a que se refiere el número 6.º del apartado uno del artículo 164 de esta ley.
+
+3.º En el caso de las importaciones, el documento en el que conste la liquidación practicada por la Administración o, si se trata de operaciones asimiladas a las importaciones, la autoliquidación en la que se consigne el Impuesto devengado con ocasión de su realización.
+
+4.º La factura original o el justificante contable de la operación expedido por quien realice una entrega de bienes o una prestación de servicios al destinatario, sujeto pasivo del Impuesto, en los supuestos a que se refieren los números 2.º, 3.º y 4.º del apartado uno del artículo 84 y el artículo 140 quinque de esta Ley, siempre que dicha entrega o prestación esté debidamente consignada en la declaración-liquidación a que se refiere el número 6.º del apartado uno del artículo 164 de esta Ley.
+
+Cuando quien realice la entrega de bienes o la prestación de servicios esté establecido en la Comunidad, la factura original a que se refiere el párrafo anterior deberá contener los requisitos recogidos en el artículo 226 de la Directiva 2006/112/CE, del Consejo, de 28 de noviembre de 2006, relativa al sistema común del impuesto sobre el valor añadido.
+
+5.º El recibo original firmado por el titular de la explotación agrícola, forestal, ganadera o pesquera a que se refiere el artículo 134, apartado tres, de esta ley.
+
+Dos. Los documentos anteriores que no cumplan todos y cada uno de los requisitos establecidos legal y reglamentariamente no justificarán el derecho a la deducción, salvo que se produzca la correspondiente rectificación de los mismos. El derecho a la deducción de las cuotas cuyo ejercicio se justifique mediante un documento rectificativo sólo podrá efectuarse en el período impositivo en el que el empresario o profesional reciba dicho documento o en los siguientes, siempre que no haya transcurrido el plazo al que hace referencia el artículo 100 de esta Ley, sin perjuicio de lo dispuesto en el apartado dos del artículo 114 de la misma.
+
+Tres. En ningún caso será admisible el derecho a deducir en cuantía superior a la cuota tributaria expresa y separadamente consignada que haya sido repercutida o, en su caso, satisfecha según el documento justificativo de la deducción.
+
+Cuatro. Tratándose de bienes o servicios adquiridos en común por varias personas, cada uno de los adquirentes podrá efectuar la deducción, en su caso, de la parte proporcional correspondiente, siempre que en el original y en cada uno de los ejemplares duplicados de la factura se consigne, en forma distinta y separada, la porción de base imponible y cuota repercutida a cada uno de los destinatarios.
+
+## Artículo 98. Nacimiento del derecho a deducir
+
+Artículo 98. Nacimiento del derecho a deducir
+
+Uno. El derecho a la deducción nace en el momento en que se devengan las cuotas deducibles, salvo en los casos previstos en los apartados siguientes.
+
+Dos. (Derogado)
+
+Tres. En las entregas de medios de transporte nuevos, realizadas ocasionalmente por las personas a que se refiere el artículo 5, apartado uno, letra e) de esta Ley, el derecho a la deducción nace en el momento de efectuar la correspondiente entrega.
+
+Cuatro. El derecho a la deducción de las cuotas soportadas o satisfechas con ocasión de la adquisición o importación de los objetos de arte, antigüedades y objetos de colección a que se refiere el artículo 135, apartado dos, de esta Ley, nace en el momento en que se devengue el impuesto correspondiente a las entregas de dichos bienes.
+
+Cinco. El derecho a la deducción de las cuotas soportadas o satisfechas con ocasión de la adquisición o importación de los bienes y servicios que, efectuadas para la realización del viaje, redunden directamente en beneficio del viajero que se citan en el artículo 146 de esta Ley y se destinen a la realización de una operación respecto de la que no resulte aplicable el régimen especial de las agencias de viajes, en virtud de lo previsto en el artículo 147 de la misma, nacerá en el momento en el que se devengue el Impuesto correspondiente a dicha operación.
+
+## Artículo 99. Ejercicio del derecho a la deducción
+
+Artículo 99. Ejercicio del derecho a la deducción
+
+Uno. En las declaraciones-liquidaciones correspondientes a cada uno de los períodos de liquidación, los sujetos pasivos podrán deducir globalmente el montante total de las cuotas deducibles soportadas en dicho período del importe total de las cuotas del Impuesto sobre el Valor Añadido devengadas durante el mismo período de liquidación en el territorio de aplicación del Impuesto como consecuencia de las entregas de bienes, adquisiciones intracomunitarias de bienes o prestaciones de servicios por ellos realizadas.
+
+Dos. Las deducciones deberán efectuarse en función del destino previsible de los bienes y servicios adquiridos, sin perjuicio de su rectificación posterior si aquél fuese alterado.
+
+No obstante, en los supuestos de destrucción o pérdida de los bienes adquiridos o importados, por causa no imputable al sujeto pasivo debidamente justificada, no será exigible la referida rectificación.
+
+Tres. El derecho a la deducción solo podrá ejercitarse en la declaración-liquidación relativa al periodo de liquidación en que su titular haya soportado las cuotas deducibles o en las de los sucesivos, siempre que no hubiera transcurrido el plazo de cuatro años, contados a partir del nacimiento del mencionado derecho.
+
+Sin embargo, en caso de declaración de concurso, el derecho a la deducción de las cuotas soportadas con anterioridad a la misma, que estuvieran pendientes de deducir, deberá ejercitarse en la declaración-liquidación correspondiente al periodo de liquidación en el que se hubieran soportado.
+
+Cuando no se hubieran incluido las cuotas soportadas deducibles a que se refiere el párrafo anterior en dichas declaraciones-liquidaciones, y siempre que no hubiera transcurrido el plazo de cuatro años, contados a partir del nacimiento del derecho a la deducción de tales cuotas, el concursado o, en los casos previstos por el artículo 86.3 de la Ley Concursal, la administración concursal, podrá deducirlas mediante la rectificación de la declaración-liquidación relativa al periodo en que fueron soportadas.
+
+Cuando hubiese mediado requerimiento de la Administración o actuación inspectora, serán deducibles, en las liquidaciones que procedan, las cuotas soportadas que estuviesen debidamente contabilizadas en los libros registros establecidos reglamentariamente para este Impuesto, mientras que las cuotas no contabilizadas serán deducibles en la declaración-liquidación del periodo correspondiente a su contabilización o en las de los siguientes. En todo caso, unas y otras cuotas solo podrán deducirse cuando no haya transcurrido el plazo a que se refiere el primer párrafo.
+
+En el supuesto de las ventas ocasionales a que se refiere el artículo 5, apartado uno, letra e), de esta Ley, el derecho a la deducción solo podrá ejercitarse en la declaración relativa al periodo en que se realice la entrega de los correspondientes medios de transporte nuevos.
+
+Cuatro. Se entenderán soportadas las cuotas deducibles en el momento en que el empresario o profesional que las soportó reciba la correspondiente factura o demás documentos justificativos del derecho a la deducción.
+
+Si el devengo del Impuesto se produjese en un momento posterior al de la recepción de la factura, dichas cuotas se entenderán soportadas cuando se devenguen.
+
+En el caso al que se refiere el artículo 98, apartado cuatro de esta Ley, las cuotas deducibles se entenderán soportadas en el momento en que nazca el derecho a la deducción.
+
+Cinco. Cuando la cuantía de las deducciones procedentes supere el importe de las cuotas devengadas en el mismo periodo de liquidación, el exceso podrá ser compensado en las declaraciones-liquidaciones posteriores, siempre que no hubiesen transcurrido cuatro años contados a partir de la presentación de la declaración-liquidación en que se origine dicho exceso.
+
+No obstante, el sujeto pasivo podrá optar por la devolución del saldo existente a su favor cuando resulte procedente en virtud de lo dispuesto en el Capítulo II de este Título, sin que en tal caso pueda efectuar su compensación en declaraciones-liquidaciones posteriores, cualquiera que sea el periodo de tiempo transcurrido hasta que dicha devolución se haga efectiva.
+
+En la declaración-liquidación, prevista reglamentariamente, referida a los hechos imponibles anteriores a la declaración de concurso se deberá aplicar la totalidad de los saldos acumulados a compensar de periodos de liquidación anteriores a dicha declaración.
+
+## Artículo 100. Caducidad del derecho a la deducción
+
+Artículo 100. Caducidad del derecho a la deducción
+
+El derecho a la deducción caduca cuando el titular no lo hubiera ejercitado en los plazos y cuantías señalados en el artículo 99 de esta Ley.
+
+No obstante, en los casos en que la procedencia del derecho a deducir o la cuantía de la deducción esté pendiente de la resolución de una controversia en vía administrativa o jurisdiccional, el derecho a la deducción caducará cuando hubiesen transcurrido cuatro años desde la fecha en que la resolución o sentencia sean firmes.
+
+## Artículo 101. Régimen de deducciones en sectores diferenciados de la actividad empresarial o profesional
+
+Artículo 101. Régimen de deducciones en sectores diferenciados de la actividad empresarial o profesional
+
+Uno. Los sujetos pasivos que realicen actividades económicas en sectores diferenciados de la actividad empresarial o profesional deberán aplicar separadamente el régimen de deducciones respecto de cada uno de ellos.
+
+La aplicación de la regla de prorrata especial podrá efectuarse independientemente respecto de cada uno de los sectores diferenciados de la actividad empresarial o profesional determinados por aplicación de lo dispuesto en el artículo 9, número 1.º, letra c), letras a'), c') y d') de esta Ley.
+
+Los regímenes de deducción correspondientes a los sectores diferenciados de actividad determinados por aplicación de lo dispuesto en el artículo 9, número 1.º, letra c), letra b') de esta Ley se regirán, en todo caso, por lo previsto en la misma para los regímenes especiales simplificado, de la agricultura, ganadería y pesca, de las operaciones con oro de inversión y del recargo de equivalencia, según corresponda.
+
+Cuando se efectúen adquisiciones o importaciones de bienes o servicios para su utilización en común en varios sectores diferenciados de actividad, será de aplicación lo establecido en el artículo 104, apartados dos y siguientes de esta Ley, para determinar el porcentaje de deducción aplicable respecto de las cuotas soportadas en dichas adquisiciones o importaciones, computándose a tal fin las operaciones realizadas en los sectores diferenciados correspondientes y considerándose que, a tales efectos, no originan el derecho a deducir las operaciones incluidas en el régimen especial de la agricultura, ganadería y pesca o en el régimen especial del recargo de equivalencia.
+
+Por excepción a lo dispuesto en el párrafo anterior, no se tendrán en cuenta las operaciones realizadas en el sector diferenciado de actividad de grupo de entidades. Asimismo y, siempre que no pueda aplicarse lo previsto en dicho párrafo, cuando tales bienes o servicios se destinen a ser utilizados simultáneamente en actividades acogidas al régimen especial simplificado y en otras actividades sometidas al régimen especial de la agricultura, ganadería y pesca o del recargo de equivalencia, el referido porcentaje de deducción a efectos del régimen simplificado será del 50 por ciento si la afectación se produce respecto de actividades sometidas a dos de los citados regímenes especiales, o de un tercio en otro caso.
+
+Dos. La Administración podrá autorizar la aplicación de un régimen de deducción común a los sectores diferenciados de la actividad empresarial o profesional del sujeto pasivo determinados únicamente por aplicación de lo dispuesto en el artículo 9, número 1.o, letra c), letra a') de esta Ley.
+
+La autorización no surtirá efectos en el año en que el montante total de las cuotas deducibles por la aplicación del régimen de deducción común exceda en un 20 por 100 al que resultaría de aplicar con independencia el régimen de deducciones respecto de cada sector diferenciado.
+
+La autorización concedida continuará vigente durante los años sucesivos en tanto no sea revocada o renuncie a ella el sujeto pasivo.
+
+Reglamentariamente se establecerán los requisitos y el procedimiento a los que deban ajustarse las autorizaciones a que se refiere este apartado.
+
+## Artículo 102. Regla de prorrata
+
+Artículo 102. Regla de prorrata
+
+Uno. La regla de prorrata será de aplicación cuando el sujeto pasivo, en el ejercicio de su actividad empresarial o profesional, efectúe conjuntamente entregas de bienes o prestaciones de servicios que originen el derecho a la deducción y otras operaciones de análoga naturaleza que no habiliten para el ejercicio del citado derecho.
+
+Dos. No obstante lo dispuesto en el apartado anterior, los sujetos pasivos podrán deducir íntegramente las cuotas soportadas en las adquisiciones o importaciones de bienes o en las prestaciones de servicios en la medida en que se destinen a la realización de los autoconsumos a que se refiere el artículo 9, número 1.º, letra c), que tengan por objeto bienes constitutivos de las existencias y de los autoconsumos comprendidos en la letra d) del mismo artículo y número de esta Ley.
+
+## Artículo 103. Clases de prorrata y criterios de aplicación
+
+Artículo 103. Clases de prorrata y criterios de aplicación
+
+Uno. La regla de prorrata tendrá dos modalidades de aplicación: general y especial.
+
+La regla de prorrata general se aplicará cuando no se den las circunstancias indicadas en el apartado siguiente.
+
+Dos. La regla de prorrata especial será aplicable en los siguientes supuestos:
+
+1.º Cuando los sujetos pasivos opten por la aplicación de dicha regla en los plazos y forma que se determinen reglamentariamente.
+
+2.º Cuando el montante total de las cuotas deducibles en un año natural por aplicación de la regla de prorrata general exceda en un 10 por ciento o más del que resultaría por aplicación de la regla de prorrata especial.
+
+## Artículo 104. La prorrata general
+
+Artículo 104. La prorrata general
+
+Uno. En los casos de aplicación de la regla de prorrata general, sólo será deducible el impuesto soportado en cada período de liquidación en el porcentaje que resulte de lo dispuesto en el apartado dos siguiente.
+
+Para la aplicación de lo dispuesto en el párrafo anterior no se computarán en el impuesto soportado las cuotas que no sean deducibles en virtud de lo dispuesto en los artículos 95 y 96 de esta Ley.
+
+Dos. El porcentaje de deducción a que se refiere el apartado anterior se determinará multiplicando por 100 el resultante de una fracción en la que figuren:
+
+1.º En el numerador, el importe total, determinado para cada año natural, de las entregas de bienes y prestaciones de servicios que originen el derecho a la deducción, realizadas por el sujeto pasivo en el desarrollo de su actividad empresarial o profesional o, en su caso, en el sector diferenciado que corresponda.
+
+2.º En el denominador, el importe total, determinado para el mismo período de tiempo, de las entregas de bienes y prestaciones de servicios realizadas por el sujeto pasivo en el desarrollo de su actividad empresarial o profesional o, en su caso, en el sector diferenciado que corresponda, incluidas aquellas que no originen el derecho a deducir.
+
+En las operaciones de cesión de divisas, billetes de banco y monedas que sean medios legales de pago, exentas del impuesto, el importe a computar en el denominador será el de la contraprestación de la reventa de dichos medios de pago, incrementado, en su caso, en el de las comisiones percibidas y minorado en el precio de adquisición de las mismas o, si éste no pudiera determinarse, en el precio de otras divisas, billetes o monedas de la misma naturaleza adquiridas en igual fecha.
+
+En las operaciones de cesión de pagarés y valores no integrados en la cartera de las entidades financieras, el importe a computar en el denominador será el de la contraprestación de la reventa de dichos efectos incrementado, en su caso, en el de los intereses y comisiones exigibles y minorado en el precio de adquisición de los mismos.
+
+Tratándose de valores integrados en la cartera de las entidades financieras deberán computarse en el denominador de la prorrata los intereses exigibles durante el período de tiempo que corresponda y, en los casos de transmisión de los referidos valores, las plusvalías obtenidas.
+
+La prorrata de deducción resultante de la aplicación de los criterios anteriores se redondeará en la unidad superior.
+
+Tres. Para la determinación del porcentaje de deducción no se computarán en ninguno de los términos de la relación:
+
+1.º Las operaciones realizadas desde establecimientos permanentes situados fuera del territorio de aplicación del Impuesto.
+
+2.º Las cuotas del Impuesto sobre el Valor Añadido que hayan gravado directamente las operaciones a que se refiere el apartado anterior.
+
+3.º El importe de las entregas y exportaciones de los bienes de inversión que el sujeto pasivo haya utilizado en su actividad empresarial o profesional.
+
+4.º El importe de las operaciones inmobiliarias o financieras que no constituyan actividad empresarial o profesional habitual del sujeto pasivo.
+
+En todo caso se reputará actividad empresarial o profesional habitual del sujeto pasivo la de arrendamiento.
+
+Tendrán la consideración de operaciones financieras a estos efectos las descritas en el artículo 20, apartado uno, número 18.º de esta Ley, incluidas las que no gocen de exención.
+
+5.º Las operaciones no sujetas al impuesto según lo dispuesto en el artículo 7 de esta Ley.
+
+6.º Las operaciones a que se refiere el artículo 9, número 1.º, letra d) de esta Ley.
+
+Cuatro. A los efectos del cálculo de la prorrata, se entenderá por importe total de las operaciones la suma de las contraprestaciones correspondientes a las mismas, determinadas según lo establecido en los artículos 78 y 79 de esta Ley, incluso respecto de las operaciones exentas o no sujetas al impuesto.
+
+A efectos de lo dispuesto en el párrafo anterior, en aquellas operaciones en las que la contraprestación fuese inferior a la base imponible del Impuesto sobre el Valor Añadido deberá computarse el importe de esta última en lugar de aquélla.
+
+Tratándose de entregas con destino a otros Estados miembros o de exportaciones definitivas, en defecto de contraprestación se tomará como importe de la operación el valor de mercado en el interior del territorio de aplicación del impuesto de los productos entregados o exportados.
+
+Cinco. En las ejecuciones de obras y prestaciones de servicios realizadas fuera del territorio de aplicación del impuesto se tomará como importe de la operación el resultante de multiplicar la total contraprestación por el coeficiente obtenido de dividir la parte de coste soportada en territorio de aplicación del impuesto por el coste total de la operación.
+
+A efectos de lo dispuesto en el párrafo anterior, no se computarán los gastos de personal dependiente de la empresa.
+
+Seis. Para efectuar la imputación temporal serán de aplicación, respecto de la totalidad de operaciones incluidas en los apartados anteriores, las normas sobre el devengo del impuesto establecidas en el Título IV de esta Ley.
+
+No obstante, las exportaciones exentas del impuesto en virtud de lo establecido en el artículo 21 de esta Ley y las demás exportaciones definitivas de bienes se entenderán realizadas, a estos efectos, en el momento en que sea admitida por la Aduana la correspondiente solicitud de salida.
+
+## Artículo 105. Procedimiento de la prorrata general
+
+Artículo 105. Procedimiento de la prorrata general
+
+Uno. Salvo lo dispuesto en los apartados dos y tres de este artículo, el porcentaje de deducción provisionalmente aplicable cada año natural será el fijado como definitivo para el año precedente.
+
+Dos. Podrá solicitarse la aplicación de un porcentaje provisional distinto del establecido en el apartado anterior cuando se produzcan circunstancias susceptibles de alterarlo significativamente.
+
+Tres. En los supuestos de inicio de actividades empresariales o profesionales, y en los de inicio de actividades que vayan a constituir un sector diferenciado respecto de las que se viniesen desarrollando con anterioridad, el porcentaje provisional de deducción aplicable durante el año en que se comience la realización de las entregas de bienes y prestaciones de servicios correspondientes a la actividad de que se trate será el que se hubiese determinado según lo previsto en el apartado dos del artículo 111 de esta Ley.
+
+En los casos en que no se hubiese determinado un porcentaje provisional de deducción según lo dispuesto en el apartado dos del artículo 111 de esta Ley, el porcentaje provisional a que se refiere el párrafo anterior se fijará de forma análoga a lo previsto en dicho precepto.
+
+Cuatro. En la última declaración-liquidación del impuesto correspondiente a cada año natural el sujeto pasivo calculará la prorrata de deducción definitiva en función de las operaciones realizadas en dicho año natural y practicará la consiguiente regularización de las deducciones provisionales.
+
+Cinco. En los supuestos de interrupción durante uno o más años naturales de la actividad empresarial o profesional o, en su caso, de un sector diferenciado de la misma, el porcentaje de deducción definitivamente aplicable durante cada uno de los mencionados años será el que globalmente corresponda al conjunto de los tres últimos años naturales en que se hubiesen realizado operaciones.
+
+Seis. El porcentaje de deducción, determinado con arreglo a lo dispuesto en los apartados anteriores de este artículo, se aplicará a la suma de las cuotas soportadas por el sujeto pasivo durante el año natural correspondiente, excluidas las que no sean deducibles en virtud de lo establecido en los artículos 95 y 96 de esta Ley.
+
+## Artículo 106. La prorrata especial
+
+Artículo 106. La prorrata especial
+
+Uno. El ejercicio del derecho a deducir en la prorrata especial se ajustará a las siguientes reglas:
+
+1.ª Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados exclusivamente en la realización de operaciones que originen el derecho a la deducción podrán deducirse íntegramente.
+
+2.ª Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados exclusivamente en la realización de operaciones que no originen el derecho a deducir no podrán ser objeto de deducción.
+
+3.ª Las cuotas impositivas soportadas en la adquisición o importación de bienes o servicios utilizados sólo en parte en la realización de operaciones que originen el derecho a la deducción podrán ser deducidas en la proporción resultante de aplicar al importe global de las mismas el porcentaje a que se refiere el artículo 104, apartados Dos y siguientes.
+
+La aplicación de dicho porcentaje se ajustará a las normas de procedimiento establecidas en el artículo 105 de esta Ley.
+
+Dos. En ningún caso podrán ser objeto de deducción las cuotas no deducibles en virtud de lo dispuesto en los artículos 95 y 96 de esta Ley.
+
+## Artículo 107. Regularización de deducciones por bienes de inversión
+
+Artículo 107. Regularización de deducciones por bienes de inversión
+
+Uno. Las cuotas deducibles por la adquisición o importación de bienes de inversión deberán regularizarse durante los cuatro años naturales siguientes a aquel en que los sujetos pasivos realicen las citadas operaciones.
+
+No obstante, cuando la utilización efectiva o entrada en funcionamiento de los bienes se inicien con posterioridad a su adquisición o importación, la regularización se efectuará el año en que se produzcan dichas circunstancias y los cuatro siguientes.
+
+Las regularizaciones indicadas en este apartado sólo se practicarán cuando, entre el porcentaje de deducción definitivo correspondiente a cada uno de dichos años y el que prevaleció en el año en que se soportó la repercusión, exista una diferencia superior a diez puntos.
+
+Dos. Asimismo se aplicará la regularización a que se refiere el apartado anterior cuando los sujetos pasivos hubiesen realizado, durante el año de adquisición de los bienes de inversión, exclusivamente operaciones que originen derecho a deducción o exclusivamente operaciones que no originen tal derecho y, posteriormente, durante los años siguientes indicados en dicho apartado se modificase esta situación en los términos previstos en el apartado anterior.
+
+Tres. Tratándose de terrenos o edificaciones, las cuotas deducibles por su adquisición deberán regularizarse durante los nueve años naturales siguientes a la correspondiente adquisición.
+
+Sin embargo, si su utilización efectiva o entrada en funcionamiento se inician con posterioridad a su adquisición la regularización se efectuará el año en que se produzcan dichas circunstancias y los nueve años naturales siguientes.
+
+Cuatro. La regularización de las cuotas impositivas que hubiesen sido soportadas con posterioridad a la adquisición o importación de los bienes de inversión o, en su caso, del inicio de su utilización o de su entrada en funcionamiento, deberá efectuarse al finalizar el año en que se soporten dichas cuotas con referencia a la fecha en que se hubieran producido las circunstancias indicadas y por cada uno de los años transcurridos desde entonces.
+
+Cinco. Lo dispuesto en este artículo no será de aplicación en las operaciones a que se refiere el artículo 7, número 1.º de esta Ley, quedando el adquirente automáticamente subrogado en la posición del transmitente.
+
+En tales casos, la porrata de deducción aplicable para practicar la regularización de deducciones de dichos bienes durante el mismo año y los que falten para terminar el período de regularización será la que corresponda al adquirente.
+
+Seis. En los supuestos de pérdida o inutilización definitiva de los bienes de inversión, por causa no imputable al sujeto pasivo debidamente justificada, no procederá efectuar regularización alguna durante los años posteriores a aquel en que se produzca dicha circunstancia.
+
+Siete. Los ingresos o, en su caso, deducciones complementarias resultantes de la regularización de deducciones por bienes de inversión deberán efectuarse en la declaración-liquidación correspondiente al último período de liquidación del año natural a que se refieran, salvo en el supuesto mencionado en el apartado cuatro, en el que deberá realizarse en el mismo año en que se soporten las cuotas repercutidas.
+
+## Artículo 108. Concepto de bienes de inversión
+
+Artículo 108. Concepto de bienes de inversión
+
+Uno. A los efectos de este impuesto, se considerarán de inversión los bienes corporales, muebles, semovientes o inmuebles que, por su naturaleza y función, estén normalmente destinados a ser utilizados por un período de tiempo superior a un año como instrumentos de trabajo o medios de explotación.
+
+Dos. No tendrán la consideración de bienes de inversión:
+
+1.º Los accesorios y piezas de recambio adquiridos para la reparación de los bienes de inversión utilizados por el sujeto pasivo.
+
+2.º Las ejecuciones de obra para la reparación de otros bienes de inversión.
+
+3.º Los envases y embalajes, aunque sean susceptibles de reutilización.
+
+4.º Las ropas utilizadas para el trabajo por los sujetos pasivos o el personal dependiente.
+
+5.º Cualquier otro bien cuyo valor de adquisición sea inferior a quinientas mil pesetas.
+
+## Artículo 109. Procedimiento para practicar la regularización de deducciones por bienes de inversión
+
+Artículo 109. Procedimiento para practicar la regularización de deducciones por bienes de inversión
+
+La regularización de las deducciones a que se refiere el artículo 107 de esta Ley se realizará del siguiente modo:
+
+1.º Conocido el porcentaje de deducción definitivamente aplicable en cada uno de los años en que deba tener lugar la regularización, se determinará el importe de la deducción que procedería si la repercusión de las cuotas se hubiese soportado en el año que se considere.
+
+2.º Dicho importe se restará del de la deducción efectuada en el año en que tuvo lugar la repercusión.
+
+3.º La diferencia positiva o negativa se dividirá por cinco o, tratándose de terrenos o edificaciones, por diez, y el cociente resultante será la cuantía del ingreso o de la deducción complementarios a efectuar.
+
+## Artículo 110. Entregas de bienes de inversión durante el período de regularización
+
+Artículo 110. Entregas de bienes de inversión durante el período de regularización
+
+Uno. En los casos de entregas de bienes de inversión durante el período de regularización se efectuará una regularización única por el tiempo de dicho período que quede por transcurrir.
+
+A tal efecto, se aplicarán las siguientes reglas:
+
+1.º Si la entrega estuviere sujeta al impuesto y no exenta, se considerará que el bien de inversión se empleó exclusivamente en la realización de operaciones que originan el derecho a deducir durante todo el año en que se realizó dicha entrega y en los restantes hasta la expiración del período de regularización.
+
+No obstante, no será deducible la diferencia entre la cantidad que resulte de la aplicación de lo dispuesto en el párrafo anterior y el importe de la cuota devengada por la entrega del bien.
+
+2.º Si la entrega resultare exenta o no sujeta, se considerará que el bien de inversión se empleó exclusivamente en la realización de operaciones que no originan el derecho a deducir durante todo el año en que se realizó dicha entrega y en los restantes hasta la expiración del período de regularización.
+
+La regla establecida en el párrafo anterior también será de aplicación en los supuestos en que el sujeto pasivo destinase bienes de inversión a fines que, con arreglo a lo establecido en los artículos 95 y 96 de esta Ley, determinen la aplicación de limitaciones, exclusiones o restricciones del derecho a deducir, durante todo el año en que se produjesen dichas circunstancias y los restantes hasta la terminación del período de regularización.
+
+Se exceptúan de lo previsto en el primer párrafo de esta regla las entregas de bienes de inversión exentas o no sujetas que originen el derecho a la deducción, a las que se aplicará la regla primera. Las deducciones que procedan en este caso no podrán exceder de la cuota que resultaría de aplicar el tipo impositivo vigente en relación con las entregas de bienes de la misma naturaleza al valor interior de los bienes exportados o enviados a otro Estado miembro de la Comunidad.
+
+Dos. La regularización a que se refiere este artículo deberá practicarse incluso en el supuesto de que en los años anteriores no hubiere sido de aplicación la regla de prorrata.
+
+Tres. Lo dispuesto en este artículo será también de aplicación cuando los bienes de inversión se transmitiesen antes de su utilización por el sujeto pasivo.
+
+Cuatro. Lo dispuesto en este artículo no será de aplicación, en ningún caso, a las operaciones a que se refiere el artículo 7, número 1.º, de esta Ley.
+
+## Artículo 111. Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Artículo 111. Deducciones de las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Uno. Quienes no viniesen desarrollando con anterioridad actividades empresariales o profesionales y adquieran la condición de empresario o profesional por efectuar adquisiciones o importaciones de bienes o servicios con la intención, confirmada por elementos objetivos, de destinarlos a la realización de actividades de tal naturaleza, podrán deducir las cuotas que, con ocasión de dichas operaciones, soporten o satisfagan antes del momento en que inicien la realización habitual de las entregas de bienes o prestaciones de servicios correspondientes a dichas actividades, de acuerdo con lo dispuesto en este artículo y en los artículos 112 y 113 siguientes.
+
+Lo dispuesto en el párrafo anterior será igualmente aplicable a quienes, teniendo ya la condición de empresario o profesional por venir realizando actividades de tal naturaleza, inicien una nueva actividad empresarial o profesional que constituya un sector diferenciado respecto de las actividades que venían desarrollando con anterioridad.
+
+Dos. Las deducciones a las que se refiere el apartado anterior se practicarán aplicando el porcentaje que proponga el empresario o profesional a la Administración, salvo en el caso de que esta última fije uno diferente en atención a las características de las correspondientes actividades empresariales o profesionales.
+
+Tales deducciones se considerarán provisionales y estarán sometidas a las regularizaciones previstas en los artículos 112 y 113 de esta Ley.
+
+Tres. Los empresarios o profesionales podrán solicitar la devolución de las cuotas que sean deducibles en virtud de lo establecido en el presente artículo, con arreglo a lo dispuesto en el artículo 115 de esta Ley.
+
+Cuatro. Los empresarios que, en virtud de lo establecido en esta Ley, deban quedar sometidos al régimen especial del recargo de equivalencia desde el inicio de su actividad comercial, no podrán efectuar las deducciones a que se refiere este artículo en relación con las actividades incluidas en dicho régimen.
+
+Cinco. Los empresarios o profesionales que hubiesen practicado las deducciones a que se refiere este artículo no podrán acogerse al régimen especial de la agricultura, ganadería y pesca por las actividades en las que utilicen los bienes y servicios por cuya adquisición hayan soportado o satisfecho las cuotas objeto de deducción hasta que finalice el tercer año natural de realización de las entregas de bienes o prestaciones de servicios efectuadas en el desarrollo de dichas actividades.
+
+La aplicación de lo dispuesto en el párrafo anterior tendrá los mismos efectos que la renuncia al citado régimen especial.
+
+Seis. A efectos de lo dispuesto en este artículo y en los artículos 112 y 113 de esta Ley, se considerará primer año de realización de entregas de bienes o prestaciones de servicios en el desarrollo de actividades empresariales o profesionales, aquél durante el cual el empresario o profesional comience el ejercicio habitual de dichas operaciones, siempre que el inicio de las mismas tenga lugar antes del día 1 de julio y, en otro caso, el año siguiente.
+
+## Artículo 112. Regularización de las deducciones de las cuotas soportadas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Artículo 112. Regularización de las deducciones de las cuotas soportadas con anterioridad al inicio de la realización de entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Uno. Las deducciones provisionales a que se refiere el artículo 111 de esta Ley se regularizarán aplicando el porcentaje definitivo que globalmente corresponda al período de los cuatro primeros años naturales de realización de entregas de bienes o prestaciones de servicios efectuadas en el ejercicio de actividades empresariales o profesionales.
+
+Dos. El porcentaje definitivo a que se refiere el apartado anterior se determinará según lo dispuesto en el artículo 104 de esta Ley, computando al efecto el conjunto de las operaciones realizadas durante el período a que se refiere el citado apartado.
+
+Tres. La regularización de las deducciones a que se refiere este artículo se realizará del siguiente modo:
+
+1.º Conocido el porcentaje de deducción definitivamente aplicable a las cuotas soportadas o satisfechas con anterioridad al inicio de la realización de las entregas de bienes o prestaciones de servicios correspondientes a la actividad empresarial o profesional, se determinará el importe de la deducción que procedería en aplicación del mencionado porcentaje.
+
+2.º Dicho importe se restará de la suma total de las deducciones provisionales practicadas conforme a lo dispuesto por el artículo 111 de esta Ley.
+
+3.º La diferencia, positiva o negativa, será la cuantía del ingreso o de la deducción complementaria a efectuar.
+
+## Artículo 113. Regularización de las cuotas correspondientes a bienes de inversión, soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Artículo 113. Regularización de las cuotas correspondientes a bienes de inversión, soportadas con anterioridad al inicio de la realización de las entregas de bienes o prestaciones de servicios correspondientes a actividades empresariales o profesionales
+
+Uno. Las deducciones provisionales a que se refiere el artículo 111 de esta Ley correspondientes a cuotas soportadas o satisfechas por la adquisición o importación de bienes de inversión, una vez regularizadas con arreglo a lo dispuesto en el artículo anterior, deberán ser objeto de la regularización prevista en el artículo 107 de esta misma Ley durante los años del período de regularización que queden por transcurrir.
+
+Dos. Para la práctica de las regularizaciones previstas en este artículo, se considerará deducción efectuada el año en que tuvo lugar la repercusión a efectos de lo dispuesto en el artículo 109, número 2.º de esta Ley, la que resulte del porcentaje de deducción definitivamente aplicable en virtud de lo establecido en el apartado uno del artículo 112 de esta misma Ley.
+
+Tres. Cuando los bienes de inversión a que se refiere este artículo sean objeto de entrega antes de la terminación del período de regularización a que se refiere el mismo, se aplicarán las reglas del artículo 110 de esta Ley, sin perjuicio de lo previsto en los artículos 111 y 112 de la misma y en los apartados anteriores de este artículo.
+
+## Artículo 114. Rectificación de deducciones
+
+Artículo 114. Rectificación de deducciones
+
+Uno. Los sujetos pasivos, cuando no haya mediado requerimiento previo, podrán rectificar las deducciones practicadas cuando el importe de las mismas se hubiese determinado incorrectamente o el importe de las cuotas soportadas haya sido objeto de rectificación de acuerdo con lo dispuesto en el artículo 89 de esta Ley.
+
+La rectificación de las deducciones será obligatoria cuando implique una minoración del importe inicialmente deducido.
+
+Dos. La rectificación de deducciones originada por la previa rectificación del importe de las cuotas inicialmente soportadas se efectuará de la siguiente forma:
+
+1.º Cuando la rectificación determine un incremento del importe de las cuotas inicialmente deducidas, podrá efectuarse en la declaración-liquidación correspondiente al período impositivo en que el sujeto pasivo reciba el documento justificativo del derecho a deducir en el que se rectifiquen las cuotas inicialmente repercutidas, o bien en las declaraciones-liquidaciones siguientes, siempre que no hubiesen transcurrido cuatro años desde el devengo de la operación o, en su caso, desde la fecha en que se hayan producido las circunstancias que determinan la modificación de la base imponible de la operación.
+
+Sin perjuicio de lo anterior, en los supuestos en que la rectificación de las cuotas inicialmente soportadas hubiese estado motivado por causa distinta de las previstas en el artículo 80 de esta Ley, no podrá efectuarse la rectificación de la deducción de las mismas después de transcurrido un año desde la fecha de expedición del documento justificativo del derecho a deducir por el que se rectifican dichas cuotas.
+
+2.º Cuando la rectificación determine una minoración del importe de las cuotas inicialmente deducidas, el sujeto pasivo deberá presentar una declaración-liquidación rectificativa aplicándose a la misma el recargo y los intereses de demora que procedan de conformidad con lo previsto en los artículos 26 y 27 de la Ley General Tributaria.
+
+Tratándose del supuesto previsto en el artículo 80.Tres de esta Ley, la rectificación deberá efectuarse en la declaración-liquidación correspondiente al periodo en que se ejerció el derecho a la deducción de las cuotas soportadas, sin que proceda la aplicación de recargos ni de intereses de demora.
+
+En los supuestos en que la operación gravada quede sin efecto como consecuencia del ejercicio de una acción de reintegración concursal u otras de impugnación ejercitadas en el seno del concurso, si el comprador o adquirente inicial se encuentra también en situación de concurso, deberá proceder a la rectificación de las cuotas inicialmente deducidas en la declaración-liquidación correspondiente al periodo en que se ejerció el derecho a la deducción de las cuotas soportadas, sin que proceda la aplicación de recargos ni de intereses de demora.
+
+No obstante, cuando la rectificación tenga su origen en un error fundado de derecho o en las restantes causas del artículo 80 de esta Ley deberá efectuarse en la declaración-liquidación correspondiente al periodo impositivo en que el sujeto pasivo reciba el documento justificativo del derecho a deducir en el que se rectifiquen las cuotas inicialmente soportadas.
