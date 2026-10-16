@@ -191,7 +191,7 @@ El archivo `docker-compose.yml` aprovisiona automáticamente el entorno completo
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/chat_autonomos.git
+git clone https://github.com/davaaes/chat_autonomos.git
 cd chat_autonomos
 
 # 2. Levantar el stack completo (Ollama + Descarga de Modelos + Servidor Starlette)
